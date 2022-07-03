@@ -1,7 +1,7 @@
 USE Test
 
 --Pho diem Toan
-SELECT Toan, COUNT(STT)
+SELECT Toan, COUNT(STT) 'SoLuong'
 FROM DSHCM
 WHERE Toan IS NOT NULL
 GROUP BY Toan
@@ -14,16 +14,19 @@ FROM DSHCM
 --Trung vi 5.3
 
 --Phuong sai 6.26
+DECLARE @DiemTB float
+SELECT @DiemTB=AVG(Toan)  
+FROM DSHCM
 CREATE TABLE #Temp(Diem float)
 INSERT INTO #Temp
-SELECT POWER(Toan-AVG(Toan), 2)
+SELECT POWER(Toan-@DiemTB, 2)
 FROM DSHCM
 GROUP BY Toan
 
 SELECT SUM(Diem)/(COUNT (Diem)-1) 
 FROM #Temp
 
---Do lech chuan 2.5
+--Do lech chuan 3.53
 SELECT SQRT(SUM(Diem)/(COUNT (Diem)-1)) 
 FROM #Temp
 
@@ -34,30 +37,130 @@ WHERE Toan IS NOT NULL
 GROUP BY Toan
 Order by COUNT(STT) DESC
 
---Pho diem Van
-SELECT Nguvan, COUNT(STT)
+DROP TABLE #Temp
+
+----------------------------------------
+CREATE TABLE #TempKHTN(Diem float, SoLuong int)
+INSERT INTO #TempKHTN
+SELECT Toan, COUNT(STT) --Toan
+FROM DSHCM
+WHERE Toan IS NOT NULL
+GROUP BY Toan
+UNION ALL
+SELECT Nguvan, COUNT(STT) --Ngu van
 FROM DSHCM
 WHERE Nguvan IS NOT NULL
 GROUP BY Nguvan
-Order by Nguvan
-
---Pho diem Ngoai ngu
-SELECT Ngoaingu, COUNT(STT)
+UNION ALL
+SELECT Ngoaingu, COUNT(STT) --Ngoai ngu
 FROM DSHCM
-WHERE Ngoaingu IS NOT NULL
+WHERE Ngoaingu IS NOT NULL 
 GROUP BY Ngoaingu
-Order by Ngoaingu
-
---Pho diem KHXH
-SELECT KHXH, COUNT(STT)
-FROM DSHCM
-WHERE KHXH IS NOT NULL
-GROUP BY KHXH
-Order by KHXH
-
---Pho diem KHTN
-SELECT KHTN, COUNT(STT)
+UNION ALL
+SELECT KHTN, COUNT(STT) --KHTN
 FROM DSHCM
 WHERE KHTN IS NOT NULL
 GROUP BY KHTN
-Order by KHTN
+
+--Pho diem tong cong KHTN
+SELECT Diem, SUM(SoLuong) 'SoLuong'
+FROM #TempKHTN
+GROUP BY Diem
+ORDER BY Diem
+
+--Trung binh 5.59
+SELECT AVG(Diem)
+FROM #TempKHTN
+
+--Trung vi 5.81
+
+--Phuong sai 5.3
+DECLARE @DiemTB float
+SELECT @DiemTB=AVG(Diem)
+FROM #TempKHTN
+CREATE TABLE #Temp(Diem float)
+INSERT INTO #Temp
+SELECT POWER(Diem-@DiemTB, 2)
+FROM #TempKHTN
+GROUP BY Diem
+
+SELECT SUM(Diem)/(COUNT (Diem)-1) 
+FROM #Temp
+
+--Do lech chuan 2.3
+SELECT SQRT(SUM(Diem)/(COUNT (Diem)-1)) 
+FROM #Temp
+
+--Mode 7
+SELECT TOP 1 Diem
+FROM #TempKHTN
+WHERE Diem IS NOT NULL
+GROUP BY Diem
+Order by Sum(SoLuong) DESC
+
+DROP TABLE #Temp
+DROP TABLE #TempKHTN
+----------------------------------------
+
+
+----------------------------------------
+CREATE TABLE #TempKHXH(Diem float, SoLuong int)
+INSERT INTO #TempKHXH
+SELECT Toan, COUNT(STT) --Toan
+FROM DSHCM
+WHERE Toan IS NOT NULL
+GROUP BY Toan
+UNION ALL
+SELECT Nguvan, COUNT(STT) --Ngu van
+FROM DSHCM
+WHERE Nguvan IS NOT NULL
+GROUP BY Nguvan
+UNION ALL
+SELECT Ngoaingu, COUNT(STT) --Ngoai ngu
+FROM DSHCM
+WHERE Ngoaingu IS NOT NULL
+GROUP BY Ngoaingu
+UNION ALL
+SELECT KHXH, COUNT(STT) --KHXH
+FROM DSHCM
+WHERE KHXH IS NOT NULL
+GROUP BY KHXH
+
+--Pho diem tong cong KHXH
+SELECT Diem, SUM(SoLuong) 'SoLuong'
+FROM #TempKHXH
+GROUP BY Diem
+ORDER BY Diem
+
+--Trung Binh 5.71
+SELECT AVG(Diem)
+FROM #TempKHXH
+
+--Trung vi 5.97
+
+--Phuong sai 5.47
+DECLARE @DiemTB float
+SELECT @DiemTB=AVG(Diem)
+FROM #TempKHXH
+CREATE TABLE #Temp(Diem float)
+INSERT INTO #Temp
+SELECT POWER(Diem-@DiemTB, 2)
+FROM #TempKHXH
+GROUP BY Diem
+
+SELECT SUM(Diem)/(COUNT (Diem)-1) 
+FROM #Temp
+
+--Do lech chuan 2.33
+SELECT SQRT(SUM(Diem)/(COUNT (Diem)-1)) 
+FROM #Temp
+
+--Mode 7
+SELECT TOP 1 Diem
+FROM #TempKHXH
+WHERE Diem IS NOT NULL
+GROUP BY Diem
+Order by Sum(SoLuong) DESC
+
+DROP TABLE #Temp
+DROP TABLE #TempKHXH
