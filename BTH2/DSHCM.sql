@@ -164,3 +164,45 @@ Order by Sum(SoLuong) DESC
 
 DROP TABLE #Temp
 DROP TABLE #TempKHXH
+----------------------------------------
+
+
+----------------------------------------
+DECLARE @KQ TABLE 
+(
+	[STT] [int],
+	[Code] [int],
+	[Diali] [float],
+	[GDCD] [float],
+	[Hoahoc] [float],
+	[KHTN] [float],
+	[KHXH] [float],
+	[LichSu] [float],
+	[Ngoaingu] [float],
+	[Nguvan] [float],
+	[Sinhhoc] [float],
+	[Toan] [float],
+	[Vatli] [float],
+	[City] [smallint],
+	DiemTB float,
+	DiemMin float
+)
+
+INSERT INTO @KQ
+SELECT *, ROUND((
+				SELECT AVG(c)
+				FROM (VALUES(Diali),(GDCD),(Hoahoc),(LichSu),(Ngoaingu),(Nguvan),(Sinhhoc),(Toan),(Vatli)) T (c)
+			), 2),
+		ROUND((
+			SELECT Min(c)
+			FROM (VALUES(Diali),(GDCD),(Hoahoc),(LichSu),(Ngoaingu),(Nguvan),(Sinhhoc),(Toan),(Vatli)) T (c)
+		), 2)
+FROM DSHCM
+
+SELECT *, (CASE
+				WHEN DiemTB >= 8 AND DiemMin >= 7 THEN 'Gioi'
+				WHEN DiemTB >= 6.5 AND DiemMin >= 6 THEN 'Kha'
+				WHEN DiemTB >= 5 AND DiemMin >= 1 THEN 'Trung binh'
+				ELSE 'Khong tot nghiep'
+			END)
+FROM @KQ
