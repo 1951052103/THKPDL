@@ -168,7 +168,7 @@ DROP TABLE #TempKHXH
 
 
 ----------------------------------------
-DECLARE @KQ TABLE 
+CREATE TABLE #Temp1
 (
 	[STT] [int],
 	[Code] [int],
@@ -188,7 +188,7 @@ DECLARE @KQ TABLE
 	DiemMin float
 )
 
-INSERT INTO @KQ
+INSERT INTO #Temp1
 SELECT *, ROUND((
 				SELECT AVG(c)
 				FROM (VALUES(Diali),(GDCD),(Hoahoc),(LichSu),(Ngoaingu),(Nguvan),(Sinhhoc),(Toan),(Vatli)) T (c)
@@ -199,10 +199,26 @@ SELECT *, ROUND((
 		), 2)
 FROM DSHCM
 
-SELECT *, (CASE
+CREATE TABLE #Temp2
+(
+	STT int,
+	DiemTB float,
+	DiemMin float,
+	XepLoai NVARCHAR(50)
+)
+
+INSERT INTO #Temp2
+SELECT STT, DiemTB, DiemMin, (CASE
 				WHEN DiemTB >= 8 AND DiemMin >= 7 THEN 'Gioi'
 				WHEN DiemTB >= 6.5 AND DiemMin >= 6 THEN 'Kha'
-				WHEN DiemTB >= 5 AND DiemMin >= 1 THEN 'Trung binh'
+				WHEN DiemTB >= 4 AND DiemMin >= 1 THEN 'Trung binh'
 				ELSE 'Khong tot nghiep'
-			END)
-FROM @KQ
+			END) AS 'XepLoai'
+FROM #Temp1
+
+SELECT XepLoai, COUNT(STT) 'SoLuong'
+FROM #Temp2
+GROUP BY XepLoai
+
+DROP TABLE #Temp1
+DROP TABLE #Temp2
