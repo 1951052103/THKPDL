@@ -6,7 +6,7 @@ a.sort()
 min = min(a)
 max = max(a)
 
-k = 4
+k = 2
 
 if(k > 0):
     size = math.ceil((max - min) / k)

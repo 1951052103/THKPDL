@@ -1,0 +1,201 @@
+Age,Gender,MaritalStatus,EducationLevel,EducationBackground,JobRole,EnvironmentSatisfaction,RelationshipSatisfaction,WorkLifeBalance,TotalWorkExperienceInYears,ExperienceYearsInCurrentRole,PerformanceResult
+Main labor group,Male,Married,College,Medical,Developer,Low,High,Better,Copper range,Copper range,Meet Expectation
+Main labor group,Female,Single,Bachelor,Life Sciences,Technical Lead,Very High,Medium,Better,Gold range,Gold range,Meet Expectation
+Middle-aged labor group,Male,Divorced,Bachelor,Life Sciences,Developer,Very High,Very High,Bad,Gold range,no exps,Meet Expectation
+Main labor group,Male,Divorced,Master,Life Sciences,Developer,Very High,Medium,Better,Silver range,Copper range,Meet Expectation
+Main labor group,Male,Divorced,Master,Medical,Data Scientist,Low,Very High,Better,Copper range,Copper range,Meet Expectation
+Main labor group,Female,Single,College,Life Sciences,Technical Lead,Very High,Very High,Better,Copper range,Copper range,Exceed Expectation
+Middle-aged labor group,Female,Single,Master,Life Sciences,Developer,High,Very High,Better,Diamond range,Copper range,Meet Expectation
+Main labor group,Female,Divorced,Bachelor,Marketing,Sales Representative,Very High,High,Good,Copper range,Copper range,Meet Expectation
+Main labor group,Male,Single,Master,Marketing,Sales Executive,Very High,Medium,Better,Silver range,Silver range,Meet Expectation
+Main labor group,Male,Married,Bachelor,Medical,Developer,Medium,High,Good,Copper range,Copper range,Needs Improvement
+Middle-aged labor group,Female,Married,Bachelor,Marketing,Sales Executive,High,Very High,Best,Diamond range,Copper range,Meet Expectation
+Young labor group,Male,Single,Bachelor,Life Sciences,Developer,High,High,Better,no exps,no exps,Meet Expectation
+Main labor group,Male,Married,Bachelor,Marketing,Sales Executive,High,High,Good,Gold range,Silver range,Meet Expectation
+Main labor group,Male,Married,Master,Life Sciences,Developer,High,Very High,Better,Copper range,no exps,Meet Expectation
+Old labor group,Male,Divorced,Bachelor,Medical,Technical Lead,Very High,Very High,Better,Gold range,Copper range,Meet Expectation
+Middle-aged labor group,Male,Single,Master,Life Sciences,Manager,Very High,Medium,Better,Diamond range,Silver range,Meet Expectation
+Young labor group,Female,Single,Bachelor,Medical,Sales Representative,Very High,Low,Better,no exps,no exps,Meet Expectation
+Main labor group,Male,Single,College,Medical,Data Scientist,Medium,High,Better,Silver range,Copper range,Meet Expectation
+Main labor group,Male,Divorced,Bachelor,Medical,Technical Lead,High,Low,Good,Gold range,Silver range,Meet Expectation
+Main labor group,Female,Married,Master,Life Sciences,Technical Lead,Medium,High,Better,Gold range,Silver range,Meet Expectation
+Main labor group,Male,Married,Bachelor,Life Sciences,Sales Executive,Very High,High,Good,Gold range,Silver range,Meet Expectation
+Main labor group,Female,Married,College,Life Sciences,Developer,Low,High,Better,Gold range,Silver range,Meet Expectation
+Main labor group,Male,Married,Master,Technical Degree,Developer,High,High,Better,Silver range,Copper range,Meet Expectation
+Main labor group,Male,Married,Bachelor,Human Resources,Human Resources,Low,Very High,Better,Silver range,Copper range,Needs Improvement
+Middle-aged labor group,Male,Divorced,Bachelor,Life Sciences,Technical Lead,Low,Low,Better,Diamond range,Silver range,Meet Expectation
+Main labor group,Male,Divorced,Master,Life Sciences,Developer,High,Medium,Bad,Copper range,Copper range,Meet Expectation
+Main labor group,Female,Married,Master,Life Sciences,Developer,Very High,Medium,Better,Gold range,Silver range,Meet Expectation
+Main labor group,Male,Married,Below College,Medical,Developer,High,Very High,Better,Diamond range,Silver range,Meet Expectation
+Middle-aged labor group,Female,Single,Master,Life Sciences,Developer,High,Low,Better,Silver range,Silver range,Meet Expectation
+Middle-aged labor group,Female,Single,College,Technical Degree,Technical Lead,High,Very High,Better,Diamond range,Copper range,Meet Expectation
+Main labor group,Female,Single,Bachelor,Life Sciences,Technical Lead,High,Medium,Good,Copper range,Copper range,Meet Expectation
+Main labor group,Female,Married,College,Technical Degree,Sales Executive,High,Very High,Better,Gold range,Gold range,Meet Expectation
+Main labor group,Male,Single,Bachelor,Life Sciences,Sales Executive,Very High,Low,Better,Copper range,Copper range,Meet Expectation
+Main labor group,Male,Divorced,Bachelor,Marketing,Sales Executive,Very High,Very High,Better,Gold range,Silver range,Meet Expectation
+Main labor group,Female,Single,Master,Medical,Technical Lead,Low,High,Good,Silver range,Silver range,Meet Expectation
+Main labor group,Female,Married,College,Medical,Delivery Manager,Very High,Very High,Better,Gold range,Silver range,Meet Expectation
+Main labor group,Male,Married,College,Medical,Developer,High,Low,Better,Diamond range,Silver range,Meet Expectation
+Main labor group,Female,Married,College,Medical,Sales Executive,Very High,Low,Good,Gold range,no exps,Meet Expectation
+Main labor group,Male,Single,Bachelor,Marketing,Sales Executive,Medium,High,Good,Silver range,Silver range,Exceed Expectation
+Middle-aged labor group,Male,Married,Doctor,Life Sciences,Data Scientist,Very High,Medium,Better,Diamond range,Copper range,Meet Expectation
+Main labor group,Male,Married,Below College,Marketing,Sales Executive,High,Very High,Better,Silver range,Copper range,Meet Expectation
+Middle-aged labor group,Female,Married,Bachelor,Life Sciences,Delivery Manager,High,Low,Good,Silver range,no exps,Meet Expectation
+Middle-aged labor group,Male,Married,Master,Other,Developer,Very High,Low,Better,Gold range,Silver range,Meet Expectation
+Main labor group,Male,Married,College,Medical,Sales Executive,Medium,High,Good,Silver range,Copper range,Meet Expectation
+Main labor group,Male,Married,Master,Other,Developer,Medium,Very High,Good,Silver range,Silver range,Meet Expectation
+Main labor group,Female,Divorced,Bachelor,Marketing,Sales Executive,Very High,High,Better,Silver range,Silver range,Meet Expectation
+Main labor group,Female,Married,Master,Marketing,Sales Executive,Medium,Low,Better,Silver range,Silver range,Meet Expectation
+Main labor group,Male,Divorced,College,Medical,Delivery Manager,Very High,High,Good,Silver range,Copper range,Meet Expectation
+Main labor group,Male,Divorced,College,Life Sciences,Developer,High,Medium,Better,Gold range,Silver range,Meet Expectation
+Main labor group,Female,Single,Master,Medical,Delivery Manager,High,High,Good,Gold range,Silver range,Meet Expectation
+Main labor group,Female,Divorced,Below College,Marketing,Sales Executive,Very High,Low,Better,Silver range,Silver range,Meet Expectation
+Main labor group,Male,Single,Master,Technical Degree,Delivery Manager,High,Very High,Better,Gold range,Silver range,Meet Expectation
+Middle-aged labor group,Male,Single,Bachelor,Medical,Developer,Very High,Very High,Better,Silver range,Copper range,Meet Expectation
+Middle-aged labor group,Male,Single,Below College,Medical,Sales Representative,Medium,Low,Better,Copper range,no exps,Meet Expectation
+Middle-aged labor group,Female,Single,Doctor,Life Sciences,Developer,Low,Medium,Better,Gold range,no exps,Meet Expectation
+Main labor group,Male,Married,Bachelor,Life Sciences,Sales Executive,Very High,Low,Good,Copper range,Copper range,Meet Expectation
+Middle-aged labor group,Male,Divorced,Below College,Technical Degree,Human Resources,High,High,Better,Copper range,Copper range,Meet Expectation
+Main labor group,Male,Divorced,Bachelor,Medical,Delivery Manager,High,Low,Better,Gold range,Silver range,Meet Expectation
+Main labor group,Male,Married,Bachelor,Life Sciences,Sales Executive,High,Medium,Better,Silver range,Silver range,Meet Expectation
+Young labor group,Female,Single,Below College,Technical Degree,Sales Representative,Low,High,Better,Copper range,Copper range,Needs Improvement
+Main labor group,Female,Single,Doctor,Medical,Sales Executive,Very High,Medium,Better,Silver range,no exps,Meet Expectation
+Main labor group,Male,Married,Master,Medical,Sales Executive,Low,Low,Better,Gold range,Silver range,Needs Improvement
+Old labor group,Male,Married,Master,Medical,Developer,Very High,High,Better,Gold range,Copper range,Meet Expectation
+Main labor group,Female,Married,Master,Life Sciences,Delivery Manager,Very High,High,Better,Silver range,Silver range,Meet Expectation
+Young labor group,Male,Single,College,Medical,Sales Representative,Low,High,Good,Copper range,Copper range,Needs Improvement
+Middle-aged labor group,Male,Single,Bachelor,Marketing,Sales Executive,Low,High,Better,Silver range,Silver range,Needs Improvement
+Main labor group,Male,Married,College,Marketing,Sales Executive,High,Low,Better,Silver range,Copper range,Meet Expectation
+Main labor group,Male,Single,Master,Life Sciences,Developer,High,Very High,Better,Copper range,Copper range,Meet Expectation
+Young labor group,Female,Single,Bachelor,Life Sciences,Sales Representative,High,Very High,Better,Copper range,no exps,Meet Expectation
+Main labor group,Male,Single,Bachelor,Life Sciences,Delivery Manager,Very High,Very High,Better,Silver range,Copper range,Meet Expectation
+Main labor group,Male,Single,Master,Life Sciences,Developer,High,High,Better,Silver range,Copper range,Meet Expectation
+Main labor group,Male,Divorced,College,Medical,Data Scientist,Very High,Medium,Better,Copper range,Copper range,Meet Expectation
+Main labor group,Male,Single,Master,Life Sciences,Sales Executive,Medium,Very High,Better,Silver range,Copper range,Meet Expectation
+Middle-aged labor group,Male,Single,Bachelor,Other,Delivery Manager,Medium,High,Better,Diamond range,Copper range,Meet Expectation
+Old labor group,Female,Married,College,Life Sciences,Sales Executive,High,High,Good,Gold range,Silver range,Meet Expectation
+Main labor group,Female,Married,Bachelor,Life Sciences,Developer,Very High,Medium,Better,Silver range,Copper range,Meet Expectation
+Main labor group,Male,Single,Bachelor,Marketing,Sales Executive,Low,Medium,Good,Silver range,Copper range,Meet Expectation
+Old labor group,Female,Single,Bachelor,Life Sciences,Delivery Manager,High,High,Better,Diamond range,Copper range,Meet Expectation
+Main labor group,Male,Married,Below College,Technical Degree,Sales Representative,High,Low,Better,Copper range,no exps,Meet Expectation
+Main labor group,Male,Single,Below College,Technical Degree,Developer,High,High,Better,Silver range,Copper range,Exceed Expectation
+Young labor group,Female,Married,Bachelor,Medical,Developer,Low,Very High,Better,Copper range,Copper range,Meet Expectation
+Main labor group,Male,Married,College,Medical,Sales Executive,Medium,Medium,Better,Silver range,Silver range,Needs Improvement
+Main labor group,Male,Single,Bachelor,Technical Degree,Developer,High,High,Better,Copper range,no exps,Exceed Expectation
+Main labor group,Female,Divorced,Bachelor,Life Sciences,Delivery Manager,Very High,High,Good,Gold range,Silver range,Meet Expectation
+Main labor group,Female,Divorced,College,Marketing,Sales Executive,Very High,High,Better,Silver range,Copper range,Meet Expectation
+Main labor group,Male,Single,Master,Life Sciences,Delivery Manager,High,Very High,Good,Gold range,no exps,Meet Expectation
+Middle-aged labor group,Male,Divorced,Bachelor,Life Sciences,Developer,Low,High,Better,Diamond range,Silver range,Needs Improvement
+Main labor group,Female,Married,Bachelor,Medical,Developer,Medium,Medium,Better,Gold range,no exps,Exceed Expectation
+Old labor group,Male,Married,College,Medical,Developer,Low,High,Good,Diamond range,Copper range,Meet Expectation
+Main labor group,Female,Married,College,Medical,Developer,Medium,Medium,Bad,Gold range,Silver range,Meet Expectation
+Middle-aged labor group,Male,Married,Bachelor,Medical,Developer,Very High,Low,Better,Silver range,Copper range,Exceed Expectation
+Main labor group,Female,Single,College,Life Sciences,Sales Executive,Medium,Medium,Better,Copper range,Copper range,Needs Improvement
+Main labor group,Female,Married,Doctor,Medical,Senior Developer,Medium,Low,Better,Gold range,Gold range,Meet Expectation
+Main labor group,Male,Married,College,Life Sciences,Developer,Very High,High,Better,Copper range,Copper range,Meet Expectation
+Main labor group,Male,Divorced,Below College,Life Sciences,Senior Developer,Medium,High,Better,Diamond range,Silver range,Needs Improvement
+Main labor group,Female,Single,Bachelor,Technical Degree,Sales Executive,Medium,Medium,Better,Silver range,Copper range,Needs Improvement
+Middle-aged labor group,Male,Married,Bachelor,Marketing,Sales Executive,Medium,High,Better,Silver range,Silver range,Meet Expectation
+Main labor group,Male,Divorced,College,Medical,Senior Developer,High,Very High,Better,Silver range,no exps,Meet Expectation
+Main labor group,Male,Married,Bachelor,Medical,Developer,Low,High,Better,Silver range,Copper range,Meet Expectation
+Old labor group,Male,Married,Bachelor,Medical,Developer,Very High,High,Better,Diamond range,Copper range,Meet Expectation
+Middle-aged labor group,Male,Married,College,Life Sciences,Developer,Low,Very High,Good,Silver range,Copper range,Meet Expectation
+Old labor group,Female,Married,College,Life Sciences,Data Scientist,Very High,Very High,Bad,Diamond range,Copper range,Meet Expectation
+Middle-aged labor group,Female,Divorced,College,Life Sciences,Developer,Low,Medium,Better,Gold range,Copper range,Meet Expectation
+Main labor group,Female,Single,Bachelor,Life Sciences,Developer,High,High,Better,Gold range,Copper range,Exceed Expectation
+Old labor group,Female,Married,Bachelor,Life Sciences,Developer,Low,Very High,Bad,Diamond range,Silver range,Meet Expectation
+Middle-aged labor group,Female,Divorced,Bachelor,Medical,Data Scientist,High,High,Good,Gold range,Silver range,Meet Expectation
+Young labor group,Female,Single,Below College,Technical Degree,Sales Representative,Low,Medium,Better,Silver range,Copper range,Meet Expectation
+Main labor group,Female,Divorced,College,Marketing,Sales Representative,Very High,Very High,Good,Copper range,Copper range,Meet Expectation
+Main labor group,Male,Married,College,Life Sciences,Data Scientist,Very High,High,Better,Copper range,no exps,Exceed Expectation
+Main labor group,Female,Married,Master,Life Sciences,Manager,High,Very High,Better,Diamond range,Gold range,Meet Expectation
+Main labor group,Female,Divorced,Bachelor,Life Sciences,Senior Developer,Low,Medium,Bad,Copper range,Copper range,Meet Expectation
+Main labor group,Male,Married,Bachelor,Life Sciences,Senior Developer,High,High,Bad,Silver range,Copper range,Meet Expectation
+Main labor group,Male,Married,Master,Medical,Developer,Medium,High,Better,Silver range,Copper range,Meet Expectation
+Main labor group,Female,Married,Doctor,Technical Degree,Developer,High,Medium,Best,Silver range,Copper range,Meet Expectation
+Young labor group,Male,Single,College,Technical Degree,Human Resources,Low,High,Best,Copper range,no exps,Meet Expectation
+Main labor group,Female,Married,Master,Other,Sales Executive,High,High,Better,Silver range,Silver range,Meet Expectation
+Old labor group,Male,Divorced,Bachelor,Marketing,Manager,Low,High,Good,Diamond range,no exps,Meet Expectation
+Middle-aged labor group,Male,Married,Master,Life Sciences,Senior Developer,Medium,Medium,Better,Diamond range,Silver range,Meet Expectation
+Middle-aged labor group,Female,Divorced,College,Medical,Developer,Low,High,Better,Gold range,no exps,Meet Expectation
+Middle-aged labor group,Male,Married,Bachelor,Life Sciences,Senior Developer,Low,High,Bad,Diamond range,Copper range,Meet Expectation
+Main labor group,Male,Single,Bachelor,Life Sciences,Developer,Very High,High,Better,Silver range,Copper range,Meet Expectation
+Old labor group,Female,Single,Master,Life Sciences,Developer,High,High,Better,Gold range,no exps,Meet Expectation
+Main labor group,Male,Divorced,Master,Life Sciences,Senior Developer,Very High,High,Better,Gold range,Copper range,Meet Expectation
+Middle-aged labor group,Female,Married,Bachelor,Marketing,Sales Executive,High,High,Better,Gold range,Copper range,Meet Expectation
+Main labor group,Male,Divorced,Below College,Life Sciences,Senior Developer,High,Very High,Best,Gold range,Silver range,Meet Expectation
+Main labor group,Male,Married,Below College,Medical,Senior Developer,Medium,Very High,Best,Gold range,Silver range,Needs Improvement
+Main labor group,Male,Divorced,Below College,Medical,Developer,Low,Low,Better,Silver range,Copper range,Meet Expectation
+Main labor group,Male,Single,Below College,Marketing,Sales Representative,Very High,Low,Better,Copper range,Copper range,Meet Expectation
+Main labor group,Male,Married,Bachelor,Life Sciences,Senior Developer,Very High,High,Better,Silver range,Silver range,Meet Expectation
+Main labor group,Male,Married,Bachelor,Life Sciences,Developer,Low,Low,Better,Gold range,no exps,Meet Expectation
+Main labor group,Female,Divorced,Bachelor,Human Resources,Human Resources,Medium,High,Better,Gold range,Copper range,Meet Expectation
+Middle-aged labor group,Male,Married,College,Other,Data Scientist,Medium,Very High,Better,Silver range,Copper range,Meet Expectation
+Main labor group,Male,Single,Master,Medical,Sales Executive,Medium,Very High,Good,Silver range,Copper range,Needs Improvement
+Young labor group,Male,Single,Below College,Technical Degree,Senior Developer,High,High,Better,Copper range,Copper range,Meet Expectation
+Middle-aged labor group,Female,Married,Doctor,Marketing,Sales Executive,Medium,Low,Better,Gold range,Silver range,Needs Improvement
+Old labor group,Female,Single,Doctor,Life Sciences,Manager,Low,Very High,Better,Diamond range,Silver range,Needs Improvement
+Middle-aged labor group,Male,Single,College,Life Sciences,Sales Executive,Very High,Very High,Better,Gold range,Copper range,Meet Expectation
+Main labor group,Male,Married,Bachelor,Marketing,Sales Executive,Medium,High,Better,Gold range,Silver range,Needs Improvement
+Main labor group,Female,Married,Below College,Life Sciences,Developer,High,Low,Better,Silver range,Copper range,Meet Expectation
+Main labor group,Male,Single,Below College,Life Sciences,Sales Executive,Medium,High,Best,Silver range,Copper range,Meet Expectation
+Middle-aged labor group,Male,Married,Bachelor,Medical,Developer,Very High,Very High,Good,Silver range,Silver range,Exceed Expectation
+Middle-aged labor group,Male,Married,Bachelor,Other,Sales Executive,Very High,Medium,Best,Silver range,Silver range,Meet Expectation
+Main labor group,Female,Divorced,Doctor,Medical,Developer,Low,High,Better,Silver range,Copper range,Meet Expectation
+Main labor group,Male,Divorced,Bachelor,Life Sciences,Manager,High,High,Good,Silver range,Copper range,Exceed Expectation
+Young labor group,Male,Single,Bachelor,Marketing,Sales Representative,Medium,Very High,Better,no exps,no exps,Meet Expectation
+Main labor group,Male,Divorced,Bachelor,Other,Sales Executive,High,High,Better,Gold range,no exps,Meet Expectation
+Middle-aged labor group,Female,Single,Master,Other,Developer,Low,Low,Better,Silver range,Silver range,Meet Expectation
+Main labor group,Female,Single,Bachelor,Medical,Sales Executive,Low,Very High,Better,Copper range,Copper range,Meet Expectation
+Main labor group,Male,Single,Master,Life Sciences,Sales Executive,Very High,Very High,Better,Silver range,Silver range,Meet Expectation
+Main labor group,Male,Single,Bachelor,Technical Degree,Developer,High,Medium,Bad,Copper range,no exps,Meet Expectation
+Main labor group,Female,Single,Bachelor,Technical Degree,Developer,Medium,Very High,Best,Gold range,Copper range,Exceed Expectation
+Middle-aged labor group,Female,Married,Below College,Medical,Senior Developer,Low,Very High,Good,Diamond range,Copper range,Needs Improvement
+Middle-aged labor group,Female,Married,Doctor,Life Sciences,Manager,Medium,Medium,Better,Diamond range,Gold range,Needs Improvement
+Old labor group,Male,Divorced,College,Technical Degree,Developer,Very High,Medium,Better,Gold range,Silver range,Meet Expectation
+Main labor group,Female,Married,Bachelor,Medical,Data Scientist,High,High,Better,Gold range,no exps,Meet Expectation
+Main labor group,Female,Married,Master,Life Sciences,Developer,Medium,Medium,Good,Silver range,Copper range,Meet Expectation
+Middle-aged labor group,Male,Divorced,Master,Life Sciences,Senior Developer,Very High,High,Better,Diamond range,Silver range,Meet Expectation
+Young labor group,Male,Married,Bachelor,Medical,Developer,Medium,Medium,Better,Silver range,Copper range,Meet Expectation
+Main labor group,Male,Married,College,Marketing,Sales Executive,Low,Very High,Best,Silver range,Copper range,Meet Expectation
+Young labor group,Male,Married,College,Other,Developer,Very High,Very High,Better,Copper range,no exps,Exceed Expectation
+Middle-aged labor group,Male,Married,Bachelor,Medical,Manager,Low,High,Better,Diamond range,Copper range,Needs Improvement
+Main labor group,Male,Married,Below College,Medical,Sales Representative,Medium,High,Better,Silver range,Copper range,Meet Expectation
+Young labor group,Female,Married,Bachelor,Life Sciences,Senior Developer,Low,Very High,Better,Silver range,Copper range,Needs Improvement
+Main labor group,Male,Married,College,Life Sciences,Developer,Medium,Very High,Better,Silver range,Copper range,Meet Expectation
+Main labor group,Male,Divorced,Master,Medical,Sales Executive,Medium,High,Bad,Silver range,Copper range,Meet Expectation
+Main labor group,Male,Divorced,Master,Medical,Sales Executive,Low,Very High,Best,Gold range,Silver range,Needs Improvement
+Main labor group,Female,Divorced,Master,Medical,Developer,Low,High,Good,Silver range,Copper range,Meet Expectation
+Main labor group,Male,Married,Bachelor,Marketing,Sales Executive,Very High,High,Good,Gold range,no exps,Meet Expectation
+Middle-aged labor group,Female,Married,Master,Life Sciences,Developer,High,Medium,Better,Silver range,Copper range,Meet Expectation
+Middle-aged labor group,Male,Divorced,Master,Other,Developer,Medium,High,Good,Diamond range,no exps,Meet Expectation
+Main labor group,Female,Single,Below College,Life Sciences,Developer,High,Very High,Good,Silver range,no exps,Meet Expectation
+Middle-aged labor group,Male,Divorced,Doctor,Medical,Senior Developer,Very High,Medium,Better,Silver range,Silver range,Meet Expectation
+Middle-aged labor group,Female,Married,Master,Life Sciences,Senior Developer,Very High,Low,Bad,Diamond range,Copper range,Meet Expectation
+Middle-aged labor group,Female,Single,Master,Life Sciences,Human Resources,Low,Medium,Best,Silver range,Copper range,Meet Expectation
+Main labor group,Female,Divorced,Bachelor,Technical Degree,Sales Representative,High,Very High,Better,Silver range,Copper range,Meet Expectation
+Main labor group,Male,Divorced,Below College,Marketing,Sales Representative,High,Medium,Better,Copper range,Copper range,Meet Expectation
+Young labor group,Male,Single,Below College,Technical Degree,Sales Representative,High,High,Better,Copper range,Copper range,Meet Expectation
+Middle-aged labor group,Male,Married,Master,Other,Senior Developer,Very High,Low,Best,Diamond range,Copper range,Meet Expectation
+Young labor group,Male,Married,Below College,Medical,Developer,Low,Very High,Better,Copper range,Copper range,Meet Expectation
+Main labor group,Female,Married,Master,Life Sciences,Developer,Low,Very High,Good,Silver range,Copper range,Meet Expectation
+Main labor group,Female,Divorced,Bachelor,Medical,Developer,High,High,Better,Copper range,no exps,Exceed Expectation
+Main labor group,Male,Married,Doctor,Life Sciences,Senior Developer,Medium,Very High,Good,Silver range,Silver range,Meet Expectation
+Main labor group,Female,Married,Bachelor,Life Sciences,Developer,High,High,Better,Copper range,Copper range,Meet Expectation
+Main labor group,Male,Married,Bachelor,Other,Developer,High,High,Better,Silver range,Silver range,Meet Expectation
+Main labor group,Female,Married,College,Medical,Sales Executive,Medium,Low,Good,Silver range,no exps,Meet Expectation
+Main labor group,Male,Single,Master,Life Sciences,Senior Developer,Medium,Medium,Better,Gold range,Gold range,Meet Expectation
+Old labor group,Male,Married,Master,Medical,Human Resources,High,High,Best,Gold range,Silver range,Meet Expectation
+Main labor group,Male,Divorced,College,Medical,Developer,Medium,High,Better,Gold range,Copper range,Meet Expectation
+Young labor group,Male,Single,Below College,Medical,Senior Developer,Very High,Very High,Better,Copper range,no exps,Meet Expectation
+Main labor group,Male,Single,Bachelor,Life Sciences,Senior Developer,Low,Low,Better,Silver range,Silver range,Meet Expectation
+Young labor group,Male,Married,Bachelor,Medical,Developer,Low,Low,Best,Copper range,Copper range,Exceed Expectation
+Main labor group,Male,Married,Bachelor,Life Sciences,Sales Executive,Very High,High,Better,Copper range,Copper range,Exceed Expectation
+Main labor group,Female,Single,Master,Marketing,Sales Executive,Very High,Low,Better,Silver range,Silver range,Exceed Expectation
+Main labor group,Male,Divorced,Master,Life Sciences,Developer,Medium,Very High,Better,Silver range,Silver range,Meet Expectation
+Middle-aged labor group,Male,Married,Below College,Marketing,Sales Executive,Medium,Very High,Better,Gold range,Copper range,Meet Expectation
+Main labor group,Female,Divorced,Below College,Medical,Sales Executive,Very High,Medium,Better,Silver range,Copper range,Exceed Expectation
+Main labor group,Male,Single,College,Life Sciences,Senior Developer,Very High,Low,Better,Copper range,no exps,Meet Expectation
+Middle-aged labor group,Male,Married,Below College,Medical,Senior Developer,Very High,High,Better,Gold range,Silver range,Meet Expectation
+Main labor group,Female,Single,Bachelor,Medical,Data Scientist,Very High,Medium,Best,Silver range,Silver range,Meet Expectation
+Young labor group,Female,Single,College,Life Sciences,Sales Executive,Low,Low,Better,Copper range,Copper range,Needs Improvement

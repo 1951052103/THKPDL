@@ -1,0 +1,1201 @@
+﻿Number,Age,Age,Gender,MaritalStatus,EducationLevel,EducationLevel,EducationBackground,JobRole,EnvironmentSatisfaction,EnvironmentSatisfaction,RelationshipSatisfaction,RelationshipSatisfaction,WorkLifeBalance,WorkLifeBalance,TotalWorkExperienceInYears,TotalWorkExperienceInYears,ExperienceYearsInCurrentRole,ExperienceYearsInCurrentRole,PerformanceRating,PerformanceResult
+E1001000,32,Main labor group,Male,Single,3,Bachelor,Marketing,Sales Executive,4,Very High,4,Very High,2,Good,10,Silver range,7,Silver range,3,Meet Expectation
+E1001006,47,Middle-aged labor group,Male,Single,4,Master,Marketing,Sales Executive,4,Very High,4,Very High,3,Better,20,Gold range,7,Silver range,3,Meet Expectation
+E1001007,40,Main labor group,Male,Married,4,Master,Life Sciences,Sales Executive,4,Very High,3,High,3,Better,20,Gold range,13,Gold range,4,Exceed Expectation
+E1001009,41,Middle-aged labor group,Male,Divorced,4,Master,Human Resources,Manager,2,Medium,2,Medium,2,Good,23,Diamond range,6,Silver range,3,Meet Expectation
+E1001010,60,Old labor group,Male,Single,4,Master,Marketing,Sales Executive,1,Low,4,Very High,3,Better,10,Silver range,2,Copper range,3,Meet Expectation
+E1001011,27,Main labor group,Male,Divorced,2,College,Life Sciences,Developer,4,Very High,3,High,2,Good,9,Silver range,7,Silver range,4,Exceed Expectation
+E1001016,50,Middle-aged labor group,Male,Married,4,Master,Marketing,Sales Representative,4,Very High,4,Very High,3,Better,4,Copper range,2,Copper range,3,Meet Expectation
+E1001019,28,Main labor group,Female,Single,2,College,Life Sciences,Developer,1,Low,4,Very High,3,Better,10,Silver range,7,Silver range,3,Meet Expectation
+E1001020,36,Main labor group,Female,Married,3,Bachelor,Life Sciences,Developer,1,Low,1,Low,3,Better,10,Silver range,7,Silver range,3,Meet Expectation
+E1001021,38,Main labor group,Female,Single,3,Bachelor,Life Sciences,Developer,3,High,4,Very High,4,Best,10,Silver range,0,no exps,3,Meet Expectation
+E1001022,44,Middle-aged labor group,Male,Single,3,Bachelor,Medical,Developer,1,Low,3,High,3,Better,9,Silver range,2,Copper range,3,Meet Expectation
+E1001024,47,Middle-aged labor group,Female,Divorced,3,Bachelor,Medical,Sales Executive,4,Very High,4,Very High,2,Good,28,Diamond range,2,Copper range,3,Meet Expectation
+E1001025,30,Main labor group,Male,Divorced,5,Doctor,Marketing,Sales Executive,3,High,4,Very High,2,Good,10,Silver range,7,Silver range,4,Exceed Expectation
+E1001027,29,Main labor group,Male,Single,3,Bachelor,Life Sciences,Sales Representative,3,High,3,High,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E1001030,42,Middle-aged labor group,Male,Divorced,3,Bachelor,Medical,Developer,3,High,4,Very High,3,Better,7,Silver range,2,Copper range,3,Meet Expectation
+E1001035,34,Main labor group,Female,Single,2,College,Medical,Developer,2,Medium,4,Very High,3,Better,10,Silver range,1,Copper range,3,Meet Expectation
+E1001038,39,Main labor group,Female,Married,3,Bachelor,Human Resources,Human Resources,3,High,3,High,1,Bad,12,Gold range,3,Copper range,3,Meet Expectation
+E1001040,56,Old labor group,Male,Married,3,Bachelor,Medical,Developer,3,High,3,High,2,Good,30,Diamond range,7,Silver range,3,Meet Expectation
+E1001041,40,Main labor group,Female,Single,1,Below College,Medical,Developer,4,Very High,4,Very High,2,Good,5,Copper range,2,Copper range,4,Exceed Expectation
+E1001042,27,Main labor group,Female,Single,3,Bachelor,Medical,Developer,4,Very High,1,Low,1,Bad,9,Silver range,6,Silver range,3,Meet Expectation
+E1001044,29,Main labor group,Male,Divorced,3,Bachelor,Marketing,Sales Representative,4,Very High,4,Very High,3,Better,2,Copper range,2,Copper range,3,Meet Expectation
+E1001047,53,Old labor group,Male,Single,3,Bachelor,Life Sciences,Developer,4,Very High,4,Very High,3,Better,19,Gold range,2,Copper range,3,Meet Expectation
+E1001049,35,Main labor group,Female,Divorced,4,Master,Life Sciences,Senior Developer,4,Very High,1,Low,4,Best,16,Gold range,0,no exps,3,Meet Expectation
+E1001050,32,Main labor group,Male,Married,4,Master,Life Sciences,Developer,1,Low,4,Very High,3,Better,10,Silver range,8,Silver range,3,Meet Expectation
+E1001053,34,Main labor group,Female,Divorced,5,Doctor,Life Sciences,Developer,2,Medium,3,High,3,Better,7,Silver range,0,no exps,3,Meet Expectation
+E1001054,52,Old labor group,Male,Married,4,Master,Marketing,Manager,3,High,1,Low,4,Best,34,Diamond range,6,Silver range,5,Outstanding
+E1001058,33,Main labor group,Male,Single,4,Master,Other,Developer,4,Very High,3,High,2,Good,10,Silver range,9,Silver range,3,Meet Expectation
+E1001059,25,Main labor group,Female,Single,1,Below College,Medical,Sales Executive,3,High,2,Medium,2,Good,6,Silver range,5,Copper range,5,Outstanding
+E1001061,45,Middle-aged labor group,Male,Single,2,College,Technical Degree,Sales Representative,2,Medium,1,Low,3,Better,9,Silver range,7,Silver range,3,Meet Expectation
+E1001062,23,Young labor group,Male,Single,1,Below College,Medical,Developer,1,Low,4,Very High,3,Better,2,Copper range,2,Copper range,3,Meet Expectation
+E1001063,47,Middle-aged labor group,Female,Single,2,College,Life Sciences,Sales Executive,2,Medium,4,Very High,3,Better,8,Silver range,4,Copper range,3,Meet Expectation
+E1001064,34,Main labor group,Male,Single,3,Bachelor,Other,Sales Executive,4,Very High,3,High,3,Better,6,Silver range,5,Copper range,4,Exceed Expectation
+E1001067,36,Main labor group,Male,Single,4,Master,Life Sciences,Sales Executive,1,Low,2,Medium,3,Better,10,Silver range,7,Silver range,3,Meet Expectation
+E1001069,52,Old labor group,Male,Married,4,Master,Medical,Developer,4,Very High,1,Low,3,Better,5,Copper range,3,Copper range,3,Meet Expectation
+E1001070,26,Main labor group,Female,Divorced,2,College,Life Sciences,Developer,1,Low,1,Low,3,Better,5,Copper range,2,Copper range,3,Meet Expectation
+E1001071,29,Main labor group,Female,Married,3,Bachelor,Medical,Developer,2,Medium,1,Low,2,Good,11,Gold range,7,Silver range,3,Meet Expectation
+E1001074,26,Main labor group,Male,Single,3,Bachelor,Technical Degree,Sales Executive,4,Very High,3,High,2,Good,6,Silver range,3,Copper range,3,Meet Expectation
+E1001075,34,Main labor group,Female,Single,4,Master,Life Sciences,Developer,2,Medium,3,High,3,Better,10,Silver range,2,Copper range,3,Meet Expectation
+E1001077,54,Old labor group,Female,Divorced,4,Master,Medical,Developer,4,Very High,2,Medium,3,Better,9,Silver range,3,Copper range,3,Meet Expectation
+E1001078,27,Main labor group,Male,Married,1,Below College,Marketing,Sales Executive,3,High,2,Medium,3,Better,5,Copper range,2,Copper range,3,Meet Expectation
+E1001080,37,Main labor group,Female,Divorced,1,Below College,Life Sciences,Developer,4,Very High,2,Medium,2,Good,6,Silver range,3,Copper range,3,Meet Expectation
+E1001081,38,Main labor group,Female,Single,4,Master,Life Sciences,Developer,1,Low,4,Very High,3,Better,17,Gold range,7,Silver range,3,Meet Expectation
+E1001082,34,Main labor group,Female,Single,4,Master,Medical,Developer,3,High,3,High,3,Better,6,Silver range,5,Copper range,3,Meet Expectation
+E1001083,35,Main labor group,Female,Married,4,Master,Life Sciences,Sales Representative,1,Low,2,Medium,2,Good,3,Copper range,2,Copper range,3,Meet Expectation
+E1001085,40,Main labor group,Female,Married,2,College,Medical,Developer,3,High,4,Very High,3,Better,8,Silver range,7,Silver range,4,Exceed Expectation
+E1001086,34,Main labor group,Female,Married,2,College,Life Sciences,Sales Executive,3,High,2,Medium,3,Better,6,Silver range,2,Copper range,3,Meet Expectation
+E1001090,24,Young labor group,Male,Divorced,3,Bachelor,Life Sciences,Senior Developer,3,High,3,High,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E1001091,52,Old labor group,Female,Married,4,Master,Life Sciences,Senior Developer,4,Very High,2,Medium,3,Better,9,Silver range,2,Copper range,4,Exceed Expectation
+E1001093,50,Middle-aged labor group,Male,Married,3,Bachelor,Medical,Developer,3,High,4,Very High,3,Better,30,Diamond range,3,Copper range,3,Meet Expectation
+E1001094,29,Main labor group,Female,Married,2,College,Life Sciences,Developer,2,Medium,4,Very High,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E1001095,33,Main labor group,Male,Married,3,Bachelor,Medical,Developer,3,High,4,Very High,4,Best,14,Gold range,9,Silver range,3,Meet Expectation
+E1001097,33,Main labor group,Female,Single,3,Bachelor,Marketing,Sales Executive,1,Low,3,High,3,Better,6,Silver range,2,Copper range,3,Meet Expectation
+E1001098,47,Middle-aged labor group,Female,Married,2,College,Other,Developer,3,High,3,High,2,Good,26,Diamond range,14,Gold range,3,Meet Expectation
+E1001101,36,Main labor group,Female,Married,3,Bachelor,Other,Developer,3,High,1,Low,3,Better,10,Silver range,7,Silver range,3,Meet Expectation
+E1001102,29,Main labor group,Male,Married,2,College,Life Sciences,Senior Developer,3,High,3,High,3,Better,10,Silver range,7,Silver range,4,Exceed Expectation
+E1001104,35,Main labor group,Female,Single,4,Master,Life Sciences,Senior Developer,4,Very High,3,High,3,Better,7,Silver range,2,Copper range,3,Meet Expectation
+E1001105,42,Middle-aged labor group,Female,Married,2,College,Life Sciences,Developer,4,Very High,4,Very High,3,Better,8,Silver range,3,Copper range,3,Meet Expectation
+E1001106,28,Main labor group,Male,Single,4,Master,Medical,Developer,3,High,4,Very High,2,Good,5,Copper range,2,Copper range,3,Meet Expectation
+E1001107,36,Main labor group,Male,Married,3,Bachelor,Human Resources,Human Resources,3,High,2,Medium,3,Better,8,Silver range,2,Copper range,3,Meet Expectation
+E1001110,40,Main labor group,Male,Single,4,Master,Medical,Developer,1,Low,4,Very High,3,Better,10,Silver range,0,no exps,3,Meet Expectation
+E1001111,30,Main labor group,Female,Single,3,Bachelor,Medical,Developer,3,High,2,Medium,2,Good,12,Gold range,0,no exps,5,Outstanding
+E1001112,45,Middle-aged labor group,Female,Single,3,Bachelor,Life Sciences,Developer,2,Medium,4,Very High,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E1001114,42,Middle-aged labor group,Male,Married,3,Bachelor,Life Sciences,Developer,2,Medium,4,Very High,2,Good,10,Silver range,8,Silver range,3,Meet Expectation
+E1001115,38,Main labor group,Male,Divorced,3,Bachelor,Life Sciences,Developer,1,Low,3,High,2,Good,13,Gold range,3,Copper range,3,Meet Expectation
+E1001118,49,Middle-aged labor group,Female,Married,3,Bachelor,Marketing,Sales Executive,3,High,1,Low,4,Best,9,Silver range,8,Silver range,3,Meet Expectation
+E1001120,55,Old labor group,Male,Single,1,Below College,Medical,Sales Executive,3,High,3,High,2,Good,12,Gold range,7,Silver range,3,Meet Expectation
+E1001121,43,Middle-aged labor group,Male,Married,2,College,Life Sciences,Developer,2,Medium,3,High,3,Better,22,Diamond range,1,Copper range,3,Meet Expectation
+E1001122,27,Main labor group,Male,Divorced,1,Below College,Technical Degree,Developer,3,High,2,Medium,3,Better,9,Silver range,8,Silver range,3,Meet Expectation
+E1001123,35,Main labor group,Male,Single,3,Bachelor,Other,Developer,3,High,2,Medium,4,Best,17,Gold range,5,Copper range,5,Outstanding
+E1001124,28,Main labor group,Female,Married,4,Master,Marketing,Sales Executive,2,Medium,1,Low,3,Better,8,Silver range,7,Silver range,3,Meet Expectation
+E1001126,26,Main labor group,Female,Married,2,College,Medical,Developer,3,High,1,Low,3,Better,8,Silver range,7,Silver range,3,Meet Expectation
+E1001128,27,Main labor group,Male,Married,3,Bachelor,Medical,Developer,4,Very High,3,High,2,Good,0,no exps,0,no exps,3,Meet Expectation
+E1001129,51,Old labor group,Female,Married,4,Master,Marketing,Manager,1,Low,3,High,2,Good,29,Diamond range,6,Silver range,3,Meet Expectation
+E1001130,44,Middle-aged labor group,Male,Single,3,Bachelor,Medical,Developer,4,Very High,4,Very High,2,Good,10,Silver range,2,Copper range,3,Meet Expectation
+E1001132,25,Main labor group,Male,Single,1,Below College,Medical,Developer,1,Low,3,High,2,Good,6,Silver range,3,Copper range,3,Meet Expectation
+E1001134,35,Main labor group,Female,Single,1,Below College,Medical,Senior Developer,3,High,4,Very High,2,Good,6,Silver range,5,Copper range,3,Meet Expectation
+E1001135,36,Main labor group,Male,Married,2,College,Life Sciences,Sales Executive,2,Medium,4,Very High,2,Good,18,Gold range,14,Gold range,3,Meet Expectation
+E1001140,53,Old labor group,Female,Married,2,College,Marketing,Sales Executive,1,Low,4,Very High,3,Better,35,Diamond range,2,Copper range,3,Meet Expectation
+E1001142,45,Middle-aged labor group,Male,Divorced,3,Bachelor,Marketing,Sales Executive,4,Very High,3,High,3,Better,18,Gold range,4,Copper range,3,Meet Expectation
+E1001143,32,Main labor group,Female,Married,2,College,Medical,Developer,3,High,3,High,2,Good,9,Silver range,3,Copper range,3,Meet Expectation
+E1001146,37,Main labor group,Male,Divorced,4,Master,Marketing,Sales Executive,4,Very High,4,Very High,3,Better,9,Silver range,0,no exps,3,Meet Expectation
+E1001147,28,Main labor group,Male,Divorced,2,College,Medical,Human Resources,2,Medium,4,Very High,3,Better,6,Silver range,1,Copper range,3,Meet Expectation
+E1001150,22,Young labor group,Male,Married,2,College,Life Sciences,Senior Developer,4,Very High,1,Low,1,Bad,4,Copper range,2,Copper range,3,Meet Expectation
+E1001152,44,Middle-aged labor group,Male,Married,4,Master,Life Sciences,Developer,1,Low,3,High,2,Good,10,Silver range,2,Copper range,3,Meet Expectation
+E1001153,42,Middle-aged labor group,Male,Single,1,Below College,Medical,Senior Developer,2,Medium,4,Very High,3,Better,8,Silver range,1,Copper range,3,Meet Expectation
+E1001156,36,Main labor group,Male,Married,3,Bachelor,Life Sciences,Human Resources,1,Low,3,High,3,Better,6,Silver range,4,Copper range,3,Meet Expectation
+E1001157,25,Main labor group,Male,Married,1,Below College,Other,Sales Executive,3,High,4,Very High,3,Better,5,Copper range,3,Copper range,3,Meet Expectation
+E1001159,35,Main labor group,Female,Divorced,4,Master,Life Sciences,Developer,4,Very High,1,Low,2,Good,10,Silver range,2,Copper range,3,Meet Expectation
+E1001160,32,Main labor group,Male,Divorced,3,Bachelor,Life Sciences,Developer,4,Very High,2,Medium,3,Better,4,Copper range,0,no exps,3,Meet Expectation
+E1001165,49,Middle-aged labor group,Female,Married,3,Bachelor,Technical Degree,Data Scientist,3,High,2,Medium,3,Better,7,Silver range,2,Copper range,3,Meet Expectation
+E1001166,24,Young labor group,Male,Married,1,Below College,Life Sciences,Senior Developer,1,Low,4,Very High,2,Good,6,Silver range,2,Copper range,3,Meet Expectation
+E1001167,32,Main labor group,Male,Married,2,College,Life Sciences,Sales Executive,2,Medium,4,Very High,3,Better,10,Silver range,8,Silver range,3,Meet Expectation
+E1001171,38,Main labor group,Male,Married,3,Bachelor,Marketing,Sales Representative,2,Medium,4,Very High,3,Better,3,Copper range,2,Copper range,3,Meet Expectation
+E1001173,31,Main labor group,Male,Married,4,Master,Life Sciences,Senior Developer,4,Very High,2,Medium,3,Better,8,Silver range,4,Copper range,3,Meet Expectation
+E1001175,53,Old labor group,Male,Married,3,Bachelor,Marketing,Sales Executive,1,Low,3,High,3,Better,28,Diamond range,0,no exps,3,Meet Expectation
+E1001178,37,Main labor group,Female,Married,2,College,Medical,Sales Representative,3,High,2,Medium,3,Better,10,Silver range,4,Copper range,3,Meet Expectation
+E1001179,53,Old labor group,Female,Single,4,Master,Life Sciences,Developer,4,Very High,3,High,3,Better,33,Diamond range,9,Silver range,3,Meet Expectation
+E1001180,43,Middle-aged labor group,Female,Married,3,Bachelor,Life Sciences,Developer,4,Very High,2,Medium,2,Good,12,Gold range,2,Copper range,3,Meet Expectation
+E1001181,47,Middle-aged labor group,Female,Married,2,College,Marketing,Sales Executive,3,High,1,Low,3,Better,8,Silver range,6,Silver range,4,Exceed Expectation
+E1001182,37,Main labor group,Male,Single,2,College,Medical,Sales Executive,1,Low,4,Very High,3,Better,10,Silver range,0,no exps,3,Meet Expectation
+E1001183,50,Middle-aged labor group,Male,Divorced,4,Master,Life Sciences,Developer,1,Low,4,Very High,3,Better,31,Diamond range,6,Silver range,3,Meet Expectation
+E1001187,39,Main labor group,Female,Married,3,Bachelor,Life Sciences,Human Resources,4,Very High,3,High,3,Better,13,Gold range,4,Copper range,3,Meet Expectation
+E1001188,33,Main labor group,Male,Divorced,2,College,Human Resources,Human Resources,4,Very High,3,High,4,Best,7,Silver range,3,Copper range,3,Meet Expectation
+E1001189,32,Main labor group,Male,Single,4,Master,Life Sciences,Developer,1,Low,3,High,1,Bad,1,Copper range,0,no exps,3,Meet Expectation
+E1001191,44,Middle-aged labor group,Male,Married,2,College,Life Sciences,Developer,2,Medium,4,Very High,3,Better,8,Silver range,7,Silver range,3,Meet Expectation
+E1001196,58,Old labor group,Male,Divorced,1,Below College,Life Sciences,Developer,4,Very High,4,Very High,2,Good,3,Copper range,0,no exps,3,Meet Expectation
+E1001200,20,Young labor group,Female,Single,3,Bachelor,Medical,Sales Representative,3,High,4,Very High,2,Good,2,Copper range,2,Copper range,3,Meet Expectation
+E1001201,21,Young labor group,Female,Single,1,Below College,Other,Data Scientist,4,Very High,1,Low,2,Good,1,Copper range,0,no exps,3,Meet Expectation
+E1001202,36,Main labor group,Male,Married,1,Below College,Life Sciences,Data Scientist,3,High,1,Low,2,Good,17,Gold range,8,Silver range,3,Meet Expectation
+E1001203,47,Middle-aged labor group,Female,Single,4,Master,Life Sciences,Sales Representative,4,Very High,1,Low,2,Good,3,Copper range,2,Copper range,3,Meet Expectation
+E1001204,22,Young labor group,Female,Married,1,Below College,Life Sciences,Developer,2,Medium,1,Low,4,Best,4,Copper range,2,Copper range,3,Meet Expectation
+E1001208,28,Main labor group,Female,Divorced,3,Bachelor,Medical,Developer,3,High,2,Medium,3,Better,6,Silver range,2,Copper range,3,Meet Expectation
+E1001210,39,Main labor group,Male,Married,3,Bachelor,Medical,Senior Developer,4,Very High,4,Very High,1,Bad,8,Silver range,2,Copper range,3,Meet Expectation
+E1001211,27,Main labor group,Female,Single,3,Bachelor,Life Sciences,Developer,2,Medium,3,High,3,Better,1,Copper range,1,Copper range,3,Meet Expectation
+E1001212,34,Main labor group,Male,Divorced,3,Bachelor,Life Sciences,Developer,2,Medium,2,Medium,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E1001214,42,Middle-aged labor group,Female,Single,2,College,Medical,Sales Executive,3,High,1,Low,3,Better,10,Silver range,4,Copper range,3,Meet Expectation
+E1001217,33,Main labor group,Male,Single,4,Master,Other,Senior Developer,3,High,2,Medium,3,Better,6,Silver range,2,Copper range,3,Meet Expectation
+E1001218,58,Old labor group,Female,Divorced,3,Bachelor,Technical Degree,Senior Developer,3,High,4,Very High,3,Better,24,Diamond range,0,no exps,3,Meet Expectation
+E1001219,31,Main labor group,Male,Married,4,Master,Life Sciences,Sales Representative,2,Medium,2,Medium,4,Best,13,Gold range,7,Silver range,3,Meet Expectation
+E1001220,35,Main labor group,Female,Married,1,Below College,Life Sciences,Senior Developer,4,Very High,4,Very High,1,Bad,10,Silver range,6,Silver range,3,Meet Expectation
+E1001223,48,Middle-aged labor group,Male,Married,4,Master,Medical,Data Scientist,4,Very High,1,Low,2,Good,13,Gold range,0,no exps,3,Meet Expectation
+E1001225,31,Main labor group,Female,Married,2,College,Marketing,Sales Executive,4,Very High,4,Very High,2,Good,9,Silver range,8,Silver range,3,Meet Expectation
+E1001227,36,Main labor group,Male,Single,4,Master,Other,Developer,2,Medium,3,High,3,Better,8,Silver range,2,Copper range,3,Meet Expectation
+E1001228,38,Main labor group,Female,Married,3,Bachelor,Technical Degree,Senior Developer,4,Very High,2,Medium,3,Better,15,Gold range,12,Gold range,3,Meet Expectation
+E1001229,32,Main labor group,Female,Married,3,Bachelor,Life Sciences,Senior Developer,3,High,3,High,3,Better,5,Copper range,0,no exps,4,Exceed Expectation
+E1001230,25,Main labor group,Male,Married,2,College,Marketing,Sales Representative,3,High,3,High,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E1001235,41,Middle-aged labor group,Male,Single,3,Bachelor,Medical,Developer,4,Very High,3,High,3,Better,20,Gold range,13,Gold range,3,Meet Expectation
+E1001236,36,Main labor group,Male,Single,4,Master,Medical,Developer,3,High,3,High,3,Better,16,Gold range,8,Silver range,4,Exceed Expectation
+E1001237,19,Young labor group,Male,Single,3,Bachelor,Other,Sales Representative,4,Very High,2,Medium,4,Best,1,Copper range,0,no exps,3,Meet Expectation
+E1001238,20,Young labor group,Male,Single,3,Bachelor,Technical Degree,Developer,1,Low,2,Medium,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E1001239,31,Main labor group,Female,Married,3,Bachelor,Medical,Developer,4,Very High,3,High,1,Bad,10,Silver range,7,Silver range,3,Meet Expectation
+E1001245,36,Main labor group,Male,Married,1,Below College,Life Sciences,Sales Executive,3,High,1,Low,3,Better,16,Gold range,7,Silver range,3,Meet Expectation
+E1001248,37,Main labor group,Male,Married,4,Master,Life Sciences,Sales Executive,1,Low,3,High,1,Bad,17,Gold range,1,Copper range,1,Does not Meet Minimum
+E1001250,45,Middle-aged labor group,Male,Married,2,College,Life Sciences,Developer,3,High,2,Medium,2,Good,9,Silver range,7,Silver range,3,Meet Expectation
+E1001252,29,Main labor group,Female,Married,3,Bachelor,Technical Degree,Sales Representative,3,High,2,Medium,3,Better,3,Copper range,1,Copper range,3,Meet Expectation
+E1001253,35,Main labor group,Female,Married,3,Bachelor,Medical,Sales Executive,3,High,2,Medium,3,Better,5,Copper range,2,Copper range,3,Meet Expectation
+E1001254,52,Old labor group,Male,Married,2,College,Life Sciences,Senior Developer,4,Very High,2,Medium,2,Good,26,Diamond range,8,Silver range,3,Meet Expectation
+E1001259,53,Old labor group,Male,Divorced,2,College,Medical,Manager,3,High,3,High,4,Best,22,Diamond range,13,Gold range,3,Meet Expectation
+E1001260,30,Main labor group,Male,Divorced,2,College,Other,Sales Executive,3,High,1,Low,4,Best,10,Silver range,4,Copper range,3,Meet Expectation
+E1001262,35,Main labor group,Male,Divorced,4,Master,Life Sciences,Sales Executive,4,Very High,2,Medium,3,Better,12,Gold range,9,Silver range,3,Meet Expectation
+E1001263,39,Main labor group,Male,Single,5,Doctor,Life Sciences,Sales Executive,1,Low,4,Very High,3,Better,9,Silver range,7,Silver range,3,Meet Expectation
+E1001264,40,Main labor group,Female,Single,3,Bachelor,Life Sciences,Sales Executive,2,Medium,4,Very High,2,Good,22,Diamond range,0,no exps,3,Meet Expectation
+E1001265,47,Middle-aged labor group,Male,Divorced,4,Master,Medical,Senior Developer,3,High,3,High,4,Best,20,Gold range,10,Silver range,3,Meet Expectation
+E1001268,36,Main labor group,Male,Divorced,4,Master,Technical Degree,Sales Executive,1,Low,4,Very High,3,Better,12,Gold range,7,Silver range,3,Meet Expectation
+E1001269,31,Main labor group,Male,Single,2,College,Medical,Developer,3,High,1,Low,3,Better,4,Copper range,2,Copper range,4,Exceed Expectation
+E1001270,33,Main labor group,Male,Single,3,Bachelor,Life Sciences,Manager,4,Very High,4,Very High,3,Better,10,Silver range,8,Silver range,3,Meet Expectation
+E1001272,29,Main labor group,Female,Single,3,Bachelor,Life Sciences,Developer,4,Very High,3,High,3,Better,3,Copper range,0,no exps,4,Exceed Expectation
+E1001273,33,Main labor group,Female,Single,1,Below College,Life Sciences,Developer,2,Medium,1,Low,3,Better,5,Copper range,2,Copper range,3,Meet Expectation
+E1001274,45,Middle-aged labor group,Female,Divorced,4,Master,Medical,Developer,4,Very High,4,Very High,3,Better,8,Silver range,3,Copper range,3,Meet Expectation
+E1001275,50,Middle-aged labor group,Male,Divorced,2,College,Medical,Senior Developer,4,Very High,3,High,2,Good,32,Diamond range,4,Copper range,5,Outstanding
+E1001276,33,Main labor group,Female,Married,4,Master,Other,Developer,3,High,1,Low,3,Better,6,Silver range,5,Copper range,3,Meet Expectation
+E1001277,41,Middle-aged labor group,Male,Divorced,3,Bachelor,Medical,Developer,1,Low,2,Medium,4,Best,21,Diamond range,16,Gold range,3,Meet Expectation
+E1001280,45,Middle-aged labor group,Male,Married,2,College,Life Sciences,Developer,4,Very High,3,High,3,Better,9,Silver range,8,Silver range,3,Meet Expectation
+E1001281,47,Middle-aged labor group,Female,Single,2,College,Life Sciences,Sales Executive,4,Very High,3,High,3,Better,9,Silver range,0,no exps,3,Meet Expectation
+E1001282,30,Main labor group,Female,Married,3,Bachelor,Life Sciences,Developer,1,Low,2,Medium,3,Better,7,Silver range,2,Copper range,3,Meet Expectation
+E1001283,50,Middle-aged labor group,Male,Married,3,Bachelor,Life Sciences,Developer,4,Very High,4,Very High,3,Better,22,Diamond range,11,Gold range,3,Meet Expectation
+E1001284,38,Main labor group,Male,Married,1,Below College,Medical,Senior Manager R&D,3,High,2,Medium,2,Good,3,Copper range,1,Copper range,3,Meet Expectation
+E1001288,35,Main labor group,Male,Divorced,4,Master,Other,Laboratory Technician,3,High,4,Very High,1,Bad,5,Copper range,2,Copper range,3,Meet Expectation
+E1001289,31,Main labor group,Female,Married,1,Below College,Life Sciences,Manufacturing Director,3,High,3,High,3,Better,4,Copper range,3,Copper range,3,Meet Expectation
+E1001290,18,Young labor group,Male,Single,2,College,Life Sciences,Research Scientist,2,Medium,4,Very High,3,Better,0,no exps,0,no exps,3,Meet Expectation
+E1001291,54,Old labor group,Female,Married,3,Bachelor,Technical Degree,Senior Manager R&D,3,High,3,High,3,Better,22,Diamond range,7,Silver range,3,Meet Expectation
+E1001292,35,Main labor group,Female,Divorced,4,Master,Medical,Healthcare Representative,3,High,3,High,2,Good,16,Gold range,10,Silver range,3,Meet Expectation
+E1001293,30,Main labor group,Female,Married,2,College,Life Sciences,Research Director,2,Medium,3,High,2,Good,9,Silver range,7,Silver range,2,Needs Improvement
+E1001296,26,Main labor group,Male,Married,2,College,Medical,Senior Manager R&D,4,Very High,2,Medium,3,Better,8,Silver range,7,Silver range,3,Meet Expectation
+E1001297,22,Young labor group,Male,Married,1,Below College,Life Sciences,Laboratory Technician,2,Medium,1,Low,2,Good,4,Copper range,3,Copper range,1,Does not Meet Minimum
+E1001300,48,Middle-aged labor group,Male,Single,3,Bachelor,Life Sciences,Healthcare Representative,1,Low,4,Very High,3,Better,19,Gold range,2,Copper range,1,Does not Meet Minimum
+E1001302,48,Middle-aged labor group,Male,Single,4,Master,Life Sciences,Senior Manager R&D,3,High,2,Medium,3,Better,27,Diamond range,11,Gold range,3,Meet Expectation
+E1001303,41,Middle-aged labor group,Female,Single,2,College,Medical,Manufacturing Director,4,Very High,2,Medium,3,Better,8,Silver range,2,Copper range,3,Meet Expectation
+E1001304,39,Main labor group,Female,Married,1,Below College,Life Sciences,Manufacturing Director,4,Very High,3,High,3,Better,21,Diamond range,6,Silver range,3,Meet Expectation
+E1001305,27,Main labor group,Female,Married,4,Master,Life Sciences,Senior Manager R&D,1,Low,2,Medium,3,Better,4,Copper range,2,Copper range,1,Does not Meet Minimum
+E1001306,35,Main labor group,Male,Divorced,3,Bachelor,Other,Laboratory Technician,2,Medium,1,Low,2,Good,3,Copper range,2,Copper range,1,Does not Meet Minimum
+E1001307,42,Middle-aged labor group,Male,Married,2,College,Marketing,Manager,4,Very High,2,Medium,4,Best,21,Diamond range,0,no exps,4,Exceed Expectation
+E1001308,50,Middle-aged labor group,Male,Married,3,Bachelor,Life Sciences,Laboratory Technician,1,Low,2,Medium,3,Better,8,Silver range,0,no exps,3,Meet Expectation
+E1001310,59,Old labor group,Female,Single,3,Bachelor,Life Sciences,Manufacturing Director,3,High,1,Low,3,Better,30,Diamond range,3,Copper range,3,Meet Expectation
+E1001312,55,Old labor group,Male,Married,4,Master,Medical,Healthcare Representative,3,High,4,Very High,3,Better,17,Gold range,7,Silver range,3,Meet Expectation
+E1001313,41,Middle-aged labor group,Female,Divorced,1,Below College,Life Sciences,Research Director,2,Medium,2,Medium,3,Better,21,Diamond range,16,Gold range,2,Needs Improvement
+E1001314,38,Main labor group,Male,Single,4,Master,Life Sciences,Sales Executive,2,Medium,3,High,3,Better,19,Gold range,0,no exps,3,Meet Expectation
+E1001315,26,Main labor group,Male,Single,2,College,Medical,Sales Executive,2,Medium,4,Very High,3,Better,7,Silver range,2,Copper range,1,Does not Meet Minimum
+E1001316,52,Old labor group,Female,Married,1,Below College,Marketing,Manager,1,Low,4,Very High,3,Better,33,Diamond range,14,Gold range,2,Needs Improvement
+E1001317,44,Middle-aged labor group,Female,Married,3,Bachelor,Medical,Sales Executive,4,Very High,3,High,3,Better,23,Diamond range,11,Gold range,3,Meet Expectation
+E1001318,50,Middle-aged labor group,Female,Married,3,Bachelor,Life Sciences,Sales Executive,4,Very High,1,Low,3,Better,19,Gold range,7,Silver range,3,Meet Expectation
+E1001321,39,Main labor group,Female,Single,3,Bachelor,Medical,Manufacturing Director,4,Very High,3,High,3,Better,21,Diamond range,6,Silver range,3,Meet Expectation
+E1001322,33,Main labor group,Female,Single,1,Below College,Life Sciences,Sales Representative,2,Medium,4,Very High,2,Good,3,Copper range,2,Copper range,1,Does not Meet Minimum
+E1001323,45,Middle-aged labor group,Female,Married,2,College,Life Sciences,Manager,4,Very High,2,Medium,4,Best,26,Diamond range,3,Copper range,3,Meet Expectation
+E1001324,32,Main labor group,Female,Single,4,Master,Medical,Senior Manager R&D,4,Very High,2,Medium,3,Better,10,Silver range,7,Silver range,3,Meet Expectation
+E1001325,34,Main labor group,Male,Divorced,4,Master,Marketing,Sales Executive,2,Medium,4,Very High,2,Good,16,Gold range,1,Copper range,3,Meet Expectation
+E1001326,59,Old labor group,Male,Married,2,College,Technical Degree,Manager,2,Medium,3,High,1,Bad,14,Gold range,4,Copper range,3,Meet Expectation
+E1001327,45,Middle-aged labor group,Male,Single,4,Master,Medical,Human Resources,2,Medium,1,Low,3,Better,6,Silver range,3,Copper range,3,Meet Expectation
+E1001330,36,Main labor group,Male,Divorced,3,Bachelor,Other,Laboratory Technician,1,Low,2,Medium,2,Good,9,Silver range,0,no exps,3,Meet Expectation
+E1001331,26,Main labor group,Male,Married,3,Bachelor,Life Sciences,Research Scientist,1,Low,2,Medium,3,Better,6,Silver range,2,Copper range,1,Does not Meet Minimum
+E1001334,28,Main labor group,Male,Married,1,Below College,Medical,Sales Representative,4,Very High,2,Medium,3,Better,1,Copper range,0,no exps,4,Exceed Expectation
+E1001338,38,Main labor group,Male,Married,4,Master,Other,Senior Manager R&D,3,High,1,Low,3,Better,8,Silver range,2,Copper range,3,Meet Expectation
+E1001339,50,Middle-aged labor group,Male,Married,4,Master,Medical,Senior Manager R&D,2,Medium,4,Very High,2,Good,29,Diamond range,1,Copper range,3,Meet Expectation
+E1001340,37,Main labor group,Female,Single,3,Bachelor,Other,Healthcare Representative,4,Very High,1,Low,2,Good,8,Silver range,3,Copper range,3,Meet Expectation
+E1001344,40,Main labor group,Male,Married,3,Bachelor,Marketing,Sales Executive,3,High,2,Medium,2,Good,8,Silver range,7,Silver range,3,Meet Expectation
+E1001346,26,Main labor group,Female,Divorced,1,Below College,Medical,Research Scientist,1,Low,3,High,3,Better,5,Copper range,3,Copper range,1,Does not Meet Minimum
+E1001348,54,Old labor group,Female,Married,4,Master,Life Sciences,Sales Executive,3,High,2,Medium,3,Better,13,Gold range,4,Copper range,3,Meet Expectation
+E1001349,56,Old labor group,Female,Married,3,Bachelor,Medical,Senior Manager R&D,1,Low,2,Medium,3,Better,18,Gold range,4,Copper range,3,Meet Expectation
+E1001351,36,Main labor group,Female,Single,5,Doctor,Medical,Manufacturing Director,4,Very High,2,Medium,2,Good,15,Gold range,8,Silver range,3,Meet Expectation
+E1001352,55,Old labor group,Male,Single,1,Below College,Medical,Manager,3,High,2,Medium,4,Best,31,Diamond range,7,Silver range,4,Exceed Expectation
+E1001354,43,Middle-aged labor group,Male,Divorced,3,Bachelor,Medical,Sales Executive,3,High,3,High,3,Better,18,Gold range,0,no exps,3,Meet Expectation
+E1001355,20,Young labor group,Female,Single,3,Bachelor,Marketing,Sales Representative,4,Very High,2,Medium,3,Better,2,Copper range,2,Copper range,3,Meet Expectation
+E1001357,21,Young labor group,Female,Single,3,Bachelor,Life Sciences,Senior Manager R&D,3,High,1,Low,2,Good,1,Copper range,0,no exps,3,Meet Expectation
+E1001358,46,Middle-aged labor group,Female,Divorced,4,Master,Life Sciences,Senior Manager R&D,4,Very High,1,Low,3,Better,19,Gold range,13,Gold range,4,Exceed Expectation
+E1001360,28,Main labor group,Male,Single,2,College,Technical Degree,Senior Manager R&D,2,Medium,1,Low,2,Good,10,Silver range,7,Silver range,2,Needs Improvement
+E1001361,26,Main labor group,Male,Married,2,College,Medical,Laboratory Technician,1,Low,1,Low,3,Better,6,Silver range,3,Copper range,1,Does not Meet Minimum
+E1001362,30,Main labor group,Male,Married,3,Bachelor,Other,Senior Manager R&D,3,High,3,High,2,Good,7,Silver range,2,Copper range,3,Meet Expectation
+E1001366,38,Main labor group,Female,Married,1,Below College,Life Sciences,Healthcare Representative,3,High,1,Low,2,Good,20,Gold range,9,Silver range,3,Meet Expectation
+E1001370,40,Main labor group,Male,Married,4,Master,Technical Degree,Senior Manager R&D,1,Low,4,Very High,3,Better,14,Gold range,10,Silver range,2,Needs Improvement
+E1001372,27,Main labor group,Male,Married,5,Doctor,Life Sciences,Senior Manager R&D,1,Low,4,Very High,3,Better,3,Copper range,2,Copper range,1,Does not Meet Minimum
+E1001374,55,Old labor group,Male,Married,1,Below College,Life Sciences,Manager R&D,4,Very High,2,Medium,3,Better,23,Diamond range,2,Copper range,3,Meet Expectation
+E1001376,44,Middle-aged labor group,Male,Married,2,College,Medical,Human Resources,2,Medium,4,Very High,3,Better,24,Diamond range,6,Silver range,2,Needs Improvement
+E1001379,33,Main labor group,Female,Single,4,Master,Medical,Research Scientist,1,Low,2,Medium,3,Better,14,Gold range,7,Silver range,2,Needs Improvement
+E1001381,34,Main labor group,Male,Single,1,Below College,Life Sciences,Healthcare Representative,1,Low,3,High,2,Good,7,Silver range,2,Copper range,3,Meet Expectation
+E1001384,25,Main labor group,Male,Married,1,Below College,Technical Degree,Manager R&D,4,Very High,2,Medium,4,Best,7,Silver range,7,Silver range,3,Meet Expectation
+E1001385,26,Main labor group,Male,Divorced,3,Bachelor,Medical,Manager R&D,1,Low,3,High,2,Good,1,Copper range,1,Copper range,4,Exceed Expectation
+E1001387,42,Middle-aged labor group,Male,Married,2,College,Medical,Manager,4,Very High,4,Very High,3,Better,23,Diamond range,6,Silver range,3,Meet Expectation
+E1001389,28,Main labor group,Male,Divorced,3,Bachelor,Medical,Manager R&D,1,Low,1,Low,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E1001391,50,Middle-aged labor group,Male,Single,4,Master,Other,Sales Executive,4,Very High,4,Very High,3,Better,5,Copper range,0,no exps,3,Meet Expectation
+E1001392,33,Main labor group,Female,Married,3,Bachelor,Life Sciences,Sales Executive,4,Very High,3,High,3,Better,4,Copper range,2,Copper range,3,Meet Expectation
+E1001393,34,Main labor group,Male,Married,4,Master,Life Sciences,Research Scientist,3,High,4,Very High,3,Better,6,Silver range,0,no exps,3,Meet Expectation
+E1001394,48,Middle-aged labor group,Male,Single,4,Master,Medical,Manager R&D,1,Low,3,High,2,Good,27,Diamond range,4,Copper range,2,Needs Improvement
+E1001395,45,Middle-aged labor group,Female,Married,4,Master,Life Sciences,Sales Executive,2,Medium,4,Very High,3,Better,15,Gold range,10,Silver range,2,Needs Improvement
+E1001396,52,Old labor group,Male,Single,4,Master,Life Sciences,Healthcare Representative,2,Medium,4,Very High,3,Better,18,Gold range,6,Silver range,2,Needs Improvement
+E1001397,38,Main labor group,Male,Divorced,4,Master,Marketing,Sales Executive,3,High,2,Medium,3,Better,9,Silver range,7,Silver range,3,Meet Expectation
+E1001398,29,Main labor group,Female,Divorced,4,Master,Life Sciences,Manager R&D,3,High,1,Low,3,Better,11,Gold range,5,Copper range,4,Exceed Expectation
+E1001399,28,Main labor group,Female,Divorced,3,Bachelor,Medical,Manufacturing Director,4,Very High,2,Medium,2,Good,10,Silver range,7,Silver range,3,Meet Expectation
+E1001402,46,Middle-aged labor group,Male,Married,1,Below College,Marketing,Manager,1,Low,4,Very High,3,Better,23,Diamond range,9,Silver range,2,Needs Improvement
+E1001403,38,Main labor group,Male,Single,2,College,Marketing,Sales Executive,4,Very High,3,High,3,Better,10,Silver range,0,no exps,3,Meet Expectation
+E1001405,39,Main labor group,Male,Divorced,3,Bachelor,Life Sciences,Healthcare Representative,1,Low,4,Very High,3,Better,21,Diamond range,7,Silver range,2,Needs Improvement
+E1001406,40,Main labor group,Male,Single,3,Bachelor,Medical,Manager R&D,3,High,1,Low,4,Best,21,Diamond range,7,Silver range,3,Meet Expectation
+E1001410,39,Main labor group,Male,Single,3,Bachelor,Life Sciences,Laboratory Technician,3,High,3,High,2,Good,9,Silver range,4,Copper range,3,Meet Expectation
+E1001411,36,Main labor group,Male,Single,4,Master,Life Sciences,Manufacturing Director,1,Low,1,Low,3,Better,18,Gold range,9,Silver range,3,Meet Expectation
+E1001413,31,Main labor group,Male,Married,3,Bachelor,Life Sciences,Sales Representative,3,High,1,Low,3,Better,3,Copper range,2,Copper range,3,Meet Expectation
+E1001414,28,Main labor group,Male,Married,1,Below College,Life Sciences,Manager R&D,1,Low,1,Low,1,Bad,6,Silver range,3,Copper range,3,Meet Expectation
+E1001415,35,Main labor group,Male,Divorced,2,College,Marketing,Sales Executive,4,Very High,4,Very High,3,Better,5,Copper range,2,Copper range,3,Meet Expectation
+E1001416,49,Middle-aged labor group,Male,Married,4,Master,Technical Degree,Sales Executive,4,Very High,2,Medium,3,Better,22,Diamond range,8,Silver range,3,Meet Expectation
+E1001418,34,Main labor group,Male,Single,2,College,Life Sciences,Manager R&D,4,Very High,4,Very High,2,Good,5,Copper range,2,Copper range,3,Meet Expectation
+E1001421,29,Main labor group,Female,Divorced,3,Bachelor,Life Sciences,Research Scientist,4,Very High,4,Very High,2,Good,8,Silver range,5,Copper range,3,Meet Expectation
+E1001426,42,Middle-aged labor group,Male,Single,3,Bachelor,Medical,Laboratory Technician,2,Medium,1,Low,3,Better,16,Gold range,0,no exps,3,Meet Expectation
+E1001428,29,Main labor group,Male,Married,1,Below College,Medical,Manufacturing Director,2,Medium,3,High,2,Good,10,Silver range,7,Silver range,2,Needs Improvement
+E1001432,28,Main labor group,Male,Divorced,3,Bachelor,Life Sciences,Research Scientist,3,High,4,Very High,3,Better,3,Copper range,1,Copper range,3,Meet Expectation
+E1001434,18,Young labor group,Male,Single,1,Below College,Medical,Laboratory Technician,3,High,4,Very High,3,Better,0,no exps,0,no exps,3,Meet Expectation
+E1001435,33,Main labor group,Female,Single,4,Master,Marketing,Sales Executive,1,Low,1,Low,3,Better,6,Silver range,2,Copper range,3,Meet Expectation
+E1001436,41,Middle-aged labor group,Male,Married,4,Master,Life Sciences,Laboratory Technician,2,Medium,1,Low,3,Better,6,Silver range,0,no exps,3,Meet Expectation
+E1001438,31,Main labor group,Male,Married,3,Bachelor,Medical,Laboratory Technician,3,High,3,High,2,Good,2,Copper range,2,Copper range,3,Meet Expectation
+E1001439,37,Main labor group,Female,Divorced,2,College,Medical,Healthcare Representative,3,High,3,High,3,Better,9,Silver range,2,Copper range,3,Meet Expectation
+E1001440,27,Main labor group,Male,Married,3,Bachelor,Life Sciences,Research Scientist,4,Very High,3,High,3,Better,4,Copper range,2,Copper range,3,Meet Expectation
+E1001441,34,Main labor group,Female,Married,1,Below College,Life Sciences,Sales Executive,2,Medium,1,Low,2,Good,6,Silver range,5,Copper range,2,Needs Improvement
+E1001442,35,Main labor group,Male,Single,4,Master,Technical Degree,Human Resources,3,High,2,Medium,1,Bad,6,Silver range,4,Copper range,2,Needs Improvement
+E1001443,29,Main labor group,Female,Married,1,Below College,Life Sciences,Sales Executive,4,Very High,1,Low,1,Bad,11,Gold range,8,Silver range,2,Needs Improvement
+E1001444,40,Main labor group,Female,Single,4,Master,Medical,Research Director,2,Medium,3,High,2,Good,20,Gold range,7,Silver range,2,Needs Improvement
+E1001445,42,Middle-aged labor group,Male,Single,3,Bachelor,Life Sciences,Sales Executive,3,High,2,Medium,2,Good,22,Diamond range,9,Silver range,3,Meet Expectation
+E1001449,42,Middle-aged labor group,Male,Single,4,Master,Marketing,Sales Executive,2,Medium,4,Very High,4,Best,9,Silver range,4,Copper range,4,Exceed Expectation
+E1001451,24,Young labor group,Male,Single,3,Bachelor,Medical,Laboratory Technician,4,Very High,4,Very High,3,Better,6,Silver range,3,Copper range,4,Exceed Expectation
+E1001453,28,Main labor group,Female,Married,1,Below College,Life Sciences,Manager R&D,3,High,4,Very High,2,Good,1,Copper range,1,Copper range,3,Meet Expectation
+E1001455,26,Main labor group,Male,Married,4,Master,Medical,Manager R&D,1,Low,2,Medium,3,Better,8,Silver range,7,Silver range,3,Meet Expectation
+E1001457,30,Main labor group,Male,Married,3,Bachelor,Marketing,Sales Executive,3,High,1,Low,3,Better,10,Silver range,3,Copper range,3,Meet Expectation
+E1001458,40,Main labor group,Female,Married,2,College,Medical,Research Scientist,3,High,4,Very High,1,Bad,16,Gold range,1,Copper range,3,Meet Expectation
+E1001460,35,Main labor group,Male,Divorced,3,Bachelor,Life Sciences,Manufacturing Director,3,High,2,Medium,4,Best,15,Gold range,7,Silver range,3,Meet Expectation
+E1001462,34,Main labor group,Male,Single,3,Bachelor,Medical,Healthcare Representative,4,Very High,3,High,3,Better,14,Gold range,9,Silver range,5,Outstanding
+E1001463,35,Main labor group,Male,Married,4,Master,Other,Laboratory Technician,4,Very High,2,Medium,4,Best,2,Copper range,2,Copper range,3,Meet Expectation
+E1001466,43,Middle-aged labor group,Female,Single,3,Bachelor,Marketing,Sales Executive,1,Low,2,Medium,2,Good,7,Silver range,3,Copper range,2,Needs Improvement
+E1001468,32,Main labor group,Female,Divorced,1,Below College,Life Sciences,Sales Representative,3,High,3,High,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E1001469,56,Old labor group,Female,Divorced,4,Master,Technical Degree,Manager,4,Very High,4,Very High,3,Better,28,Diamond range,2,Copper range,3,Meet Expectation
+E1001470,29,Main labor group,Female,Married,1,Below College,Medical,Manager R&D,2,Medium,1,Low,3,Better,10,Silver range,8,Silver range,3,Meet Expectation
+E1001471,19,Young labor group,Male,Single,2,College,Life Sciences,Research Scientist,3,High,3,High,3,Better,1,Copper range,1,Copper range,4,Exceed Expectation
+E1001473,45,Middle-aged labor group,Female,Married,3,Bachelor,Medical,Manager R&D,1,Low,3,High,2,Good,7,Silver range,2,Copper range,3,Meet Expectation
+E1001474,37,Main labor group,Female,Married,3,Bachelor,Life Sciences,Manufacturing Director,4,Very High,2,Medium,2,Good,14,Gold range,8,Silver range,3,Meet Expectation
+E1001478,44,Middle-aged labor group,Male,Single,4,Master,Life Sciences,Manager R&D,3,High,3,High,3,Better,6,Silver range,4,Copper range,3,Meet Expectation
+E1001479,53,Old labor group,Female,Divorced,2,College,Medical,Manager R&D,4,Very High,2,Medium,3,Better,26,Diamond range,7,Silver range,3,Meet Expectation
+E1001481,22,Young labor group,Male,Married,4,Master,Life Sciences,Manager R&D,3,High,2,Medium,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E1001482,46,Middle-aged labor group,Female,Married,3,Bachelor,Marketing,Manager,3,High,1,Low,3,Better,28,Diamond range,15,Gold range,4,Exceed Expectation
+E1001484,44,Middle-aged labor group,Male,Single,3,Bachelor,Life Sciences,Research Scientist,4,Very High,4,Very High,3,Better,6,Silver range,0,no exps,3,Meet Expectation
+E1001485,33,Main labor group,Male,Married,3,Bachelor,Human Resources,Human Resources,2,Medium,4,Very High,3,Better,5,Copper range,4,Copper range,2,Needs Improvement
+E1001489,30,Main labor group,Male,Divorced,4,Master,Life Sciences,Sales Executive,3,High,3,High,3,Better,8,Silver range,3,Copper range,3,Meet Expectation
+E1001490,40,Main labor group,Male,Married,4,Master,Medical,Sales Executive,2,Medium,4,Very High,3,Better,5,Copper range,0,no exps,3,Meet Expectation
+E1001493,50,Middle-aged labor group,Female,Married,3,Bachelor,Medical,Manager R&D,4,Very High,3,High,3,Better,32,Diamond range,2,Copper range,4,Exceed Expectation
+E1001495,46,Middle-aged labor group,Male,Married,2,College,Life Sciences,Manager R&D,4,Very High,1,Low,3,Better,25,Diamond range,2,Copper range,3,Meet Expectation
+E1001496,35,Main labor group,Male,Married,4,Master,Life Sciences,Sales Executive,3,High,4,Very High,3,Better,15,Gold range,7,Silver range,3,Meet Expectation
+E1001497,24,Young labor group,Female,Married,2,College,Life Sciences,Laboratory Technician,4,Very High,1,Low,1,Bad,1,Copper range,0,no exps,3,Meet Expectation
+E1001498,33,Main labor group,Female,Married,3,Bachelor,Medical,Sales Executive,2,Medium,1,Low,2,Good,10,Silver range,7,Silver range,3,Meet Expectation
+E1001499,36,Main labor group,Male,Divorced,4,Master,Life Sciences,Laboratory Technician,3,High,3,High,3,Better,7,Silver range,7,Silver range,3,Meet Expectation
+E1001503,44,Middle-aged labor group,Male,Single,4,Master,Other,Research Scientist,4,Very High,2,Medium,3,Better,20,Gold range,11,Gold range,4,Exceed Expectation
+E1001509,42,Middle-aged labor group,Male,Married,5,Doctor,Medical,Human Resources,4,Very High,1,Low,4,Best,10,Silver range,3,Copper range,4,Exceed Expectation
+E1001512,32,Main labor group,Female,Married,3,Bachelor,Other,Laboratory Technician,3,High,3,High,3,Better,2,Copper range,2,Copper range,4,Exceed Expectation
+E1001513,32,Main labor group,Female,Single,2,College,Life Sciences,Manager R&D,4,Very High,4,Very High,3,Better,10,Silver range,7,Silver range,3,Meet Expectation
+E1001515,36,Main labor group,Female,Divorced,3,Bachelor,Technical Degree,Manufacturing Director,3,High,3,High,3,Better,17,Gold range,7,Silver range,5,Outstanding
+E1001516,33,Main labor group,Male,Married,3,Bachelor,Medical,Research Scientist,1,Low,2,Medium,3,Better,15,Gold range,10,Silver range,2,Needs Improvement
+E1001518,25,Main labor group,Male,Single,4,Master,Life Sciences,Sales Executive,3,High,2,Medium,3,Better,5,Copper range,3,Copper range,3,Meet Expectation
+E1001520,42,Middle-aged labor group,Female,Married,5,Doctor,Medical,Research Director,1,Low,3,High,3,Better,20,Gold range,0,no exps,3,Meet Expectation
+E1001522,27,Main labor group,Male,Married,3,Bachelor,Life Sciences,Manager R&D,1,Low,4,Very High,2,Good,9,Silver range,7,Silver range,2,Needs Improvement
+E1001523,54,Old labor group,Female,Divorced,4,Master,Life Sciences,Manufacturing Director,4,Very High,1,Low,1,Bad,33,Diamond range,4,Copper range,3,Meet Expectation
+E1001524,44,Middle-aged labor group,Female,Married,1,Below College,Life Sciences,Manager R&D,1,Low,4,Very High,3,Better,10,Silver range,5,Copper range,2,Needs Improvement
+E1001526,19,Young labor group,Female,Single,3,Bachelor,Medical,Research Scientist,1,Low,2,Medium,4,Best,1,Copper range,1,Copper range,4,Exceed Expectation
+E1001528,54,Old labor group,Male,Married,3,Bachelor,Life Sciences,Research Director,4,Very High,1,Low,3,Better,36,Diamond range,9,Silver range,3,Meet Expectation
+E1001529,31,Main labor group,Male,Married,2,College,Medical,Manager R&D,3,High,4,Very High,2,Good,6,Silver range,5,Copper range,3,Meet Expectation
+E1001533,43,Middle-aged labor group,Male,Married,3,Bachelor,Life Sciences,Research Director,3,High,2,Medium,3,Better,25,Diamond range,7,Silver range,3,Meet Expectation
+E1001534,49,Middle-aged labor group,Male,Married,2,College,Medical,Manager R&D,1,Low,3,High,4,Best,23,Diamond range,0,no exps,3,Meet Expectation
+E1001535,36,Main labor group,Male,Married,3,Bachelor,Technical Degree,Research Scientist,3,High,3,High,2,Good,12,Gold range,10,Silver range,3,Meet Expectation
+E1001536,48,Middle-aged labor group,Male,Single,2,College,Technical Degree,Laboratory Technician,4,Very High,3,High,2,Good,7,Silver range,0,no exps,3,Meet Expectation
+E1001538,29,Main labor group,Male,Divorced,3,Bachelor,Life Sciences,Manager R&D,3,High,2,Medium,3,Better,6,Silver range,0,no exps,3,Meet Expectation
+E1001541,48,Middle-aged labor group,Male,Single,3,Bachelor,Life Sciences,Research Director,4,Very High,3,High,4,Best,25,Diamond range,0,no exps,4,Exceed Expectation
+E1001542,29,Main labor group,Female,Divorced,3,Bachelor,Life Sciences,Research Director,4,Very High,2,Medium,2,Good,9,Silver range,7,Silver range,3,Meet Expectation
+E1001545,44,Middle-aged labor group,Male,Married,3,Bachelor,Marketing,Manager,2,Medium,3,High,3,Better,26,Diamond range,9,Silver range,2,Needs Improvement
+E1001548,23,Young labor group,Male,Married,2,College,Life Sciences,Research Scientist,4,Very High,4,Very High,3,Better,1,Copper range,0,no exps,4,Exceed Expectation
+E1001553,26,Main labor group,Male,Single,2,College,Life Sciences,Research Scientist,3,High,2,Medium,2,Good,8,Silver range,5,Copper range,4,Exceed Expectation
+E1001555,45,Middle-aged labor group,Female,Single,3,Bachelor,Marketing,Manager,1,Low,1,Low,3,Better,26,Diamond range,10,Silver range,2,Needs Improvement
+E1001556,55,Old labor group,Male,Divorced,1,Below College,Medical,Healthcare Representative,4,Very High,4,Very High,3,Better,34,Diamond range,9,Silver range,3,Meet Expectation
+E1001557,21,Young labor group,Female,Single,2,College,Life Sciences,Laboratory Technician,1,Low,3,High,1,Bad,2,Copper range,2,Copper range,2,Needs Improvement
+E1001558,46,Middle-aged labor group,Female,Married,2,College,Marketing,Manager,4,Very High,3,High,3,Better,26,Diamond range,4,Copper range,3,Meet Expectation
+E1001559,34,Main labor group,Female,Single,3,Bachelor,Marketing,Sales Executive,3,High,4,Very High,3,Better,4,Copper range,2,Copper range,3,Meet Expectation
+E1001560,51,Old labor group,Male,Divorced,3,Bachelor,Life Sciences,Manager,4,Very High,1,Low,2,Good,31,Diamond range,10,Silver range,4,Exceed Expectation
+E1001561,59,Old labor group,Male,Single,4,Master,Medical,Manager R&D,4,Very High,4,Very High,2,Good,25,Diamond range,7,Silver range,3,Meet Expectation
+E1001563,34,Main labor group,Female,Divorced,3,Bachelor,Medical,Laboratory Technician,3,High,3,High,4,Best,15,Gold range,8,Silver range,3,Meet Expectation
+E1001564,28,Main labor group,Male,Single,4,Master,Medical,Laboratory Technician,4,Very High,3,High,2,Good,5,Copper range,2,Copper range,3,Meet Expectation
+E1001566,44,Middle-aged labor group,Male,Divorced,2,College,Life Sciences,Manager R&D,3,High,4,Very High,2,Good,26,Diamond range,9,Silver range,3,Meet Expectation
+E1001567,34,Main labor group,Male,Married,3,Bachelor,Life Sciences,Human Resources,3,High,4,Very High,4,Best,14,Gold range,9,Silver range,3,Meet Expectation
+E1001569,35,Main labor group,Male,Married,1,Below College,Life Sciences,Research Scientist,3,High,4,Very High,3,Better,4,Copper range,2,Copper range,3,Meet Expectation
+E1001570,42,Middle-aged labor group,Female,Married,4,Master,Medical,Research Scientist,2,Medium,4,Very High,3,Better,18,Gold range,0,no exps,3,Meet Expectation
+E1001571,43,Middle-aged labor group,Female,Single,4,Master,Marketing,Sales Executive,4,Very High,4,Very High,4,Best,23,Diamond range,7,Silver range,3,Meet Expectation
+E1001572,36,Main labor group,Female,Single,4,Master,Life Sciences,Manufacturing Director,3,High,4,Very High,3,Better,18,Gold range,14,Gold range,3,Meet Expectation
+E1001574,28,Main labor group,Male,Married,3,Bachelor,Life Sciences,Laboratory Technician,4,Very High,2,Medium,3,Better,2,Copper range,2,Copper range,3,Meet Expectation
+E1001575,51,Old labor group,Female,Single,2,College,Medical,Laboratory Technician,2,Medium,2,Medium,2,Good,8,Silver range,0,no exps,3,Meet Expectation
+E1001576,30,Main labor group,Female,Single,2,College,Medical,Manufacturing Director,3,High,3,High,3,Better,10,Silver range,4,Copper range,3,Meet Expectation
+E1001577,29,Main labor group,Female,Divorced,3,Bachelor,Technical Degree,Laboratory Technician,2,Medium,1,Low,3,Better,10,Silver range,7,Silver range,2,Needs Improvement
+E1001579,28,Main labor group,Male,Single,3,Bachelor,Technical Degree,Research Scientist,4,Very High,2,Medium,2,Good,5,Copper range,2,Copper range,3,Meet Expectation
+E1001581,25,Main labor group,Female,Single,3,Bachelor,Medical,Research Scientist,4,Very High,4,Very High,2,Good,2,Copper range,2,Copper range,3,Meet Expectation
+E1001582,32,Main labor group,Male,Married,3,Bachelor,Medical,Sales Executive,3,High,3,High,4,Best,10,Silver range,7,Silver range,3,Meet Expectation
+E1001584,45,Middle-aged labor group,Female,Single,3,Bachelor,Medical,Manager,2,Medium,3,High,3,Better,22,Diamond range,0,no exps,4,Exceed Expectation
+E1001585,39,Main labor group,Female,Divorced,4,Master,Medical,Manager,3,High,4,Very High,3,Better,21,Diamond range,9,Silver range,3,Meet Expectation
+E1001586,58,Old labor group,Male,Divorced,4,Master,Life Sciences,Research Scientist,1,Low,4,Very High,3,Better,2,Copper range,2,Copper range,2,Needs Improvement
+E1001587,32,Main labor group,Male,Married,2,College,Life Sciences,Manager R&D,4,Very High,1,Low,3,Better,10,Silver range,4,Copper range,3,Meet Expectation
+E1001590,36,Main labor group,Female,Married,4,Master,Technical Degree,Healthcare Representative,4,Very High,1,Low,3,Better,10,Silver range,7,Silver range,3,Meet Expectation
+E1001592,46,Middle-aged labor group,Female,Single,2,College,Life Sciences,Human Resources,4,Very High,3,High,4,Best,10,Silver range,6,Silver range,3,Meet Expectation
+E1001593,28,Main labor group,Female,Married,3,Bachelor,Life Sciences,Manager R&D,3,High,1,Low,3,Better,10,Silver range,8,Silver range,3,Meet Expectation
+E1001595,50,Middle-aged labor group,Female,Married,3,Bachelor,Life Sciences,Manager R&D,4,Very High,2,Medium,3,Better,25,Diamond range,2,Copper range,3,Meet Expectation
+E1001596,40,Main labor group,Male,Single,4,Master,Marketing,Sales Executive,4,Very High,3,High,3,Better,9,Silver range,4,Copper range,3,Meet Expectation
+E1001597,52,Old labor group,Male,Single,3,Bachelor,Life Sciences,Sales Executive,2,Medium,3,High,2,Good,10,Silver range,7,Silver range,2,Needs Improvement
+E1001602,31,Main labor group,Female,Divorced,4,Master,Life Sciences,Sales Executive,4,Very High,1,Low,2,Good,10,Silver range,8,Silver range,3,Meet Expectation
+E1001607,41,Middle-aged labor group,Male,Single,2,College,Medical,Sales Executive,3,High,1,Low,3,Better,19,Gold range,2,Copper range,3,Meet Expectation
+E1001614,55,Old labor group,Female,Married,2,College,Medical,Manager,4,Very High,4,Very High,3,Better,23,Diamond range,9,Silver range,3,Meet Expectation
+E1001616,56,Old labor group,Male,Single,4,Master,Life Sciences,Manager,4,Very High,1,Low,3,Better,36,Diamond range,3,Copper range,3,Meet Expectation
+E1001618,40,Main labor group,Male,Divorced,2,College,Life Sciences,Research Scientist,3,High,2,Medium,3,Better,6,Silver range,2,Copper range,3,Meet Expectation
+E1001622,34,Main labor group,Male,Divorced,3,Bachelor,Life Sciences,Healthcare Representative,4,Very High,4,Very High,2,Good,10,Silver range,7,Silver range,3,Meet Expectation
+E1001627,41,Middle-aged labor group,Female,Divorced,3,Bachelor,Marketing,Sales Executive,3,High,4,Very High,3,Better,10,Silver range,3,Copper range,3,Meet Expectation
+E1001628,35,Main labor group,Male,Single,4,Master,Life Sciences,Research Scientist,3,High,2,Medium,3,Better,9,Silver range,6,Silver range,3,Meet Expectation
+E1001630,51,Old labor group,Male,Divorced,3,Bachelor,Life Sciences,Manager,3,High,2,Medium,3,Better,33,Diamond range,9,Silver range,3,Meet Expectation
+E1001633,38,Main labor group,Female,Divorced,2,College,Life Sciences,Sales Executive,2,Medium,4,Very High,3,Better,11,Gold range,7,Silver range,2,Needs Improvement
+E1001634,34,Main labor group,Female,Single,2,College,Medical,Sales Executive,3,High,4,Very High,4,Best,10,Silver range,8,Silver range,3,Meet Expectation
+E1001636,25,Main labor group,Male,Married,1,Below College,Medical,Laboratory Technician,4,Very High,3,High,2,Good,7,Silver range,2,Copper range,3,Meet Expectation
+E1001638,58,Old labor group,Female,Married,4,Master,Medical,Manufacturing Director,3,High,4,Very High,2,Good,31,Diamond range,9,Silver range,3,Meet Expectation
+E1001639,40,Main labor group,Male,Married,4,Master,Life Sciences,Laboratory Technician,2,Medium,3,High,3,Better,7,Silver range,2,Copper range,3,Meet Expectation
+E1001640,36,Main labor group,Female,Married,3,Bachelor,Marketing,Sales Executive,1,Low,4,Very High,2,Good,17,Gold range,7,Silver range,2,Needs Improvement
+E1001641,48,Middle-aged labor group,Male,Single,3,Bachelor,Life Sciences,Manufacturing Director,4,Very High,3,High,3,Better,11,Gold range,9,Silver range,3,Meet Expectation
+E1001642,27,Main labor group,Female,Married,3,Bachelor,Medical,Sales Representative,3,High,2,Medium,3,Better,5,Copper range,0,no exps,3,Meet Expectation
+E1001645,51,Old labor group,Female,Single,2,College,Technical Degree,Manager R&D,4,Very High,2,Medium,2,Good,29,Diamond range,2,Copper range,3,Meet Expectation
+E1001646,18,Young labor group,Female,Single,3,Bachelor,Life Sciences,Manager R&D,4,Very High,3,High,4,Best,0,no exps,0,no exps,4,Exceed Expectation
+E1001647,35,Main labor group,Female,Married,3,Bachelor,Medical,Laboratory Technician,4,Very High,2,Medium,3,Better,10,Silver range,7,Silver range,3,Meet Expectation
+E1001649,27,Main labor group,Male,Single,1,Below College,Life Sciences,Sales Executive,4,Very High,2,Medium,3,Better,8,Silver range,2,Copper range,4,Exceed Expectation
+E1001650,55,Old labor group,Male,Single,4,Master,Marketing,Sales Executive,1,Low,3,High,2,Good,24,Diamond range,7,Silver range,2,Needs Improvement
+E1001651,56,Old labor group,Male,Married,3,Bachelor,Life Sciences,Manager R&D,4,Very High,1,Low,3,Better,33,Diamond range,16,Gold range,3,Meet Expectation
+E1001652,34,Main labor group,Female,Divorced,1,Below College,Technical Degree,Research Scientist,1,Low,3,High,3,Better,5,Copper range,4,Copper range,3,Meet Expectation
+E1001653,40,Main labor group,Female,Divorced,1,Below College,Medical,Manager R&D,2,Medium,2,Medium,3,Better,15,Gold range,11,Gold range,2,Needs Improvement
+E1001655,34,Main labor group,Male,Married,3,Bachelor,Medical,Laboratory Technician,2,Medium,1,Low,3,Better,10,Silver range,7,Silver range,2,Needs Improvement
+E1001657,31,Main labor group,Female,Single,3,Bachelor,Life Sciences,Sales Representative,3,High,3,High,4,Best,3,Copper range,0,no exps,3,Meet Expectation
+E1001660,38,Main labor group,Male,Divorced,3,Bachelor,Life Sciences,Research Scientist,4,Very High,4,Very High,3,Better,4,Copper range,2,Copper range,3,Meet Expectation
+E1001661,34,Main labor group,Female,Single,4,Master,Technical Degree,Healthcare Representative,3,High,4,Very High,4,Best,14,Gold range,11,Gold range,3,Meet Expectation
+E1001665,28,Main labor group,Male,Married,3,Bachelor,Life Sciences,Sales Executive,3,High,3,High,3,Better,5,Copper range,3,Copper range,3,Meet Expectation
+E1001668,39,Main labor group,Male,Married,4,Master,Life Sciences,Sales Executive,1,Low,4,Very High,4,Best,8,Silver range,4,Copper range,2,Needs Improvement
+E1001669,51,Old labor group,Male,Married,3,Bachelor,Marketing,Sales Executive,2,Medium,2,Medium,3,Better,14,Gold range,2,Copper range,2,Needs Improvement
+E1001670,41,Middle-aged labor group,Female,Divorced,3,Bachelor,Life Sciences,Manager R&D,4,Very High,1,Low,2,Good,12,Gold range,2,Copper range,3,Meet Expectation
+E1001673,33,Main labor group,Male,Married,1,Below College,Life Sciences,Sales Executive,2,Medium,1,Low,4,Best,8,Silver range,4,Copper range,2,Needs Improvement
+E1001674,32,Main labor group,Male,Married,1,Below College,Marketing,Sales Executive,3,High,1,Low,2,Good,4,Copper range,2,Copper range,3,Meet Expectation
+E1001675,39,Main labor group,Male,Married,2,College,Life Sciences,Manager R&D,3,High,2,Medium,3,Better,13,Gold range,4,Copper range,4,Exceed Expectation
+E1001677,25,Main labor group,Male,Married,1,Below College,Life Sciences,Sales Executive,1,Low,2,Medium,2,Good,6,Silver range,2,Copper range,2,Needs Improvement
+E1001679,52,Old labor group,Female,Married,2,College,Medical,Manufacturing Director,4,Very High,2,Medium,2,Good,24,Diamond range,3,Copper range,3,Meet Expectation
+E1001680,43,Middle-aged labor group,Female,Single,3,Bachelor,Medical,Research Scientist,1,Low,1,Low,1,Bad,20,Gold range,7,Silver range,2,Needs Improvement
+E1001681,27,Main labor group,Female,Married,3,Bachelor,Marketing,Sales Executive,4,Very High,4,Very High,3,Better,6,Silver range,2,Copper range,3,Meet Expectation
+E1001683,27,Main labor group,Female,Single,4,Master,Life Sciences,Research Scientist,4,Very High,4,Very High,3,Better,8,Silver range,2,Copper range,3,Meet Expectation
+E1001685,26,Main labor group,Male,Single,1,Below College,Medical,Research Scientist,1,Low,4,Very High,3,Better,5,Copper range,3,Copper range,3,Meet Expectation
+E1001686,42,Middle-aged labor group,Female,Married,3,Bachelor,Human Resources,Manager,3,High,3,High,3,Better,21,Diamond range,7,Silver range,3,Meet Expectation
+E1001689,37,Main labor group,Female,Single,3,Bachelor,Medical,Manager R&D,1,Low,1,Low,3,Better,8,Silver range,2,Copper range,3,Meet Expectation
+E1001690,35,Main labor group,Male,Single,2,College,Life Sciences,Manufacturing Director,3,High,3,High,3,Better,10,Silver range,2,Copper range,3,Meet Expectation
+E1001693,25,Main labor group,Male,Married,3,Bachelor,Technical Degree,Laboratory Technician,1,Low,2,Medium,2,Good,7,Silver range,2,Copper range,3,Meet Expectation
+E1001697,29,Main labor group,Male,Single,3,Bachelor,Other,Human Resources,2,Medium,1,Low,2,Good,10,Silver range,9,Silver range,3,Meet Expectation
+E1001698,49,Middle-aged labor group,Male,Single,2,College,Life Sciences,Manager R&D,1,Low,1,Low,3,Better,20,Gold range,3,Copper range,3,Meet Expectation
+E1001700,54,Old labor group,Female,Single,3,Bachelor,Medical,Research Director,4,Very High,4,Very High,2,Good,29,Diamond range,7,Silver range,3,Meet Expectation
+E1001701,58,Old labor group,Female,Married,3,Bachelor,Medical,Manager R&D,4,Very High,3,High,3,Better,32,Diamond range,8,Silver range,4,Exceed Expectation
+E1001703,36,Main labor group,Female,Single,4,Master,Marketing,Sales Executive,1,Low,4,Very High,3,Better,15,Gold range,4,Copper range,3,Meet Expectation
+E1001705,31,Main labor group,Female,Single,4,Master,Life Sciences,Sales Representative,2,Medium,2,Medium,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E1001706,30,Main labor group,Female,Divorced,4,Master,Marketing,Sales Executive,4,Very High,2,Medium,3,Better,8,Silver range,2,Copper range,3,Meet Expectation
+E1001708,31,Main labor group,Female,Single,5,Doctor,Life Sciences,Research Director,1,Low,3,High,4,Best,9,Silver range,2,Copper range,3,Meet Expectation
+E1001709,34,Main labor group,Male,Divorced,4,Master,Other,Research Scientist,4,Very High,3,High,3,Better,10,Silver range,3,Copper range,3,Meet Expectation
+E1001711,31,Main labor group,Female,Single,3,Bachelor,Life Sciences,Research Scientist,1,Low,3,High,4,Best,1,Copper range,0,no exps,3,Meet Expectation
+E1001712,27,Main labor group,Male,Married,1,Below College,Life Sciences,Manager R&D,2,Medium,2,Medium,4,Best,6,Silver range,0,no exps,3,Meet Expectation
+E1001713,36,Main labor group,Male,Single,4,Master,Life Sciences,Laboratory Technician,1,Low,3,High,2,Good,10,Silver range,4,Copper range,2,Needs Improvement
+E1001716,47,Middle-aged labor group,Male,Married,3,Bachelor,Technical Degree,Research Scientist,1,Low,3,High,2,Good,17,Gold range,5,Copper range,2,Needs Improvement
+E1001717,25,Main labor group,Male,Married,2,College,Life Sciences,Sales Representative,1,Low,1,Low,3,Better,6,Silver range,2,Copper range,2,Needs Improvement
+E1001718,37,Main labor group,Male,Single,2,College,Technical Degree,Manager R&D,3,High,1,Low,1,Bad,7,Silver range,5,Copper range,3,Meet Expectation
+E1001719,56,Old labor group,Female,Married,2,College,Life Sciences,Manager R&D,1,Low,4,Very High,4,Best,5,Copper range,2,Copper range,5,Outstanding
+E1001723,24,Young labor group,Female,Married,1,Below College,Medical,Sales Executive,4,Very High,3,High,3,Better,5,Copper range,4,Copper range,3,Meet Expectation
+E1001725,34,Main labor group,Female,Married,3,Bachelor,Life Sciences,Laboratory Technician,4,Very High,1,Low,2,Good,7,Silver range,4,Copper range,3,Meet Expectation
+E1001726,41,Middle-aged labor group,Male,Married,5,Doctor,Medical,Manager R&D,2,Medium,1,Low,2,Good,7,Silver range,2,Copper range,3,Meet Expectation
+E1001727,40,Main labor group,Male,Divorced,4,Master,Other,Laboratory Technician,3,High,3,High,4,Best,11,Gold range,7,Silver range,3,Meet Expectation
+E1001731,31,Main labor group,Male,Divorced,2,College,Life Sciences,Sales Executive,1,Low,1,Low,3,Better,13,Gold range,7,Silver range,2,Needs Improvement
+E1001736,39,Main labor group,Female,Single,3,Bachelor,Life Sciences,Laboratory Technician,1,Low,2,Medium,4,Best,11,Gold range,0,no exps,4,Exceed Expectation
+E1001737,31,Main labor group,Female,Single,5,Doctor,Life Sciences,Manager R&D,3,High,1,Low,3,Better,10,Silver range,8,Silver range,3,Meet Expectation
+E1001738,45,Middle-aged labor group,Male,Divorced,3,Bachelor,Medical,Manager R&D,2,Medium,2,Medium,3,Better,24,Diamond range,7,Silver range,3,Meet Expectation
+E1001739,31,Main labor group,Female,Single,2,College,Medical,Human Resources,4,Very High,4,Very High,3,Better,8,Silver range,2,Copper range,3,Meet Expectation
+E1001743,45,Middle-aged labor group,Male,Married,3,Bachelor,Technical Degree,Manager R&D,2,Medium,4,Very High,4,Best,10,Silver range,1,Copper range,3,Meet Expectation
+E1001745,34,Main labor group,Female,Married,4,Master,Technical Degree,Human Resources,1,Low,4,Very High,3,Better,2,Copper range,2,Copper range,2,Needs Improvement
+E1001746,40,Main labor group,Male,Divorced,1,Below College,Medical,Research Director,4,Very High,3,High,3,Better,16,Gold range,8,Silver range,3,Meet Expectation
+E1001749,44,Middle-aged labor group,Male,Single,3,Bachelor,Life Sciences,Laboratory Technician,3,High,4,Very High,3,Better,7,Silver range,2,Copper range,3,Meet Expectation
+E1001751,49,Middle-aged labor group,Male,Married,4,Master,Technical Degree,Manager R&D,1,Low,2,Medium,2,Good,20,Gold range,2,Copper range,2,Needs Improvement
+E1001752,40,Main labor group,Male,Divorced,3,Bachelor,Medical,Research Scientist,3,High,3,High,4,Best,8,Silver range,1,Copper range,4,Exceed Expectation
+E1001753,44,Middle-aged labor group,Male,Single,3,Bachelor,Life Sciences,Manager R&D,4,Very High,3,High,2,Good,6,Silver range,2,Copper range,3,Meet Expectation
+E1001755,33,Main labor group,Male,Married,3,Bachelor,Medical,Sales Executive,4,Very High,1,Low,3,Better,5,Copper range,3,Copper range,3,Meet Expectation
+E1001756,34,Main labor group,Male,Single,3,Bachelor,Other,Sales Executive,4,Very High,4,Very High,3,Better,15,Gold range,9,Silver range,3,Meet Expectation
+E1001757,30,Main labor group,Male,Married,1,Below College,Life Sciences,Sales Executive,4,Very High,3,High,2,Good,4,Copper range,1,Copper range,3,Meet Expectation
+E1001758,42,Middle-aged labor group,Female,Single,2,College,Medical,Laboratory Technician,1,Low,3,High,3,Better,12,Gold range,9,Silver range,2,Needs Improvement
+E1001759,44,Middle-aged labor group,Female,Married,5,Doctor,Marketing,Sales Executive,1,Low,3,High,2,Good,11,Gold range,0,no exps,3,Meet Expectation
+E1001760,30,Main labor group,Male,Divorced,3,Bachelor,Technical Degree,Research Scientist,3,High,2,Medium,2,Good,1,Copper range,0,no exps,3,Meet Expectation
+E1001761,57,Old labor group,Male,Married,2,College,Life Sciences,Research Scientist,2,Medium,1,Low,2,Good,13,Gold range,9,Silver range,2,Needs Improvement
+E1001762,49,Middle-aged labor group,Male,Divorced,4,Master,Life Sciences,Manager R&D,3,High,2,Medium,3,Better,29,Diamond range,7,Silver range,3,Meet Expectation
+E1001763,34,Main labor group,Male,Divorced,3,Bachelor,Medical,Research Director,2,Medium,4,Very High,2,Good,16,Gold range,8,Silver range,2,Needs Improvement
+E1001764,28,Main labor group,Male,Married,3,Bachelor,Technical Degree,Sales Representative,1,Low,4,Very High,4,Best,5,Copper range,2,Copper range,2,Needs Improvement
+E1001767,34,Main labor group,Female,Single,4,Master,Medical,Sales Executive,1,Low,3,High,4,Best,16,Gold range,9,Silver range,2,Needs Improvement
+E1001770,35,Main labor group,Male,Married,1,Below College,Life Sciences,Sales Representative,4,Very High,1,Low,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E1001773,24,Young labor group,Female,Married,2,College,Life Sciences,Sales Representative,4,Very High,3,High,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E1001774,44,Middle-aged labor group,Male,Single,1,Below College,Medical,Manager R&D,2,Medium,2,Medium,2,Good,16,Gold range,2,Copper range,2,Needs Improvement
+E1001775,29,Main labor group,Male,Divorced,3,Bachelor,Life Sciences,Sales Executive,3,High,3,High,3,Better,10,Silver range,7,Silver range,3,Meet Expectation
+E1001779,55,Old labor group,Male,Married,4,Master,Life Sciences,Manager R&D,4,Very High,2,Medium,3,Better,4,Copper range,2,Copper range,3,Meet Expectation
+E1001780,33,Main labor group,Female,Married,4,Master,Medical,Manager R&D,1,Low,4,Very High,3,Better,8,Silver range,4,Copper range,3,Meet Expectation
+E1001781,47,Middle-aged labor group,Female,Married,3,Bachelor,Medical,Sales Executive,3,High,3,High,2,Good,11,Gold range,4,Copper range,3,Meet Expectation
+E1001782,28,Main labor group,Male,Single,2,College,Medical,Laboratory Technician,3,High,3,High,2,Good,8,Silver range,0,no exps,3,Meet Expectation
+E1001784,28,Main labor group,Male,Divorced,3,Bachelor,Life Sciences,Manager R&D,1,Low,4,Very High,1,Bad,1,Copper range,0,no exps,3,Meet Expectation
+E1001785,28,Main labor group,Male,Single,3,Bachelor,Life Sciences,Sales Executive,3,High,4,Very High,3,Better,5,Copper range,2,Copper range,3,Meet Expectation
+E1001787,49,Middle-aged labor group,Female,Married,2,College,Medical,Laboratory Technician,3,High,1,Low,3,Better,10,Silver range,2,Copper range,4,Exceed Expectation
+E1001791,29,Main labor group,Female,Married,1,Below College,Life Sciences,Laboratory Technician,4,Very High,3,High,3,Better,4,Copper range,2,Copper range,3,Meet Expectation
+E1001792,28,Main labor group,Male,Married,1,Below College,Life Sciences,Manager R&D,3,High,2,Medium,2,Good,8,Silver range,6,Silver range,3,Meet Expectation
+E1001793,33,Main labor group,Male,Single,5,Doctor,Life Sciences,Healthcare Representative,4,Very High,1,Low,3,Better,14,Gold range,0,no exps,3,Meet Expectation
+E1001794,32,Main labor group,Male,Single,3,Bachelor,Medical,Manager,3,High,2,Medium,4,Best,10,Silver range,2,Copper range,3,Meet Expectation
+E1001798,54,Old labor group,Female,Divorced,4,Master,Medical,Manager R&D,2,Medium,1,Low,3,Better,26,Diamond range,9,Silver range,2,Needs Improvement
+E1001800,29,Main labor group,Male,Single,4,Master,Technical Degree,Research Scientist,1,Low,3,High,1,Bad,11,Gold range,7,Silver range,3,Meet Expectation
+E1001805,46,Middle-aged labor group,Female,Married,3,Bachelor,Life Sciences,Manager,3,High,4,Very High,4,Best,23,Diamond range,12,Gold range,3,Meet Expectation
+E1001807,35,Main labor group,Female,Single,3,Bachelor,Life Sciences,Manager R&D,4,Very High,4,Very High,1,Bad,11,Gold range,8,Silver range,3,Meet Expectation
+E1001811,23,Young labor group,Male,Single,1,Below College,Life Sciences,Laboratory Technician,1,Low,2,Medium,3,Better,5,Copper range,3,Copper range,2,Needs Improvement
+E1001812,40,Main labor group,Male,Single,4,Master,Life Sciences,Laboratory Technician,4,Very High,2,Medium,1,Bad,15,Gold range,4,Copper range,3,Meet Expectation
+E1001813,34,Main labor group,Male,Married,3,Bachelor,Technical Degree,Sales Executive,4,Very High,4,Very High,3,Better,10,Silver range,9,Silver range,3,Meet Expectation
+E1001817,50,Middle-aged labor group,Male,Single,5,Doctor,Medical,Research Director,3,High,4,Very High,3,Better,32,Diamond range,6,Silver range,3,Meet Expectation
+E1001820,42,Middle-aged labor group,Male,Married,3,Bachelor,Medical,Manager R&D,3,High,2,Medium,3,Better,4,Copper range,0,no exps,3,Meet Expectation
+E1001821,37,Main labor group,Male,Married,3,Bachelor,Medical,Research Scientist,1,Low,1,Low,3,Better,10,Silver range,8,Silver range,2,Needs Improvement
+E1001822,29,Main labor group,Female,Married,1,Below College,Other,Healthcare Representative,3,High,3,High,3,Better,9,Silver range,7,Silver range,3,Meet Expectation
+E1001823,33,Main labor group,Male,Single,3,Bachelor,Life Sciences,Manufacturing Director,4,Very High,4,Very High,3,Better,5,Copper range,3,Copper range,3,Meet Expectation
+E1001824,45,Middle-aged labor group,Male,Married,3,Bachelor,Technical Degree,Research Scientist,4,Very High,4,Very High,3,Better,8,Silver range,4,Copper range,4,Exceed Expectation
+E1001825,42,Middle-aged labor group,Male,Married,3,Bachelor,Life Sciences,Healthcare Representative,4,Very High,3,High,1,Bad,24,Diamond range,8,Silver range,3,Meet Expectation
+E1001826,40,Main labor group,Male,Married,2,College,Medical,Sales Executive,1,Low,4,Very High,4,Best,9,Silver range,4,Copper range,2,Needs Improvement
+E1001827,33,Main labor group,Male,Married,4,Master,Life Sciences,Laboratory Technician,2,Medium,2,Medium,3,Better,15,Gold range,14,Gold range,2,Needs Improvement
+E1001828,40,Main labor group,Male,Single,2,College,Medical,Manager,3,High,4,Very High,3,Better,21,Diamond range,7,Silver range,4,Exceed Expectation
+E1001829,24,Young labor group,Male,Divorced,2,College,Technical Degree,Laboratory Technician,3,High,2,Medium,3,Better,2,Copper range,1,Copper range,3,Meet Expectation
+E1001830,40,Main labor group,Male,Divorced,2,College,Life Sciences,Manager R&D,4,Very High,3,High,3,Better,8,Silver range,2,Copper range,3,Meet Expectation
+E1001831,45,Middle-aged labor group,Male,Divorced,4,Master,Technical Degree,Healthcare Representative,1,Low,1,Low,3,Better,10,Silver range,8,Silver range,2,Needs Improvement
+E1001832,35,Main labor group,Female,Married,4,Master,Life Sciences,Sales Representative,2,Medium,1,Low,3,Better,6,Silver range,3,Copper range,2,Needs Improvement
+E1001834,36,Main labor group,Male,Single,4,Master,Life Sciences,Sales Representative,3,High,4,Very High,2,Good,7,Silver range,2,Copper range,4,Exceed Expectation
+E1001835,48,Middle-aged labor group,Female,Divorced,4,Master,Life Sciences,Sales Executive,3,High,3,High,3,Better,18,Gold range,7,Silver range,3,Meet Expectation
+E1001838,33,Main labor group,Male,Married,4,Master,Life Sciences,Sales Executive,1,Low,4,Very High,1,Bad,8,Silver range,2,Copper range,2,Needs Improvement
+E1001840,30,Main labor group,Male,Married,3,Bachelor,Life Sciences,Sales Executive,2,Medium,4,Very High,3,Better,10,Silver range,8,Silver range,2,Needs Improvement
+E1001841,38,Main labor group,Male,Married,4,Master,Human Resources,Human Resources,3,High,3,High,3,Better,10,Silver range,3,Copper range,3,Meet Expectation
+E1001846,30,Main labor group,Male,Married,4,Master,Technical Degree,Sales Executive,3,High,2,Medium,3,Better,9,Silver range,2,Copper range,3,Meet Expectation
+E1001847,35,Main labor group,Female,Divorced,3,Bachelor,Life Sciences,Laboratory Technician,1,Low,4,Very High,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E1001850,53,Old labor group,Female,Married,5,Doctor,Technical Degree,Manufacturing Director,3,High,2,Medium,3,Better,34,Diamond range,7,Silver range,3,Meet Expectation
+E1001851,38,Main labor group,Male,Married,3,Bachelor,Medical,Manufacturing Director,3,High,1,Low,3,Better,7,Silver range,2,Copper range,3,Meet Expectation
+E1001854,48,Middle-aged labor group,Female,Married,4,Master,Other,Manager R&D,3,High,4,Very High,2,Good,10,Silver range,2,Copper range,3,Meet Expectation
+E1001855,34,Main labor group,Male,Single,4,Master,Medical,Research Scientist,1,Low,3,High,1,Bad,1,Copper range,0,no exps,3,Meet Expectation
+E1001856,55,Old labor group,Male,Married,5,Doctor,Marketing,Manager,3,High,3,High,3,Better,36,Diamond range,6,Silver range,4,Exceed Expectation
+E1001858,34,Main labor group,Male,Married,4,Master,Life Sciences,Manager R&D,2,Medium,2,Medium,2,Good,9,Silver range,2,Copper range,2,Needs Improvement
+E1001860,38,Main labor group,Male,Married,3,Bachelor,Life Sciences,Sales Executive,3,High,4,Very High,3,Better,10,Silver range,8,Silver range,3,Meet Expectation
+E1001863,36,Main labor group,Female,Single,4,Master,Life Sciences,Sales Executive,2,Medium,1,Low,3,Better,15,Gold range,0,no exps,3,Meet Expectation
+E1001864,29,Main labor group,Male,Single,1,Below College,Medical,Manager R&D,2,Medium,4,Very High,3,Better,10,Silver range,9,Silver range,2,Needs Improvement
+E1001865,35,Main labor group,Female,Single,4,Master,Medical,Healthcare Representative,1,Low,3,High,3,Better,10,Silver range,2,Copper range,3,Meet Expectation
+E1001866,39,Main labor group,Male,Married,3,Bachelor,Medical,Sales Executive,4,Very High,1,Low,3,Better,11,Gold range,6,Silver range,3,Meet Expectation
+E1001868,29,Main labor group,Male,Divorced,1,Below College,Life Sciences,Finance Manager,1,Low,4,Very High,4,Best,6,Silver range,4,Copper range,2,Needs Improvement
+E1001869,50,Middle-aged labor group,Male,Married,3,Bachelor,Marketing,Manager,3,High,3,High,3,Better,27,Diamond range,0,no exps,3,Meet Expectation
+E1001870,23,Young labor group,Male,Married,3,Bachelor,Technical Degree,Finance Manager,4,Very High,4,Very High,3,Better,4,Copper range,2,Copper range,3,Meet Expectation
+E1001874,35,Main labor group,Male,Married,3,Bachelor,Life Sciences,Finance Manager,2,Medium,4,Very High,2,Good,10,Silver range,9,Silver range,2,Needs Improvement
+E1001875,34,Main labor group,Male,Married,4,Master,Technical Degree,Finance Manager,4,Very High,2,Medium,2,Good,8,Silver range,2,Copper range,3,Meet Expectation
+E1001877,43,Middle-aged labor group,Male,Divorced,3,Bachelor,Technical Degree,Finance Manager,4,Very High,3,High,3,Better,8,Silver range,4,Copper range,3,Meet Expectation
+E1001882,28,Main labor group,Male,Married,3,Bachelor,Medical,Finance Manager,3,High,3,High,3,Better,1,Copper range,1,Copper range,3,Meet Expectation
+E1001883,22,Young labor group,Female,Married,2,College,Other,Finance Manager,2,Medium,2,Medium,2,Good,4,Copper range,2,Copper range,2,Needs Improvement
+E1001884,50,Middle-aged labor group,Male,Married,5,Doctor,Medical,Finance Manager,2,Medium,3,High,3,Better,32,Diamond range,8,Silver range,2,Needs Improvement
+E1001885,32,Main labor group,Female,Married,4,Master,Other,Finance Manager,2,Medium,4,Very High,3,Better,6,Silver range,2,Copper range,3,Meet Expectation
+E1001886,44,Middle-aged labor group,Female,Divorced,3,Bachelor,Medical,Finance Manager,2,Medium,4,Very High,2,Good,23,Diamond range,7,Silver range,2,Needs Improvement
+E1001887,30,Main labor group,Male,Married,3,Bachelor,Medical,Finance Manager,2,Medium,2,Medium,2,Good,6,Silver range,4,Copper range,2,Needs Improvement
+E1001889,45,Middle-aged labor group,Female,Single,5,Doctor,Medical,Finance Manager,3,High,1,Low,3,Better,10,Silver range,7,Silver range,3,Meet Expectation
+E1001890,45,Middle-aged labor group,Male,Married,3,Bachelor,Marketing,Sales Executive,1,Low,1,Low,3,Better,10,Silver range,7,Silver range,2,Needs Improvement
+E1001891,31,Main labor group,Male,Single,4,Master,Other,Sales Executive,4,Very High,4,Very High,3,Better,10,Silver range,2,Copper range,3,Meet Expectation
+E1001892,36,Main labor group,Female,Married,4,Master,Life Sciences,Finance Manager,3,High,2,Medium,3,Better,7,Silver range,2,Copper range,3,Meet Expectation
+E1001893,34,Main labor group,Male,Divorced,4,Master,Life Sciences,Finance Manager,3,High,1,Low,3,Better,9,Silver range,7,Silver range,3,Meet Expectation
+E1001895,49,Middle-aged labor group,Female,Married,4,Master,Life Sciences,Finance Manager,3,High,4,Very High,2,Good,10,Silver range,6,Silver range,3,Meet Expectation
+E1001897,27,Main labor group,Male,Divorced,3,Bachelor,Other,Finance Manager,4,Very High,1,Low,3,Better,7,Silver range,7,Silver range,3,Meet Expectation
+E1001899,35,Main labor group,Male,Married,5,Doctor,Life Sciences,Finance Manager,2,Medium,4,Very High,3,Better,16,Gold range,15,Gold range,2,Needs Improvement
+E1001900,28,Main labor group,Female,Divorced,3,Bachelor,Medical,Finance Manager,2,Medium,2,Medium,2,Good,6,Silver range,3,Copper range,3,Meet Expectation
+E1001901,21,Young labor group,Male,Single,1,Below College,Medical,Finance Manager,3,High,3,High,3,Better,3,Copper range,2,Copper range,3,Meet Expectation
+E1001902,18,Young labor group,Female,Single,2,College,Medical,Sales Representative,2,Medium,3,High,4,Best,0,no exps,0,no exps,3,Meet Expectation
+E1001903,47,Middle-aged labor group,Female,Married,4,Master,Life Sciences,Manager,4,Very High,3,High,3,Better,27,Diamond range,2,Copper range,3,Meet Expectation
+E1001905,39,Main labor group,Male,Divorced,2,College,Medical,Finance Manager,3,High,4,Very High,3,Better,11,Gold range,8,Silver range,3,Meet Expectation
+E1001908,35,Main labor group,Female,Married,4,Master,Life Sciences,Finance Manager,3,High,4,Very High,3,Better,15,Gold range,11,Gold range,3,Meet Expectation
+E1001909,37,Main labor group,Male,Married,3,Bachelor,Life Sciences,Finance Manager,3,High,1,Low,2,Good,9,Silver range,3,Copper range,3,Meet Expectation
+E1001911,39,Main labor group,Female,Single,3,Bachelor,Medical,Finance Manager,1,Low,4,Very High,1,Bad,10,Silver range,2,Copper range,2,Needs Improvement
+E1001916,38,Main labor group,Female,Married,2,College,Medical,Finance Manager,4,Very High,4,Very High,4,Best,10,Silver range,4,Copper range,3,Meet Expectation
+E1001918,37,Main labor group,Female,Married,3,Bachelor,Medical,Finance Manager,2,Medium,1,Low,1,Bad,8,Silver range,4,Copper range,2,Needs Improvement
+E1001919,40,Main labor group,Female,Single,3,Bachelor,Life Sciences,Finance Manager,3,High,4,Very High,2,Good,18,Gold range,2,Copper range,3,Meet Expectation
+E1001920,44,Middle-aged labor group,Male,Married,5,Doctor,Human Resources,Human Resources,1,Low,3,High,3,Better,14,Gold range,7,Silver range,3,Meet Expectation
+E1001923,35,Main labor group,Male,Divorced,2,College,Medical,Sales Executive,1,Low,4,Very High,2,Good,7,Silver range,2,Copper range,2,Needs Improvement
+E1001924,24,Young labor group,Female,Single,1,Below College,Technical Degree,Finance Manager,1,Low,3,High,3,Better,6,Silver range,3,Copper range,2,Needs Improvement
+E1001925,27,Main labor group,Female,Married,3,Bachelor,Medical,Finance Manager,2,Medium,1,Low,3,Better,5,Copper range,2,Copper range,3,Meet Expectation
+E1001926,27,Main labor group,Male,Single,3,Bachelor,Medical,Finance Manager,4,Very High,3,High,2,Good,6,Silver range,2,Copper range,3,Meet Expectation
+E1001931,25,Main labor group,Male,Divorced,1,Below College,Life Sciences,Finance Manager,4,Very High,3,High,3,Better,7,Silver range,7,Silver range,3,Meet Expectation
+E1001932,39,Main labor group,Male,Married,3,Bachelor,Medical,Finance Manager,4,Very High,3,High,3,Better,7,Silver range,4,Copper range,4,Exceed Expectation
+E1001933,49,Middle-aged labor group,Female,Married,4,Master,Other,Finance Manager,1,Low,2,Medium,3,Better,27,Diamond range,2,Copper range,2,Needs Improvement
+E1001934,50,Middle-aged labor group,Female,Divorced,5,Doctor,Life Sciences,Finance Manager,4,Very High,3,High,3,Better,19,Gold range,11,Gold range,3,Meet Expectation
+E1001935,20,Young labor group,Female,Single,3,Bachelor,Medical,Sales Representative,3,High,1,Low,3,Better,2,Copper range,2,Copper range,3,Meet Expectation
+E1001936,34,Main labor group,Female,Divorced,3,Bachelor,Life Sciences,Finance Manager,4,Very High,3,High,3,Better,11,Gold range,8,Silver range,3,Meet Expectation
+E1001937,36,Main labor group,Male,Single,3,Bachelor,Life Sciences,Finance Manager,1,Low,3,High,3,Better,15,Gold range,3,Copper range,2,Needs Improvement
+E1001939,49,Middle-aged labor group,Female,Married,1,Below College,Life Sciences,Finance Manager,3,High,2,Medium,3,Better,30,Diamond range,11,Gold range,3,Meet Expectation
+E1001940,36,Main labor group,Female,Married,4,Master,Medical,Finance Manager,4,Very High,3,High,3,Better,4,Copper range,2,Copper range,3,Meet Expectation
+E1001942,36,Main labor group,Male,Divorced,2,College,Life Sciences,Finance Manager,4,Very High,1,Low,3,Better,13,Gold range,4,Copper range,4,Exceed Expectation
+E1001943,54,Old labor group,Female,Married,5,Doctor,Medical,Finance Manager,2,Medium,3,High,3,Better,36,Diamond range,8,Silver range,2,Needs Improvement
+E1001944,43,Middle-aged labor group,Male,Married,2,College,Life Sciences,Finance Manager,3,High,1,Low,3,Better,14,Gold range,10,Silver range,4,Exceed Expectation
+E1001945,35,Main labor group,Male,Single,4,Master,Other,Sales Executive,4,Very High,1,Low,4,Best,13,Gold range,9,Silver range,4,Exceed Expectation
+E1001947,29,Main labor group,Male,Divorced,3,Bachelor,Medical,Sales Executive,1,Low,2,Medium,2,Good,10,Silver range,0,no exps,3,Meet Expectation
+E1001948,33,Main labor group,Male,Divorced,4,Master,Medical,Sales Executive,4,Very High,3,High,3,Better,6,Silver range,2,Copper range,3,Meet Expectation
+E1001949,32,Main labor group,Male,Divorced,3,Bachelor,Medical,Finance Manager,4,Very High,3,High,2,Good,10,Silver range,5,Copper range,3,Meet Expectation
+E1001951,31,Main labor group,Female,Married,4,Master,Life Sciences,Sales Executive,1,Low,1,Low,3,Better,10,Silver range,0,no exps,3,Meet Expectation
+E1001952,49,Middle-aged labor group,Female,Divorced,3,Bachelor,Medical,Finance Manager,4,Very High,2,Medium,2,Good,17,Gold range,2,Copper range,3,Meet Expectation
+E1001958,20,Young labor group,Male,Single,1,Below College,Life Sciences,Sales Representative,4,Very High,1,Low,3,Better,2,Copper range,2,Copper range,3,Meet Expectation
+E1001959,33,Main labor group,Female,Divorced,3,Bachelor,Life Sciences,Sales Executive,3,High,3,High,3,Better,7,Silver range,5,Copper range,4,Exceed Expectation
+E1001960,36,Main labor group,Male,Married,4,Master,Life Sciences,Finance Manager,1,Low,2,Medium,2,Good,10,Silver range,2,Copper range,3,Meet Expectation
+E1001961,44,Middle-aged labor group,Female,Divorced,3,Bachelor,Life Sciences,Human Resources,3,High,1,Low,3,Better,8,Silver range,2,Copper range,3,Meet Expectation
+E1001962,23,Young labor group,Male,Single,1,Below College,Medical,Finance Manager,4,Very High,1,Low,3,Better,5,Copper range,4,Copper range,3,Meet Expectation
+E1001965,38,Main labor group,Female,Married,2,College,Medical,Finance Manager,4,Very High,4,Very High,2,Good,7,Silver range,0,no exps,3,Meet Expectation
+E1001967,53,Old labor group,Male,Married,4,Master,Medical,Finance Manager,2,Medium,3,High,3,Better,11,Gold range,3,Copper range,2,Needs Improvement
+E1001969,48,Middle-aged labor group,Female,Married,2,College,Medical,Sales Representative,4,Very High,3,High,3,Better,19,Gold range,7,Silver range,3,Meet Expectation
+E1001970,32,Main labor group,Male,Single,4,Master,Life Sciences,Finance Manager,4,Very High,1,Low,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E1001971,26,Main labor group,Male,Single,3,Bachelor,Medical,Finance Manager,4,Very High,3,High,3,Better,7,Silver range,7,Silver range,4,Exceed Expectation
+E1001972,55,Old labor group,Male,Divorced,3,Bachelor,Technical Degree,Finance Manager,1,Low,4,Very High,3,Better,8,Silver range,2,Copper range,2,Needs Improvement
+E1001974,34,Main labor group,Male,Married,2,College,Medical,Manager R&D,2,Medium,3,High,4,Best,15,Gold range,10,Silver range,2,Needs Improvement
+E1001975,60,Old labor group,Male,Divorced,4,Master,Medical,Healthcare Representative,3,High,3,High,4,Best,19,Gold range,0,no exps,4,Exceed Expectation
+E1001978,37,Main labor group,Male,Divorced,4,Master,Medical,Sales Executive,3,High,3,High,2,Good,6,Silver range,3,Copper range,3,Meet Expectation
+E1001979,34,Main labor group,Female,Married,3,Bachelor,Life Sciences,Research Scientist,2,Medium,2,Medium,3,Better,10,Silver range,9,Silver range,2,Needs Improvement
+E1001981,44,Middle-aged labor group,Female,Married,3,Bachelor,Life Sciences,Healthcare Representative,3,High,2,Medium,3,Better,9,Silver range,7,Silver range,3,Meet Expectation
+E1001984,43,Middle-aged labor group,Male,Married,3,Bachelor,Medical,Sales Executive,4,Very High,1,Low,3,Better,10,Silver range,9,Silver range,3,Meet Expectation
+E1001987,29,Main labor group,Female,Married,4,Master,Medical,Manager R&D,4,Very High,3,High,3,Better,9,Silver range,3,Copper range,3,Meet Expectation
+E1001988,36,Main labor group,Female,Single,4,Master,Life Sciences,Sales Representative,3,High,3,High,2,Good,17,Gold range,7,Silver range,3,Meet Expectation
+E1001990,45,Middle-aged labor group,Male,Married,1,Below College,Life Sciences,Manager R&D,3,High,4,Very High,2,Good,25,Diamond range,15,Gold range,4,Exceed Expectation
+E1001996,26,Main labor group,Male,Married,4,Master,Medical,Laboratory Technician,4,Very High,3,High,4,Best,3,Copper range,2,Copper range,3,Meet Expectation
+E1001997,45,Middle-aged labor group,Female,Single,2,College,Technical Degree,Manager R&D,4,Very High,3,High,3,Better,21,Diamond range,6,Silver range,3,Meet Expectation
+E1001999,31,Main labor group,Male,Married,4,Master,Life Sciences,Laboratory Technician,2,Medium,4,Very High,4,Best,6,Silver range,2,Copper range,3,Meet Expectation
+E1002000,41,Middle-aged labor group,Male,Married,3,Bachelor,Human Resources,Human Resources,3,High,2,Medium,3,Better,10,Silver range,2,Copper range,3,Meet Expectation
+E1002002,40,Main labor group,Female,Married,2,College,Life Sciences,Manufacturing Director,2,Medium,2,Medium,3,Better,18,Gold range,0,no exps,3,Meet Expectation
+E1002003,24,Young labor group,Male,Divorced,1,Below College,Medical,Laboratory Technician,2,Medium,2,Medium,4,Best,6,Silver range,2,Copper range,2,Needs Improvement
+E1002005,46,Middle-aged labor group,Male,Single,4,Master,Life Sciences,Healthcare Representative,3,High,4,Very High,3,Better,19,Gold range,7,Silver range,3,Meet Expectation
+E1002007,30,Main labor group,Male,Married,1,Below College,Life Sciences,Research Scientist,2,Medium,2,Medium,2,Good,10,Silver range,0,no exps,3,Meet Expectation
+E1002009,47,Middle-aged labor group,Male,Married,4,Master,Marketing,Sales Executive,3,High,4,Very High,1,Bad,4,Copper range,0,no exps,3,Meet Expectation
+E1002010,46,Middle-aged labor group,Male,Divorced,3,Bachelor,Life Sciences,Sales Executive,3,High,2,Medium,2,Good,13,Gold range,6,Silver range,3,Meet Expectation
+E1002011,36,Main labor group,Male,Divorced,5,Doctor,Marketing,Sales Executive,2,Medium,2,Medium,3,Better,16,Gold range,2,Copper range,2,Needs Improvement
+E1002012,32,Main labor group,Male,Single,2,College,Life Sciences,Sales Executive,1,Low,2,Medium,3,Better,10,Silver range,0,no exps,3,Meet Expectation
+E1002014,31,Main labor group,Female,Single,1,Below College,Technical Degree,Manufacturing Director,4,Very High,4,Very High,2,Good,9,Silver range,4,Copper range,4,Exceed Expectation
+E1002015,39,Main labor group,Male,Married,3,Bachelor,Life Sciences,Laboratory Technician,4,Very High,4,Very High,3,Better,9,Silver range,8,Silver range,3,Meet Expectation
+E1002017,32,Main labor group,Male,Married,3,Bachelor,Life Sciences,Sales Executive,4,Very High,3,High,1,Bad,10,Silver range,3,Copper range,3,Meet Expectation
+E1002018,40,Main labor group,Male,Single,4,Master,Medical,Manager,2,Medium,2,Medium,2,Good,21,Diamond range,8,Silver range,2,Needs Improvement
+E1002022,45,Middle-aged labor group,Female,Married,3,Bachelor,Life Sciences,Human Resources,3,High,3,High,4,Best,9,Silver range,0,no exps,4,Exceed Expectation
+E1002023,30,Main labor group,Female,Single,4,Master,Technical Degree,Manager R&D,4,Very High,4,Very High,3,Better,10,Silver range,7,Silver range,3,Meet Expectation
+E1002024,24,Young labor group,Male,Married,3,Bachelor,Medical,Human Resources,1,Low,4,Very High,3,Better,3,Copper range,2,Copper range,2,Needs Improvement
+E1002025,30,Main labor group,Female,Divorced,3,Bachelor,Human Resources,Human Resources,3,High,3,High,2,Good,6,Silver range,2,Copper range,3,Meet Expectation
+E1002027,31,Main labor group,Male,Married,3,Bachelor,Technical Degree,Sales Executive,1,Low,3,High,3,Better,6,Silver range,2,Copper range,4,Exceed Expectation
+E1002029,27,Main labor group,Female,Single,3,Bachelor,Medical,Manager R&D,3,High,3,High,2,Good,6,Silver range,2,Copper range,3,Meet Expectation
+E1002030,29,Main labor group,Female,Single,3,Bachelor,Marketing,Sales Representative,2,Medium,3,High,3,Better,2,Copper range,2,Copper range,2,Needs Improvement
+E1002031,29,Main labor group,Male,Single,3,Bachelor,Life Sciences,Healthcare Representative,4,Very High,4,Very High,4,Best,10,Silver range,2,Copper range,3,Meet Expectation
+E1002032,30,Main labor group,Male,Divorced,2,College,Marketing,Sales Executive,3,High,1,Low,3,Better,12,Gold range,7,Silver range,3,Meet Expectation
+E1002033,34,Main labor group,Male,Married,4,Master,Medical,Research Scientist,4,Very High,1,Low,3,Better,6,Silver range,0,no exps,3,Meet Expectation
+E1002034,33,Main labor group,Female,Single,3,Bachelor,Marketing,Sales Executive,4,Very High,4,Very High,2,Good,13,Gold range,7,Silver range,3,Meet Expectation
+E1002035,49,Middle-aged labor group,Female,Single,4,Master,Marketing,Sales Executive,4,Very High,3,High,4,Best,8,Silver range,1,Copper range,3,Meet Expectation
+E1002036,33,Main labor group,Female,Single,3,Bachelor,Life Sciences,Sales Executive,1,Low,3,High,2,Good,11,Gold range,0,no exps,4,Exceed Expectation
+E1002038,38,Main labor group,Female,Married,2,College,Medical,Laboratory Technician,3,High,2,Medium,2,Good,9,Silver range,1,Copper range,3,Meet Expectation
+E1002042,32,Main labor group,Male,Single,4,Master,Technical Degree,Research Scientist,2,Medium,2,Medium,3,Better,12,Gold range,7,Silver range,3,Meet Expectation
+E1002044,38,Main labor group,Male,Married,3,Bachelor,Medical,Healthcare Representative,2,Medium,3,High,3,Better,15,Gold range,0,no exps,3,Meet Expectation
+E1002045,43,Middle-aged labor group,Male,Married,3,Bachelor,Technical Degree,Research Scientist,3,High,4,Very High,3,Better,6,Silver range,0,no exps,3,Meet Expectation
+E1002048,55,Old labor group,Male,Married,3,Bachelor,Medical,Research Director,3,High,2,Medium,3,Better,34,Diamond range,0,no exps,3,Meet Expectation
+E1002049,33,Main labor group,Male,Divorced,3,Bachelor,Technical Degree,Research Scientist,4,Very High,4,Very High,2,Good,11,Gold range,8,Silver range,3,Meet Expectation
+E1002050,41,Middle-aged labor group,Male,Divorced,4,Master,Life Sciences,Laboratory Technician,3,High,2,Medium,3,Better,5,Copper range,3,Copper range,5,Outstanding
+E1002052,34,Main labor group,Male,Divorced,3,Bachelor,Life Sciences,Sales Executive,4,Very High,3,High,3,Better,15,Gold range,14,Gold range,3,Meet Expectation
+E1002053,53,Old labor group,Female,Married,4,Master,Medical,Manufacturing Director,1,Low,4,Very High,2,Good,27,Diamond range,2,Copper range,3,Meet Expectation
+E1002056,43,Middle-aged labor group,Male,Single,3,Bachelor,Life Sciences,Human Resources,2,Medium,2,Medium,3,Better,10,Silver range,7,Silver range,2,Needs Improvement
+E1002057,34,Main labor group,Female,Single,2,College,Life Sciences,Sales Executive,4,Very High,1,Low,3,Better,6,Silver range,2,Copper range,3,Meet Expectation
+E1002058,21,Young labor group,Male,Single,1,Below College,Marketing,Sales Representative,2,Medium,2,Medium,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E1002060,38,Main labor group,Female,Married,2,College,Other,Manager R&D,4,Very High,2,Medium,3,Better,5,Copper range,4,Copper range,3,Meet Expectation
+E1002061,22,Young labor group,Female,Married,1,Below College,Medical,Manager R&D,3,High,3,High,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E1002062,31,Main labor group,Female,Married,4,Master,Marketing,Sales Executive,1,Low,1,Low,3,Better,13,Gold range,7,Silver range,2,Needs Improvement
+E1002067,46,Middle-aged labor group,Male,Divorced,4,Master,Medical,Research Director,3,High,3,High,3,Better,24,Diamond range,1,Copper range,3,Meet Expectation
+E1002068,36,Main labor group,Male,Married,3,Bachelor,Life Sciences,Manager R&D,4,Very High,4,Very High,3,Better,15,Gold range,8,Silver range,3,Meet Expectation
+E1002070,44,Middle-aged labor group,Male,Divorced,2,College,Medical,Research Scientist,3,High,3,High,2,Good,6,Silver range,3,Copper range,3,Meet Expectation
+E1002072,37,Main labor group,Male,Divorced,2,College,Other,Human Resources,3,High,3,High,2,Good,19,Gold range,0,no exps,3,Meet Expectation
+E1002076,33,Main labor group,Male,Married,4,Master,Life Sciences,Research Scientist,4,Very High,2,Medium,3,Better,14,Gold range,8,Silver range,3,Meet Expectation
+E1002079,46,Middle-aged labor group,Male,Single,2,College,Life Sciences,Sales Executive,2,Medium,3,High,3,Better,6,Silver range,2,Copper range,2,Needs Improvement
+E1002080,40,Main labor group,Female,Married,2,College,Life Sciences,Laboratory Technician,3,High,4,Very High,2,Good,7,Silver range,3,Copper range,3,Meet Expectation
+E1002082,35,Main labor group,Male,Divorced,2,College,Medical,Manager R&D,2,Medium,3,High,3,Better,15,Gold range,7,Silver range,2,Needs Improvement
+E1002083,38,Main labor group,Male,Divorced,3,Bachelor,Human Resources,Human Resources,1,Low,4,Very High,3,Better,13,Gold range,10,Silver range,2,Needs Improvement
+E1002085,34,Main labor group,Male,Married,4,Master,Life Sciences,Laboratory Technician,4,Very High,3,High,2,Good,11,Gold range,1,Copper range,3,Meet Expectation
+E1002090,39,Main labor group,Male,Divorced,3,Bachelor,Life Sciences,Sales Executive,3,High,4,Very High,3,Better,7,Silver range,1,Copper range,3,Meet Expectation
+E1002091,43,Middle-aged labor group,Male,Single,3,Bachelor,Life Sciences,Research Scientist,1,Low,3,High,2,Good,7,Silver range,2,Copper range,2,Needs Improvement
+E1002092,41,Middle-aged labor group,Male,Single,3,Bachelor,Life Sciences,Healthcare Representative,2,Medium,1,Low,1,Bad,11,Gold range,2,Copper range,2,Needs Improvement
+E1002093,41,Middle-aged labor group,Female,Divorced,1,Below College,Marketing,Sales Executive,3,High,4,Very High,4,Best,23,Diamond range,14,Gold range,3,Meet Expectation
+E1002101,34,Main labor group,Male,Married,2,College,Technical Degree,Sales Executive,2,Medium,3,High,3,Better,10,Silver range,8,Silver range,2,Needs Improvement
+E1002102,58,Old labor group,Male,Divorced,3,Bachelor,Medical,Manager,2,Medium,4,Very High,2,Good,37,Diamond range,9,Silver range,2,Needs Improvement
+E1002104,35,Main labor group,Male,Married,4,Master,Medical,Laboratory Technician,2,Medium,2,Medium,4,Best,6,Silver range,4,Copper range,3,Meet Expectation
+E1002105,47,Middle-aged labor group,Female,Divorced,3,Bachelor,Life Sciences,Manager R&D,3,High,3,High,3,Better,28,Diamond range,11,Gold range,3,Meet Expectation
+E1002107,40,Main labor group,Female,Divorced,3,Bachelor,Life Sciences,Healthcare Representative,2,Medium,2,Medium,3,Better,15,Gold range,4,Copper range,2,Needs Improvement
+E1002108,54,Old labor group,Female,Married,4,Master,Medical,Research Scientist,4,Very High,2,Medium,2,Good,14,Gold range,1,Copper range,3,Meet Expectation
+E1002111,31,Main labor group,Female,Married,4,Master,Marketing,Sales Executive,1,Low,4,Very High,3,Better,9,Silver range,2,Copper range,2,Needs Improvement
+E1002113,38,Main labor group,Female,Married,4,Master,Marketing,Sales Representative,2,Medium,1,Low,2,Good,20,Gold range,2,Copper range,3,Meet Expectation
+E1002114,26,Main labor group,Male,Single,3,Bachelor,Medical,Sales Executive,3,High,1,Low,3,Better,5,Copper range,3,Copper range,3,Meet Expectation
+E1002115,58,Old labor group,Male,Married,4,Master,Life Sciences,Manager R&D,1,Low,2,Medium,3,Better,23,Diamond range,2,Copper range,2,Needs Improvement
+E1002117,18,Young labor group,Female,Single,3,Bachelor,Medical,Manager R&D,2,Medium,3,High,1,Bad,0,no exps,0,no exps,3,Meet Expectation
+E1002120,31,Main labor group,Male,Married,5,Doctor,Human Resources,Human Resources,4,Very High,3,High,3,Better,2,Copper range,0,no exps,3,Meet Expectation
+E1002123,45,Middle-aged labor group,Female,Married,4,Master,Life Sciences,Sales Executive,3,High,2,Medium,4,Best,10,Silver range,7,Silver range,4,Exceed Expectation
+E1002125,36,Main labor group,Female,Married,4,Master,Other,Research Scientist,4,Very High,4,Very High,3,Better,15,Gold range,0,no exps,4,Exceed Expectation
+E1002127,43,Middle-aged labor group,Male,Married,4,Master,Life Sciences,Sales Executive,1,Low,3,High,3,Better,7,Silver range,7,Silver range,2,Needs Improvement
+E1002128,27,Main labor group,Female,Single,2,College,Life Sciences,Manager R&D,4,Very High,3,High,2,Good,6,Silver range,4,Copper range,3,Meet Expectation
+E1002130,29,Main labor group,Male,Married,1,Below College,Medical,Laboratory Technician,4,Very High,2,Medium,4,Best,11,Gold range,8,Silver range,3,Meet Expectation
+E1002131,32,Main labor group,Male,Single,4,Master,Marketing,Sales Executive,4,Very High,3,High,4,Best,4,Copper range,0,no exps,3,Meet Expectation
+E1002132,42,Middle-aged labor group,Male,Married,4,Master,Technical Degree,Research Scientist,3,High,2,Medium,2,Good,10,Silver range,3,Copper range,4,Exceed Expectation
+E1002134,47,Middle-aged labor group,Female,Single,4,Master,Life Sciences,Laboratory Technician,2,Medium,3,High,3,Better,7,Silver range,2,Copper range,2,Needs Improvement
+E1002135,46,Middle-aged labor group,Male,Divorced,2,College,Life Sciences,Manufacturing Director,4,Very High,3,High,2,Good,12,Gold range,8,Silver range,3,Meet Expectation
+E1002136,28,Main labor group,Male,Divorced,2,College,Life Sciences,Human Resources,3,High,2,Medium,3,Better,3,Copper range,2,Copper range,3,Meet Expectation
+E1002137,29,Main labor group,Male,Divorced,1,Below College,Life Sciences,Healthcare Representative,4,Very High,4,Very High,3,Better,11,Gold range,0,no exps,3,Meet Expectation
+E1002138,42,Middle-aged labor group,Male,Single,3,Bachelor,Life Sciences,Manager R&D,4,Very High,4,Very High,3,Better,8,Silver range,0,no exps,3,Meet Expectation
+E1002140,32,Main labor group,Male,Single,4,Master,Marketing,Sales Executive,3,High,3,High,2,Good,7,Silver range,2,Copper range,3,Meet Expectation
+E1002141,46,Middle-aged labor group,Female,Divorced,3,Bachelor,Technical Degree,Sales Executive,1,Low,4,Very High,3,Better,25,Diamond range,17,Gold range,2,Needs Improvement
+E1002142,27,Main labor group,Female,Married,1,Below College,Medical,Sales Representative,2,Medium,4,Very High,3,Better,9,Silver range,8,Silver range,2,Needs Improvement
+E1002143,29,Main labor group,Male,Married,1,Below College,Medical,Human Resources,4,Very High,4,Very High,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E1002145,48,Middle-aged labor group,Male,Married,3,Bachelor,Life Sciences,Manager R&D,4,Very High,4,Very High,3,Better,29,Diamond range,10,Silver range,3,Meet Expectation
+E1002146,29,Main labor group,Male,Single,2,College,Life Sciences,Research Scientist,4,Very High,2,Medium,2,Good,1,Copper range,0,no exps,4,Exceed Expectation
+E1002151,55,Old labor group,Male,Married,4,Master,Technical Degree,Research Scientist,2,Medium,2,Medium,4,Best,19,Gold range,2,Copper range,3,Meet Expectation
+E1002153,28,Main labor group,Female,Married,3,Bachelor,Medical,Sales Representative,2,Medium,4,Very High,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E1002154,30,Main labor group,Male,Single,3,Bachelor,Medical,Sales Representative,2,Medium,3,High,2,Good,1,Copper range,0,no exps,3,Meet Expectation
+E1002156,22,Young labor group,Male,Single,1,Below College,Life Sciences,Research Scientist,4,Very High,1,Low,3,Better,1,Copper range,0,no exps,4,Exceed Expectation
+E1002158,36,Main labor group,Female,Married,4,Master,Technical Degree,Sales Executive,2,Medium,1,Low,3,Better,10,Silver range,9,Silver range,2,Needs Improvement
+E1002160,34,Main labor group,Male,Married,3,Bachelor,Life Sciences,Sales Executive,3,High,4,Very High,3,Better,9,Silver range,3,Copper range,3,Meet Expectation
+E1002161,29,Main labor group,Male,Single,3,Bachelor,Life Sciences,Laboratory Technician,4,Very High,2,Medium,3,Better,11,Gold range,2,Copper range,3,Meet Expectation
+E1002163,37,Main labor group,Male,Married,4,Master,Medical,Research Scientist,4,Very High,3,High,3,Better,16,Gold range,3,Copper range,4,Exceed Expectation
+E1002164,35,Main labor group,Female,Married,2,College,Other,Manufacturing Director,4,Very High,4,Very High,3,Better,4,Copper range,2,Copper range,3,Meet Expectation
+E1002166,45,Middle-aged labor group,Female,Married,2,College,Life Sciences,Manufacturing Director,2,Medium,4,Very High,2,Good,10,Silver range,8,Silver range,2,Needs Improvement
+E1002168,36,Main labor group,Male,Single,1,Below College,Human Resources,Human Resources,2,Medium,4,Very High,2,Good,10,Silver range,1,Copper range,4,Exceed Expectation
+E1002170,40,Main labor group,Male,Divorced,4,Master,Life Sciences,Manager R&D,1,Low,1,Low,3,Better,22,Diamond range,7,Silver range,2,Needs Improvement
+E1002171,26,Main labor group,Female,Married,2,College,Life Sciences,Research Scientist,2,Medium,3,High,2,Good,1,Copper range,0,no exps,3,Meet Expectation
+E1002176,27,Main labor group,Female,Single,2,College,Medical,Sales Executive,1,Low,2,Medium,2,Good,9,Silver range,7,Silver range,3,Meet Expectation
+E1002178,48,Middle-aged labor group,Female,Divorced,3,Bachelor,Medical,Manager,4,Very High,2,Medium,3,Better,24,Diamond range,17,Gold range,3,Meet Expectation
+E1002181,44,Middle-aged labor group,Male,Married,4,Master,Life Sciences,Healthcare Representative,2,Medium,4,Very High,3,Better,10,Silver range,0,no exps,3,Meet Expectation
+E1002183,34,Main labor group,Male,Married,4,Master,Technical Degree,Research Scientist,4,Very High,2,Medium,3,Better,5,Copper range,2,Copper range,4,Exceed Expectation
+E1002185,56,Old labor group,Male,Single,2,College,Life Sciences,Manager R&D,1,Low,4,Very High,3,Better,5,Copper range,2,Copper range,2,Needs Improvement
+E1002186,36,Main labor group,Male,Married,2,College,Marketing,Sales Executive,3,High,3,High,1,Bad,12,Gold range,2,Copper range,2,Needs Improvement
+E1002187,41,Middle-aged labor group,Female,Married,3,Bachelor,Marketing,Sales Executive,3,High,3,High,3,Better,14,Gold range,4,Copper range,4,Exceed Expectation
+E1002189,42,Middle-aged labor group,Male,Married,3,Bachelor,Medical,Manager R&D,3,High,2,Medium,4,Best,18,Gold range,7,Silver range,3,Meet Expectation
+E1002190,31,Main labor group,Female,Divorced,2,College,Medical,Sales Executive,3,High,4,Very High,3,Better,8,Silver range,2,Copper range,3,Meet Expectation
+E1002193,34,Main labor group,Female,Married,1,Below College,Medical,Sales Executive,4,Very High,3,High,2,Good,9,Silver range,2,Copper range,3,Meet Expectation
+E1002194,31,Main labor group,Female,Divorced,3,Bachelor,Medical,Laboratory Technician,1,Low,2,Medium,2,Good,4,Copper range,2,Copper range,2,Needs Improvement
+E1002196,26,Main labor group,Male,Married,3,Bachelor,Other,Manager R&D,3,High,1,Low,3,Better,8,Silver range,7,Silver range,3,Meet Expectation
+E1002200,45,Middle-aged labor group,Male,Single,4,Master,Medical,Manager R&D,2,Medium,3,High,3,Better,12,Gold range,2,Copper range,3,Meet Expectation
+E1002202,33,Main labor group,Male,Single,4,Master,Marketing,Sales Executive,2,Medium,2,Medium,2,Good,10,Silver range,4,Copper range,3,Meet Expectation
+E1002205,28,Main labor group,Male,Married,2,College,Life Sciences,Sales Executive,3,High,3,High,3,Better,7,Silver range,7,Silver range,3,Meet Expectation
+E1002207,39,Main labor group,Female,Married,4,Master,Life Sciences,Sales Executive,1,Low,3,High,3,Better,10,Silver range,2,Copper range,2,Needs Improvement
+E1002209,27,Main labor group,Male,Married,4,Master,Technical Degree,Manager R&D,2,Medium,3,High,2,Good,6,Silver range,3,Copper range,2,Needs Improvement
+E1002210,34,Main labor group,Male,Married,4,Master,Other,Research Scientist,3,High,2,Medium,3,Better,16,Gold range,10,Silver range,3,Meet Expectation
+E1002212,47,Middle-aged labor group,Male,Married,4,Master,Technical Degree,Manager R&D,3,High,3,High,4,Best,16,Gold range,7,Silver range,3,Meet Expectation
+E1002213,56,Old labor group,Female,Married,5,Doctor,Marketing,Sales Executive,4,Very High,3,High,3,Better,6,Silver range,0,no exps,3,Meet Expectation
+E1002215,38,Main labor group,Female,Divorced,3,Bachelor,Medical,Manager R&D,4,Very High,3,High,3,Better,20,Gold range,11,Gold range,3,Meet Expectation
+E1002216,58,Old labor group,Female,Married,3,Bachelor,Life Sciences,Manager,4,Very High,3,High,2,Good,29,Diamond range,0,no exps,3,Meet Expectation
+E1002217,32,Main labor group,Female,Single,2,College,Life Sciences,Research Scientist,1,Low,1,Low,3,Better,8,Silver range,1,Copper range,3,Meet Expectation
+E1002218,38,Main labor group,Male,Divorced,2,College,Life Sciences,Manager R&D,2,Medium,4,Very High,4,Best,10,Silver range,2,Copper range,4,Exceed Expectation
+E1002219,49,Middle-aged labor group,Male,Married,1,Below College,Life Sciences,Manager R&D,2,Medium,4,Very High,3,Better,28,Diamond range,4,Copper range,2,Needs Improvement
+E1002221,42,Middle-aged labor group,Male,Divorced,4,Master,Marketing,Sales Executive,2,Medium,3,High,3,Better,14,Gold range,0,no exps,3,Meet Expectation
+E1002222,27,Main labor group,Female,Married,3,Bachelor,Human Resources,Human Resources,1,Low,1,Low,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E1002223,35,Main labor group,Male,Married,4,Master,Medical,Sales Executive,2,Medium,4,Very High,1,Bad,6,Silver range,3,Copper range,2,Needs Improvement
+E1002225,28,Main labor group,Male,Single,3,Bachelor,Medical,Manager R&D,3,High,3,High,2,Good,5,Copper range,3,Copper range,3,Meet Expectation
+E1002226,31,Main labor group,Male,Divorced,2,College,Medical,Research Scientist,3,High,4,Very High,4,Best,4,Copper range,2,Copper range,3,Meet Expectation
+E1002227,36,Main labor group,Male,Married,4,Master,Life Sciences,Manager R&D,1,Low,2,Medium,3,Better,5,Copper range,4,Copper range,3,Meet Expectation
+E1002228,34,Main labor group,Male,Single,3,Bachelor,Marketing,Sales Executive,1,Low,1,Low,2,Good,14,Gold range,8,Silver range,2,Needs Improvement
+E1002229,34,Main labor group,Male,Divorced,4,Master,Medical,Sales Executive,4,Very High,3,High,2,Good,9,Silver range,7,Silver range,3,Meet Expectation
+E1002230,26,Main labor group,Male,Single,3,Bachelor,Medical,Laboratory Technician,3,High,4,Very High,2,Good,8,Silver range,7,Silver range,3,Meet Expectation
+E1002233,32,Main labor group,Female,Divorced,4,Master,Medical,Manager R&D,3,High,2,Medium,3,Better,9,Silver range,1,Copper range,3,Meet Expectation
+E1002238,28,Main labor group,Male,Divorced,3,Bachelor,Technical Degree,Manager R&D,3,High,1,Low,2,Good,6,Silver range,1,Copper range,3,Meet Expectation
+E1002239,38,Main labor group,Male,Single,3,Bachelor,Life Sciences,Sales Representative,1,Low,1,Low,2,Good,20,Gold range,0,no exps,3,Meet Expectation
+E1002240,35,Main labor group,Female,Married,4,Master,Life Sciences,Sales Executive,3,High,4,Very High,3,Better,10,Silver range,8,Silver range,3,Meet Expectation
+E1002243,27,Main labor group,Male,Single,3,Bachelor,Marketing,Sales Executive,4,Very High,1,Low,3,Better,7,Silver range,7,Silver range,3,Meet Expectation
+E1002244,32,Main labor group,Male,Single,4,Master,Life Sciences,Manager R&D,4,Very High,2,Medium,3,Better,8,Silver range,0,no exps,4,Exceed Expectation
+E1002245,31,Main labor group,Male,Married,4,Master,Marketing,Sales Executive,1,Low,3,High,3,Better,10,Silver range,7,Silver range,3,Meet Expectation
+E1002246,53,Old labor group,Male,Single,4,Master,Life Sciences,Sales Executive,1,Low,2,Medium,2,Good,15,Gold range,2,Copper range,2,Needs Improvement
+E1002247,54,Old labor group,Female,Married,2,College,Life Sciences,Research Scientist,1,Low,3,High,2,Good,9,Silver range,3,Copper range,2,Needs Improvement
+E1002248,33,Main labor group,Male,Divorced,2,College,Life Sciences,Manager R&D,4,Very High,3,High,3,Better,9,Silver range,7,Silver range,4,Exceed Expectation
+E1002249,43,Middle-aged labor group,Male,Married,3,Bachelor,Life Sciences,Healthcare Representative,1,Low,2,Medium,3,Better,10,Silver range,9,Silver range,3,Meet Expectation
+E1002250,38,Main labor group,Male,Married,4,Master,Other,Human Resources,4,Very High,2,Medium,3,Better,7,Silver range,2,Copper range,3,Meet Expectation
+E1002251,55,Old labor group,Male,Married,4,Master,Human Resources,Manager,3,High,1,Low,3,Better,35,Diamond range,9,Silver range,3,Meet Expectation
+E1002252,31,Main labor group,Female,Divorced,1,Below College,Medical,Manager R&D,4,Very High,3,High,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E1002253,39,Main labor group,Male,Single,4,Master,Marketing,Sales Executive,2,Medium,1,Low,3,Better,21,Diamond range,8,Silver range,2,Needs Improvement
+E1002254,42,Middle-aged labor group,Male,Single,2,College,Life Sciences,Research Scientist,4,Very High,4,Very High,3,Better,20,Gold range,9,Silver range,3,Meet Expectation
+E1002257,31,Main labor group,Female,Married,3,Bachelor,Medical,Research Director,3,High,3,High,4,Best,13,Gold range,7,Silver range,5,Outstanding
+E1002258,54,Old labor group,Female,Single,3,Bachelor,Medical,Manufacturing Director,3,High,4,Very High,3,Better,9,Silver range,2,Copper range,3,Meet Expectation
+E1002259,24,Young labor group,Male,Single,2,College,Life Sciences,Healthcare Representative,2,Medium,2,Medium,2,Good,4,Copper range,3,Copper range,2,Needs Improvement
+E1002260,23,Young labor group,Male,Single,2,College,Other,Laboratory Technician,4,Very High,3,High,4,Best,5,Copper range,2,Copper range,3,Meet Expectation
+E1002263,40,Main labor group,Female,Married,3,Bachelor,Technical Degree,Laboratory Technician,4,Very High,1,Low,4,Best,10,Silver range,9,Silver range,3,Meet Expectation
+E1002264,40,Main labor group,Female,Married,2,College,Marketing,Sales Executive,2,Medium,3,High,3,Better,15,Gold range,8,Silver range,2,Needs Improvement
+E1002265,25,Main labor group,Female,Married,3,Bachelor,Human Resources,Human Resources,3,High,3,High,3,Better,6,Silver range,0,no exps,3,Meet Expectation
+E1002267,30,Main labor group,Male,Married,2,College,Medical,Laboratory Technician,4,Very High,3,High,2,Good,12,Gold range,8,Silver range,3,Meet Expectation
+E1002270,25,Main labor group,Male,Divorced,1,Below College,Other,Laboratory Technician,4,Very High,3,High,2,Good,7,Silver range,2,Copper range,3,Meet Expectation
+E1002271,47,Middle-aged labor group,Male,Single,3,Bachelor,Medical,Manager R&D,1,Low,2,Medium,3,Better,25,Diamond range,14,Gold range,2,Needs Improvement
+E1002273,38,Main labor group,Male,Married,4,Master,Life Sciences,Sales Executive,4,Very High,1,Low,3,Better,16,Gold range,13,Gold range,3,Meet Expectation
+E1002274,31,Main labor group,Male,Married,2,College,Life Sciences,Sales Representative,1,Low,3,High,3,Better,3,Copper range,2,Copper range,2,Needs Improvement
+E1002276,42,Middle-aged labor group,Male,Divorced,4,Master,Life Sciences,Research Scientist,4,Very High,3,High,2,Good,9,Silver range,3,Copper range,3,Meet Expectation
+E1002277,41,Middle-aged labor group,Male,Married,3,Bachelor,Life Sciences,Research Scientist,4,Very High,1,Low,3,Better,12,Gold range,3,Copper range,4,Exceed Expectation
+E1002278,47,Middle-aged labor group,Female,Married,1,Below College,Medical,Research Scientist,3,High,1,Low,1,Bad,14,Gold range,8,Silver range,2,Needs Improvement
+E1002281,35,Main labor group,Male,Married,4,Master,Medical,Research Director,4,Very High,3,High,3,Better,5,Copper range,2,Copper range,3,Meet Expectation
+E1002285,22,Young labor group,Male,Single,2,College,Life Sciences,Research Scientist,4,Very High,4,Very High,4,Best,4,Copper range,2,Copper range,3,Meet Expectation
+E1002286,35,Main labor group,Male,Single,4,Master,Medical,Research Scientist,2,Medium,2,Medium,3,Better,10,Silver range,7,Silver range,3,Meet Expectation
+E1002287,33,Main labor group,Female,Married,2,College,Medical,Healthcare Representative,2,Medium,1,Low,3,Better,10,Silver range,7,Silver range,2,Needs Improvement
+E1002288,32,Main labor group,Female,Single,4,Master,Life Sciences,Laboratory Technician,3,High,3,High,3,Better,6,Silver range,2,Copper range,3,Meet Expectation
+E1002290,40,Main labor group,Male,Married,4,Master,Life Sciences,Laboratory Technician,1,Low,3,High,2,Good,8,Silver range,0,no exps,3,Meet Expectation
+E1002291,32,Main labor group,Male,Married,4,Master,Medical,Sales Representative,2,Medium,2,Medium,3,Better,3,Copper range,2,Copper range,2,Needs Improvement
+E1002292,39,Main labor group,Male,Single,1,Below College,Life Sciences,Research Scientist,1,Low,1,Low,3,Better,18,Gold range,7,Silver range,2,Needs Improvement
+E1002293,38,Main labor group,Female,Married,3,Bachelor,Medical,Research Director,2,Medium,1,Low,3,Better,20,Gold range,16,Gold range,2,Needs Improvement
+E1002295,37,Main labor group,Female,Married,3,Bachelor,Life Sciences,Research Director,3,High,1,Low,3,Better,16,Gold range,11,Gold range,4,Exceed Expectation
+E1002296,25,Main labor group,Female,Divorced,2,College,Other,Sales Executive,1,Low,2,Medium,2,Good,6,Silver range,3,Copper range,3,Meet Expectation
+E1002297,52,Old labor group,Male,Divorced,4,Master,Life Sciences,Sales Representative,1,Low,2,Medium,2,Good,16,Gold range,8,Silver range,3,Meet Expectation
+E1002298,44,Middle-aged labor group,Male,Single,3,Bachelor,Medical,Research Scientist,2,Medium,3,High,3,Better,6,Silver range,3,Copper range,2,Needs Improvement
+E1002299,21,Young labor group,Male,Single,1,Below College,Medical,Sales Representative,3,High,4,Very High,3,Better,2,Copper range,2,Copper range,3,Meet Expectation
+E1002301,23,Young labor group,Male,Married,3,Bachelor,Marketing,Sales Representative,4,Very High,1,Low,2,Good,1,Copper range,0,no exps,3,Meet Expectation
+E1002302,36,Main labor group,Female,Married,3,Bachelor,Medical,Sales Executive,1,Low,3,High,3,Better,10,Silver range,7,Silver range,2,Needs Improvement
+E1002303,36,Main labor group,Female,Divorced,2,College,Life Sciences,Manufacturing Director,4,Very High,2,Medium,3,Better,18,Gold range,2,Copper range,3,Meet Expectation
+E1002304,56,Old labor group,Male,Divorced,4,Master,Life Sciences,Healthcare Representative,3,High,1,Low,2,Good,13,Gold range,12,Gold range,4,Exceed Expectation
+E1002305,29,Main labor group,Male,Married,4,Master,Medical,Research Scientist,1,Low,2,Medium,4,Best,4,Copper range,2,Copper range,2,Needs Improvement
+E1002310,56,Old labor group,Male,Married,2,College,Technical Degree,Laboratory Technician,4,Very High,4,Very High,1,Bad,14,Gold range,9,Silver range,2,Needs Improvement
+E1002312,41,Middle-aged labor group,Female,Married,4,Master,Life Sciences,Manufacturing Director,1,Low,3,High,3,Better,21,Diamond range,7,Silver range,3,Meet Expectation
+E1002313,34,Main labor group,Female,Married,3,Bachelor,Marketing,Sales Executive,4,Very High,4,Very High,3,Better,8,Silver range,7,Silver range,4,Exceed Expectation
+E1002314,36,Main labor group,Male,Divorced,4,Master,Marketing,Sales Executive,4,Very High,1,Low,2,Good,15,Gold range,12,Gold range,4,Exceed Expectation
+E1002315,41,Middle-aged labor group,Male,Divorced,3,Bachelor,Life Sciences,Sales Executive,3,High,3,High,3,Better,14,Gold range,4,Copper range,3,Meet Expectation
+E1002316,32,Main labor group,Male,Single,3,Bachelor,Technical Degree,Research Scientist,4,Very High,4,Very High,3,Better,4,Copper range,2,Copper range,3,Meet Expectation
+E1002318,35,Main labor group,Female,Single,4,Master,Life Sciences,Human Resources,3,High,3,High,3,Better,9,Silver range,0,no exps,3,Meet Expectation
+E1002319,38,Main labor group,Female,Married,2,College,Life Sciences,Sales Executive,1,Low,3,High,3,Better,10,Silver range,7,Silver range,2,Needs Improvement
+E1002322,50,Middle-aged labor group,Male,Divorced,4,Master,Life Sciences,Sales Executive,2,Medium,4,Very High,3,Better,12,Gold range,3,Copper range,4,Exceed Expectation
+E1002323,36,Main labor group,Female,Married,4,Master,Marketing,Sales Executive,2,Medium,1,Low,2,Good,8,Silver range,3,Copper range,3,Meet Expectation
+E1002326,40,Main labor group,Male,Single,4,Master,Life Sciences,Research Scientist,3,High,4,Very High,3,Better,8,Silver range,2,Copper range,3,Meet Expectation
+E1002327,35,Main labor group,Male,Married,4,Master,Life Sciences,Research Scientist,3,High,4,Very High,4,Best,10,Silver range,2,Copper range,3,Meet Expectation
+E1002329,40,Main labor group,Female,Married,4,Master,Medical,Research Scientist,3,High,2,Medium,3,Better,20,Gold range,3,Copper range,3,Meet Expectation
+E1002330,35,Main labor group,Female,Married,4,Master,Life Sciences,Research Scientist,3,High,4,Very High,3,Better,4,Copper range,3,Copper range,3,Meet Expectation
+E1002331,29,Main labor group,Male,Married,2,College,Other,Research Scientist,4,Very High,1,Low,3,Better,10,Silver range,3,Copper range,3,Meet Expectation
+E1002332,29,Main labor group,Female,Single,4,Master,Medical,Research Scientist,4,Very High,2,Medium,1,Bad,5,Copper range,4,Copper range,2,Needs Improvement
+E1002333,50,Middle-aged labor group,Male,Divorced,3,Bachelor,Marketing,Sales Executive,4,Very High,2,Medium,3,Better,20,Gold range,2,Copper range,3,Meet Expectation
+E1002334,39,Main labor group,Female,Married,1,Below College,Marketing,Sales Executive,2,Medium,1,Low,2,Good,21,Diamond range,9,Silver range,2,Needs Improvement
+E1002335,31,Main labor group,Male,Single,3,Bachelor,Medical,Manufacturing Director,2,Medium,2,Medium,3,Better,10,Silver range,4,Copper range,2,Needs Improvement
+E1002338,26,Main labor group,Female,Single,3,Bachelor,Other,Sales Representative,4,Very High,4,Very High,3,Better,5,Copper range,2,Copper range,3,Meet Expectation
+E1002340,39,Main labor group,Male,Married,1,Below College,Medical,Healthcare Representative,4,Very High,1,Low,3,Better,9,Silver range,7,Silver range,3,Meet Expectation
+E1002342,27,Main labor group,Male,Married,3,Bachelor,Life Sciences,Manufacturing Director,2,Medium,2,Medium,3,Better,6,Silver range,2,Copper range,3,Meet Expectation
+E1002343,49,Middle-aged labor group,Male,Married,3,Bachelor,Medical,Sales Executive,4,Very High,4,Very High,2,Good,17,Gold range,6,Silver range,3,Meet Expectation
+E1002346,34,Main labor group,Male,Married,3,Bachelor,Medical,Laboratory Technician,2,Medium,1,Low,4,Best,6,Silver range,3,Copper range,3,Meet Expectation
+E100279,41,Middle-aged labor group,Female,Single,2,College,Life Sciences,Sales Executive,2,Medium,1,Low,1,Bad,8,Silver range,4,Copper range,2,Needs Improvement
+E100285,27,Main labor group,Male,Married,1,Below College,Medical,Developer,1,Low,4,Very High,3,Better,6,Silver range,2,Copper range,2,Needs Improvement
+E100286,32,Main labor group,Male,Single,2,College,Life Sciences,Senior Developer,4,Very High,3,High,2,Good,8,Silver range,7,Silver range,3,Meet Expectation
+E100288,59,Old labor group,Female,Married,3,Bachelor,Medical,Senior Developer,3,High,1,Low,2,Good,12,Gold range,0,no exps,4,Exceed Expectation
+E100289,30,Main labor group,Male,Divorced,1,Below College,Life Sciences,Senior Developer,4,Very High,2,Medium,3,Better,1,Copper range,0,no exps,4,Exceed Expectation
+E100291,36,Main labor group,Male,Married,3,Bachelor,Medical,Senior Developer,3,High,2,Medium,2,Good,17,Gold range,7,Silver range,3,Meet Expectation
+E100292,35,Main labor group,Male,Married,3,Bachelor,Medical,Developer,1,Low,3,High,3,Better,6,Silver range,4,Copper range,3,Meet Expectation
+E100294,31,Main labor group,Male,Divorced,1,Below College,Life Sciences,Developer,1,Low,4,Very High,2,Good,5,Copper range,2,Copper range,2,Needs Improvement
+E100296,34,Main labor group,Male,Divorced,2,College,Medical,Senior Developer,2,Medium,3,High,3,Better,3,Copper range,2,Copper range,2,Needs Improvement
+E100297,28,Main labor group,Male,Single,3,Bachelor,Life Sciences,Developer,3,High,2,Medium,3,Better,6,Silver range,2,Copper range,3,Meet Expectation
+E100298,29,Main labor group,Female,Divorced,4,Master,Life Sciences,Senior Developer,2,Medium,3,High,3,Better,10,Silver range,9,Silver range,2,Needs Improvement
+E100300,22,Young labor group,Male,Divorced,2,College,Medical,Senior Developer,4,Very High,2,Medium,2,Good,1,Copper range,0,no exps,3,Meet Expectation
+E100301,53,Old labor group,Female,Married,4,Master,Life Sciences,Manager,1,Low,3,High,3,Better,31,Diamond range,8,Silver range,2,Needs Improvement
+E100302,38,Main labor group,Male,Single,3,Bachelor,Life Sciences,Developer,4,Very High,3,High,3,Better,6,Silver range,2,Copper range,3,Meet Expectation
+E100304,24,Young labor group,Female,Divorced,2,College,Other,Developer,1,Low,4,Very High,2,Good,5,Copper range,2,Copper range,3,Meet Expectation
+E100306,34,Main labor group,Female,Single,4,Master,Life Sciences,Developer,1,Low,3,High,3,Better,13,Gold range,6,Silver range,3,Meet Expectation
+E100309,34,Main labor group,Male,Single,1,Below College,Medical,Developer,2,Medium,3,High,3,Better,8,Silver range,2,Copper range,3,Meet Expectation
+E100310,53,Old labor group,Female,Divorced,3,Bachelor,Other,Senior Developer,3,High,4,Very High,2,Good,26,Diamond range,13,Gold range,3,Meet Expectation
+E100311,32,Main labor group,Female,Single,1,Below College,Life Sciences,Senior Developer,2,Medium,2,Medium,3,Better,10,Silver range,2,Copper range,3,Meet Expectation
+E100313,42,Middle-aged labor group,Male,Married,4,Master,Marketing,Sales Executive,3,High,4,Very High,3,Better,10,Silver range,7,Silver range,3,Meet Expectation
+E100314,44,Middle-aged labor group,Female,Married,4,Master,Medical,Developer,1,Low,4,Very High,3,Better,24,Diamond range,6,Silver range,3,Meet Expectation
+E100316,46,Middle-aged labor group,Female,Single,4,Master,Marketing,Manager,2,Medium,4,Very High,2,Good,22,Diamond range,2,Copper range,2,Needs Improvement
+E100317,33,Main labor group,Male,Single,3,Bachelor,Medical,Developer,3,High,4,Very High,3,Better,7,Silver range,1,Copper range,3,Meet Expectation
+E100318,44,Middle-aged labor group,Male,Married,4,Master,Other,Technical Architect,4,Very High,4,Very High,4,Best,9,Silver range,2,Copper range,3,Meet Expectation
+E100323,24,Young labor group,Male,Married,3,Bachelor,Medical,Developer,2,Medium,1,Low,2,Good,6,Silver range,0,no exps,3,Meet Expectation
+E100324,43,Middle-aged labor group,Female,Divorced,2,College,Medical,Technical Architect,4,Very High,4,Very High,2,Good,6,Silver range,3,Copper range,3,Meet Expectation
+E100325,50,Middle-aged labor group,Male,Married,2,College,Marketing,Sales Representative,1,Low,3,High,3,Better,3,Copper range,2,Copper range,3,Meet Expectation
+E100327,35,Main labor group,Female,Married,3,Bachelor,Marketing,Sales Representative,4,Very High,1,Low,3,Better,2,Copper range,2,Copper range,3,Meet Expectation
+E100329,36,Main labor group,Female,Married,4,Master,Life Sciences,Developer,2,Medium,4,Very High,4,Best,6,Silver range,1,Copper range,3,Meet Expectation
+E100330,33,Main labor group,Female,Married,3,Bachelor,Life Sciences,Sales Executive,3,High,1,Low,3,Better,10,Silver range,3,Copper range,3,Meet Expectation
+E100331,35,Main labor group,Male,Divorced,2,College,Other,Developer,3,High,3,High,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E100332,27,Main labor group,Female,Divorced,4,Master,Life Sciences,Technical Architect,4,Very High,4,Very High,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E100333,26,Main labor group,Male,Single,3,Bachelor,Life Sciences,Technical Architect,1,Low,3,High,2,Good,1,Copper range,0,no exps,3,Meet Expectation
+E100334,27,Main labor group,Male,Single,3,Bachelor,Life Sciences,Sales Executive,4,Very High,4,Very High,3,Better,9,Silver range,8,Silver range,3,Meet Expectation
+E100335,30,Main labor group,Female,Single,2,College,Medical,Developer,3,High,4,Very High,3,Better,12,Gold range,8,Silver range,4,Exceed Expectation
+E100338,34,Main labor group,Male,Single,4,Master,Marketing,Sales Executive,2,Medium,3,High,3,Better,10,Silver range,5,Copper range,2,Needs Improvement
+E100339,37,Main labor group,Male,Married,2,College,Life Sciences,Developer,2,Medium,1,Low,3,Better,8,Silver range,0,no exps,4,Exceed Expectation
+E100340,46,Middle-aged labor group,Male,Single,4,Master,Marketing,Sales Executive,1,Low,3,High,3,Better,14,Gold range,6,Silver range,3,Meet Expectation
+E100341,35,Main labor group,Male,Married,1,Below College,Life Sciences,Technical Architect,4,Very High,4,Very High,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E100342,48,Middle-aged labor group,Male,Single,2,College,Life Sciences,Developer,1,Low,4,Very High,3,Better,23,Diamond range,0,no exps,3,Meet Expectation
+E100343,28,Main labor group,Male,Single,4,Master,Technical Degree,Technical Architect,3,High,3,High,2,Good,2,Copper range,2,Copper range,3,Meet Expectation
+E100346,44,Middle-aged labor group,Female,Divorced,5,Doctor,Marketing,Sales Executive,2,Medium,3,High,2,Good,9,Silver range,3,Copper range,2,Needs Improvement
+E100348,35,Main labor group,Male,Married,2,College,Medical,Technical Architect,3,High,3,High,3,Better,10,Silver range,0,no exps,3,Meet Expectation
+E100350,26,Main labor group,Female,Married,3,Bachelor,Marketing,Sales Executive,3,High,3,High,2,Good,5,Copper range,2,Copper range,3,Meet Expectation
+E100351,33,Main labor group,Female,Single,2,College,Life Sciences,Developer,1,Low,3,High,3,Better,15,Gold range,14,Gold range,2,Needs Improvement
+E100352,35,Main labor group,Male,Married,5,Doctor,Life Sciences,Sales Executive,2,Medium,4,Very High,2,Good,9,Silver range,8,Silver range,2,Needs Improvement
+E100353,35,Main labor group,Female,Married,4,Master,Medical,Business Analyst,3,High,3,High,3,Better,4,Copper range,2,Copper range,3,Meet Expectation
+E100354,31,Main labor group,Male,Divorced,4,Master,Life Sciences,Developer,4,Very High,4,Very High,2,Good,10,Silver range,7,Silver range,4,Exceed Expectation
+E100355,37,Main labor group,Male,Divorced,4,Master,Life Sciences,Business Analyst,1,Low,3,High,4,Best,7,Silver range,5,Copper range,3,Meet Expectation
+E100356,32,Main labor group,Male,Married,3,Bachelor,Medical,Developer,1,Low,2,Medium,3,Better,9,Silver range,8,Silver range,3,Meet Expectation
+E100357,38,Main labor group,Female,Single,5,Doctor,Life Sciences,Developer,4,Very High,4,Very High,3,Better,10,Silver range,3,Copper range,3,Meet Expectation
+E100358,50,Middle-aged labor group,Female,Divorced,2,College,Medical,Developer,2,Medium,4,Very High,2,Good,29,Diamond range,3,Copper range,3,Meet Expectation
+E100359,59,Old labor group,Female,Single,3,Bachelor,Life Sciences,Sales Executive,1,Low,4,Very High,2,Good,28,Diamond range,16,Gold range,2,Needs Improvement
+E100361,36,Main labor group,Female,Divorced,3,Bachelor,Technical Degree,Business Analyst,3,High,2,Medium,3,Better,17,Gold range,14,Gold range,3,Meet Expectation
+E100363,36,Main labor group,Male,Single,3,Bachelor,Life Sciences,Business Analyst,2,Medium,3,High,3,Better,6,Silver range,5,Copper range,4,Exceed Expectation
+E100364,45,Middle-aged labor group,Male,Divorced,3,Bachelor,Life Sciences,Business Analyst,2,Medium,3,High,3,Better,25,Diamond range,0,no exps,3,Meet Expectation
+E100366,35,Main labor group,Male,Married,3,Bachelor,Medical,Developer,2,Medium,4,Very High,2,Good,5,Copper range,2,Copper range,3,Meet Expectation
+E100368,36,Main labor group,Male,Married,3,Bachelor,Medical,Developer,4,Very High,1,Low,2,Good,2,Copper range,0,no exps,3,Meet Expectation
+E100372,29,Main labor group,Male,Married,3,Bachelor,Life Sciences,Business Analyst,3,High,4,Very High,3,Better,6,Silver range,4,Copper range,4,Exceed Expectation
+E100373,31,Main labor group,Male,Single,4,Master,Medical,Business Analyst,3,High,2,Medium,3,Better,1,Copper range,1,Copper range,3,Meet Expectation
+E100374,32,Main labor group,Male,Married,3,Bachelor,Life Sciences,Developer,2,Medium,2,Medium,3,Better,10,Silver range,4,Copper range,3,Meet Expectation
+E100375,36,Main labor group,Female,Married,3,Bachelor,Life Sciences,Developer,2,Medium,2,Medium,3,Better,5,Copper range,0,no exps,3,Meet Expectation
+E100376,31,Main labor group,Female,Single,4,Master,Life Sciences,Developer,3,High,4,Very High,3,Better,11,Gold range,7,Silver range,4,Exceed Expectation
+E100378,35,Main labor group,Male,Single,4,Master,Marketing,Sales Executive,3,High,2,Medium,3,Better,16,Gold range,13,Gold range,3,Meet Expectation
+E100381,46,Middle-aged labor group,Male,Divorced,2,College,Medical,Human Resources,2,Medium,4,Very High,3,Better,16,Gold range,2,Copper range,3,Meet Expectation
+E100382,30,Main labor group,Male,Married,1,Below College,Life Sciences,Developer,4,Very High,3,High,2,Good,10,Silver range,8,Silver range,3,Meet Expectation
+E100383,35,Main labor group,Male,Single,3,Bachelor,Medical,Business Analyst,2,Medium,1,Low,3,Better,6,Silver range,4,Copper range,3,Meet Expectation
+E100384,55,Old labor group,Male,Married,2,College,Life Sciences,Sales Executive,1,Low,4,Very High,3,Better,24,Diamond range,0,no exps,3,Meet Expectation
+E100385,38,Main labor group,Female,Divorced,3,Bachelor,Medical,Developer,2,Medium,4,Very High,3,Better,17,Gold range,11,Gold range,3,Meet Expectation
+E100388,34,Main labor group,Male,Married,2,College,Medical,Business Analyst,1,Low,3,High,3,Better,5,Copper range,2,Copper range,3,Meet Expectation
+E100391,23,Young labor group,Male,Divorced,1,Below College,Technical Degree,Sales Representative,3,High,3,High,3,Better,3,Copper range,0,no exps,3,Meet Expectation
+E100395,30,Main labor group,Male,Married,3,Bachelor,Life Sciences,Developer,3,High,1,Low,3,Better,11,Gold range,10,Silver range,3,Meet Expectation
+E100396,46,Middle-aged labor group,Male,Single,2,College,Medical,Sales Executive,3,High,4,Very High,3,Better,9,Silver range,8,Silver range,3,Meet Expectation
+E100397,40,Main labor group,Male,Married,4,Master,Life Sciences,Developer,3,High,4,Very High,2,Good,22,Diamond range,3,Copper range,4,Exceed Expectation
+E100398,51,Old labor group,Male,Single,4,Master,Marketing,Sales Executive,3,High,4,Very High,1,Bad,11,Gold range,7,Silver range,3,Meet Expectation
+E100399,30,Main labor group,Female,Divorced,2,College,Medical,Sales Executive,3,High,2,Medium,2,Good,11,Gold range,8,Silver range,3,Meet Expectation
+E100402,46,Middle-aged labor group,Male,Married,3,Bachelor,Medical,Developer,3,High,3,High,2,Good,21,Diamond range,9,Silver range,3,Meet Expectation
+E100403,32,Main labor group,Male,Single,4,Master,Medical,Sales Executive,2,Medium,1,Low,3,Better,12,Gold range,8,Silver range,2,Needs Improvement
+E100406,24,Young labor group,Female,Married,2,College,Other,Sales Executive,1,Low,1,Low,2,Good,4,Copper range,2,Copper range,3,Meet Expectation
+E100407,28,Main labor group,Male,Married,3,Bachelor,Medical,Sales Executive,2,Medium,2,Medium,4,Best,5,Copper range,4,Copper range,4,Exceed Expectation
+E100409,58,Old labor group,Male,Single,4,Master,Medical,Sales Executive,4,Very High,3,High,2,Good,38,Diamond range,10,Silver range,3,Meet Expectation
+E100410,44,Middle-aged labor group,Male,Married,3,Bachelor,Medical,Developer,2,Medium,3,High,4,Best,17,Gold range,2,Copper range,3,Meet Expectation
+E100411,37,Main labor group,Male,Divorced,4,Master,Human Resources,Human Resources,3,High,4,Very High,3,Better,7,Silver range,2,Copper range,4,Exceed Expectation
+E100412,32,Main labor group,Male,Single,1,Below College,Life Sciences,Developer,4,Very High,4,Very High,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E100416,34,Main labor group,Female,Single,4,Master,Other,Developer,1,Low,3,High,3,Better,16,Gold range,13,Gold range,3,Meet Expectation
+E100417,37,Main labor group,Male,Divorced,2,College,Life Sciences,Business Analyst,3,High,4,Very High,4,Best,17,Gold range,0,no exps,3,Meet Expectation
+E100419,50,Middle-aged labor group,Female,Married,3,Bachelor,Life Sciences,Business Analyst,1,Low,1,Low,2,Good,28,Diamond range,3,Copper range,3,Meet Expectation
+E100420,25,Main labor group,Male,Single,3,Bachelor,Marketing,Sales Executive,3,High,4,Very High,3,Better,6,Silver range,4,Copper range,3,Meet Expectation
+E100421,25,Main labor group,Male,Married,1,Below College,Medical,Business Analyst,4,Very High,3,High,3,Better,2,Copper range,2,Copper range,3,Meet Expectation
+E100422,22,Young labor group,Female,Single,3,Bachelor,Medical,Developer,2,Medium,3,High,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E100425,34,Main labor group,Male,Single,3,Bachelor,Life Sciences,Developer,1,Low,4,Very High,3,Better,9,Silver range,7,Silver range,4,Exceed Expectation
+E100426,54,Old labor group,Female,Single,3,Bachelor,Human Resources,Manager,4,Very High,3,High,3,Better,23,Diamond range,3,Copper range,3,Meet Expectation
+E100428,24,Young labor group,Male,Married,1,Below College,Life Sciences,Business Analyst,2,Medium,3,High,3,Better,6,Silver range,3,Copper range,3,Meet Expectation
+E100429,34,Main labor group,Female,Divorced,4,Master,Life Sciences,Business Analyst,3,High,3,High,3,Better,12,Gold range,0,no exps,3,Meet Expectation
+E100430,37,Main labor group,Male,Single,3,Bachelor,Life Sciences,Sales Executive,3,High,1,Low,3,Better,12,Gold range,3,Copper range,3,Meet Expectation
+E100431,34,Main labor group,Female,Single,3,Bachelor,Medical,Business Analyst,3,High,4,Very High,3,Better,14,Gold range,10,Silver range,3,Meet Expectation
+E100433,36,Main labor group,Female,Divorced,2,College,Life Sciences,Developer,1,Low,1,Low,3,Better,7,Silver range,0,no exps,4,Exceed Expectation
+E100436,43,Middle-aged labor group,Male,Married,2,College,Life Sciences,Manager,3,High,4,Very High,4,Best,25,Diamond range,12,Gold range,3,Meet Expectation
+E100438,33,Main labor group,Male,Married,2,College,Marketing,Sales Executive,3,High,1,Low,4,Best,8,Silver range,7,Silver range,3,Meet Expectation
+E100440,51,Old labor group,Male,Single,3,Bachelor,Life Sciences,Developer,1,Low,3,High,3,Better,23,Diamond range,18,Gold range,3,Meet Expectation
+E100441,31,Main labor group,Male,Married,4,Master,Life Sciences,Sales Executive,2,Medium,2,Medium,2,Good,12,Gold range,7,Silver range,2,Needs Improvement
+E100442,26,Main labor group,Female,Married,3,Bachelor,Other,Developer,3,High,3,High,2,Good,5,Copper range,4,Copper range,3,Meet Expectation
+E100443,58,Old labor group,Female,Married,4,Master,Medical,Developer,4,Very High,4,Very High,2,Good,40,Diamond range,10,Silver range,3,Meet Expectation
+E100445,19,Young labor group,Male,Single,1,Below College,Marketing,Sales Representative,4,Very High,4,Very High,2,Good,0,no exps,0,no exps,3,Meet Expectation
+E100447,22,Young labor group,Male,Married,1,Below College,Technical Degree,Developer,3,High,3,High,3,Better,3,Copper range,1,Copper range,3,Meet Expectation
+E100448,49,Middle-aged labor group,Female,Married,4,Master,Medical,Developer,3,High,3,High,2,Good,16,Gold range,11,Gold range,3,Meet Expectation
+E100449,43,Middle-aged labor group,Female,Single,3,Bachelor,Medical,Developer,2,Medium,4,Very High,3,Better,18,Gold range,2,Copper range,3,Meet Expectation
+E100452,50,Middle-aged labor group,Female,Single,3,Bachelor,Marketing,Sales Executive,3,High,4,Very High,3,Better,16,Gold range,2,Copper range,3,Meet Expectation
+E100453,31,Main labor group,Female,Married,3,Bachelor,Life Sciences,Sales Executive,2,Medium,3,High,3,Better,4,Copper range,2,Copper range,2,Needs Improvement
+E100454,41,Middle-aged labor group,Male,Divorced,1,Below College,Life Sciences,Sales Executive,3,High,3,High,3,Better,12,Gold range,7,Silver range,3,Meet Expectation
+E100455,26,Main labor group,Female,Married,1,Below College,Life Sciences,Human Resources,3,High,4,Very High,3,Better,8,Silver range,7,Silver range,4,Exceed Expectation
+E100456,36,Main labor group,Male,Divorced,2,College,Medical,Developer,2,Medium,4,Very High,3,Better,7,Silver range,2,Copper range,3,Meet Expectation
+E100457,51,Old labor group,Male,Single,4,Master,Life Sciences,Business Analyst,1,Low,4,Very High,3,Better,18,Gold range,2,Copper range,4,Exceed Expectation
+E100461,25,Main labor group,Male,Married,3,Bachelor,Life Sciences,Sales Executive,1,Low,4,Very High,3,Better,6,Silver range,2,Copper range,2,Needs Improvement
+E100462,30,Main labor group,Male,Married,3,Bachelor,Human Resources,Human Resources,3,High,4,Very High,1,Bad,12,Gold range,9,Silver range,3,Meet Expectation
+E100470,45,Middle-aged labor group,Male,Single,3,Bachelor,Medical,Technical Lead,3,High,2,Medium,2,Good,9,Silver range,5,Copper range,3,Meet Expectation
+E100471,38,Main labor group,Female,Single,5,Doctor,Technical Degree,Developer,4,Very High,2,Medium,3,Better,19,Gold range,2,Copper range,4,Exceed Expectation
+E100472,30,Main labor group,Female,Single,3,Bachelor,Life Sciences,Developer,1,Low,3,High,2,Good,5,Copper range,4,Copper range,3,Meet Expectation
+E100475,30,Main labor group,Female,Divorced,3,Bachelor,Technical Degree,Developer,4,Very High,4,Very High,3,Better,8,Silver range,2,Copper range,3,Meet Expectation
+E100478,41,Middle-aged labor group,Male,Married,4,Master,Life Sciences,Developer,3,High,4,Very High,3,Better,7,Silver range,0,no exps,4,Exceed Expectation
+E100479,19,Young labor group,Female,Single,1,Below College,Medical,Technical Lead,2,Medium,4,Very High,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E100482,35,Main labor group,Male,Married,5,Doctor,Marketing,Sales Executive,3,High,1,Low,3,Better,10,Silver range,8,Silver range,3,Meet Expectation
+E100483,53,Old labor group,Male,Married,2,College,Marketing,Sales Representative,2,Medium,4,Very High,1,Bad,13,Gold range,7,Silver range,2,Needs Improvement
+E100484,45,Middle-aged labor group,Male,Divorced,3,Bachelor,Life Sciences,Developer,2,Medium,3,High,1,Bad,20,Gold range,9,Silver range,3,Meet Expectation
+E100485,32,Main labor group,Female,Single,3,Bachelor,Marketing,Sales Executive,2,Medium,4,Very High,3,Better,9,Silver range,8,Silver range,2,Needs Improvement
+E100486,29,Main labor group,Male,Married,1,Below College,Technical Degree,Technical Lead,4,Very High,1,Low,3,Better,10,Silver range,7,Silver range,3,Meet Expectation
+E100492,58,Old labor group,Female,Married,3,Bachelor,Medical,Technical Lead,2,Medium,2,Medium,2,Good,9,Silver range,0,no exps,4,Exceed Expectation
+E100493,40,Main labor group,Male,Married,4,Master,Marketing,Sales Executive,3,High,1,Low,2,Good,15,Gold range,11,Gold range,3,Meet Expectation
+E100494,34,Main labor group,Female,Married,4,Master,Marketing,Sales Representative,3,High,4,Very High,3,Better,6,Silver range,3,Copper range,3,Meet Expectation
+E100496,27,Main labor group,Male,Divorced,3,Bachelor,Medical,Developer,4,Very High,4,Very High,1,Bad,6,Silver range,2,Copper range,3,Meet Expectation
+E100499,28,Main labor group,Male,Married,3,Bachelor,Medical,Developer,3,High,3,High,1,Bad,5,Copper range,2,Copper range,3,Meet Expectation
+E100501,57,Old labor group,Male,Divorced,2,College,Life Sciences,Developer,3,High,2,Medium,1,Bad,12,Gold range,3,Copper range,3,Meet Expectation
+E100502,27,Main labor group,Male,Divorced,3,Bachelor,Medical,Technical Lead,3,High,4,Very High,2,Good,1,Copper range,1,Copper range,3,Meet Expectation
+E100504,50,Middle-aged labor group,Female,Single,3,Bachelor,Life Sciences,Technical Lead,3,High,2,Medium,3,Better,21,Diamond range,4,Copper range,3,Meet Expectation
+E100505,41,Middle-aged labor group,Male,Divorced,3,Bachelor,Life Sciences,Developer,1,Low,1,Low,3,Better,13,Gold range,8,Silver range,3,Meet Expectation
+E100506,30,Main labor group,Female,Married,3,Bachelor,Life Sciences,Sales Executive,2,Medium,3,High,3,Better,12,Gold range,9,Silver range,2,Needs Improvement
+E100508,38,Main labor group,Female,Single,4,Master,Life Sciences,Sales Executive,1,Low,3,High,4,Best,12,Gold range,3,Copper range,4,Exceed Expectation
+E100509,32,Main labor group,Male,Single,5,Doctor,Life Sciences,Developer,3,High,1,Low,3,Better,8,Silver range,4,Copper range,4,Exceed Expectation
+E100511,27,Main labor group,Male,Married,3,Bachelor,Technical Degree,Technical Lead,3,High,4,Very High,2,Good,6,Silver range,2,Copper range,3,Meet Expectation
+E100513,19,Young labor group,Female,Single,1,Below College,Technical Degree,Sales Representative,3,High,1,Low,4,Best,1,Copper range,0,no exps,4,Exceed Expectation
+E100516,36,Main labor group,Male,Single,2,College,Medical,Technical Lead,4,Very High,3,High,2,Good,13,Gold range,7,Silver range,3,Meet Expectation
+E100517,30,Main labor group,Male,Divorced,3,Bachelor,Medical,Developer,3,High,3,High,3,Better,12,Gold range,9,Silver range,3,Meet Expectation
+E100518,45,Middle-aged labor group,Female,Divorced,2,College,Life Sciences,Sales Executive,3,High,1,Low,4,Best,9,Silver range,4,Copper range,3,Meet Expectation
+E100519,56,Old labor group,Female,Divorced,3,Bachelor,Life Sciences,Developer,3,High,3,High,3,Better,19,Gold range,2,Copper range,3,Meet Expectation
+E100520,33,Main labor group,Male,Single,3,Bachelor,Life Sciences,Developer,3,High,1,Low,4,Best,4,Copper range,1,Copper range,3,Meet Expectation
+E100521,19,Young labor group,Male,Single,3,Bachelor,Life Sciences,Developer,2,Medium,3,High,2,Good,1,Copper range,0,no exps,4,Exceed Expectation
+E100522,46,Middle-aged labor group,Female,Divorced,2,College,Marketing,Sales Executive,2,Medium,3,High,3,Better,24,Diamond range,13,Gold range,2,Needs Improvement
+E100523,38,Main labor group,Female,Single,2,College,Life Sciences,Technical Lead,3,High,3,High,3,Better,2,Copper range,2,Copper range,3,Meet Expectation
+E100525,34,Main labor group,Female,Single,2,College,Medical,Developer,4,Very High,4,Very High,3,Better,9,Silver range,2,Copper range,3,Meet Expectation
+E100526,41,Middle-aged labor group,Female,Single,2,College,Marketing,Sales Representative,2,Medium,4,Very High,2,Good,4,Copper range,3,Copper range,3,Meet Expectation
+E100527,50,Middle-aged labor group,Male,Married,3,Bachelor,Medical,Developer,3,High,4,Very High,2,Good,5,Copper range,2,Copper range,3,Meet Expectation
+E100528,53,Old labor group,Female,Divorced,2,College,Medical,Technical Lead,4,Very High,3,High,3,Better,5,Copper range,2,Copper range,3,Meet Expectation
+E100530,33,Main labor group,Female,Married,3,Bachelor,Medical,Developer,4,Very High,4,Very High,3,Better,8,Silver range,7,Silver range,3,Meet Expectation
+E100531,40,Main labor group,Female,Married,1,Below College,Medical,Developer,4,Very High,2,Medium,3,Better,21,Diamond range,8,Silver range,3,Meet Expectation
+E100534,34,Main labor group,Male,Married,1,Below College,Life Sciences,Technical Lead,4,Very High,3,High,2,Good,10,Silver range,9,Silver range,3,Meet Expectation
+E100536,51,Old labor group,Female,Single,3,Bachelor,Medical,Developer,4,Very High,3,High,3,Better,21,Diamond range,7,Silver range,3,Meet Expectation
+E100537,52,Old labor group,Male,Married,4,Master,Life Sciences,Developer,3,High,1,Low,3,Better,34,Diamond range,18,Gold range,3,Meet Expectation
+E100538,27,Main labor group,Female,Single,3,Bachelor,Medical,Developer,4,Very High,4,Very High,2,Good,7,Silver range,7,Silver range,3,Meet Expectation
+E100539,35,Main labor group,Male,Married,2,College,Life Sciences,Developer,2,Medium,1,Low,3,Better,8,Silver range,0,no exps,3,Meet Expectation
+E100540,43,Middle-aged labor group,Male,Divorced,3,Bachelor,Medical,Technical Lead,4,Very High,4,Very High,4,Best,7,Silver range,4,Copper range,3,Meet Expectation
+E100542,45,Middle-aged labor group,Male,Married,2,College,Medical,Technical Lead,1,Low,4,Very High,3,Better,22,Diamond range,8,Silver range,3,Meet Expectation
+E100545,37,Main labor group,Male,Married,3,Bachelor,Life Sciences,Developer,2,Medium,1,Low,2,Good,8,Silver range,7,Silver range,3,Meet Expectation
+E100547,35,Main labor group,Female,Single,3,Bachelor,Medical,Developer,2,Medium,4,Very High,3,Better,10,Silver range,2,Copper range,3,Meet Expectation
+E100548,42,Middle-aged labor group,Female,Divorced,2,College,Medical,Developer,3,High,2,Medium,3,Better,11,Gold range,3,Copper range,3,Meet Expectation
+E100549,38,Main labor group,Male,Married,4,Master,Life Sciences,Technical Lead,4,Very High,2,Medium,3,Better,14,Gold range,0,no exps,3,Meet Expectation
+E100551,38,Main labor group,Male,Married,3,Bachelor,Technical Degree,Technical Lead,4,Very High,1,Low,1,Bad,9,Silver range,7,Silver range,3,Meet Expectation
+E100552,27,Main labor group,Male,Married,1,Below College,Technical Degree,Developer,3,High,3,High,3,Better,6,Silver range,2,Copper range,3,Meet Expectation
+E100553,49,Middle-aged labor group,Male,Divorced,4,Master,Life Sciences,Technical Lead,4,Very High,1,Low,3,Better,7,Silver range,7,Silver range,3,Meet Expectation
+E100555,34,Main labor group,Male,Divorced,4,Master,Medical,Developer,4,Very High,4,Very High,4,Best,5,Copper range,3,Copper range,3,Meet Expectation
+E100559,40,Main labor group,Male,Married,2,College,Medical,Developer,3,High,3,High,4,Best,15,Gold range,2,Copper range,3,Meet Expectation
+E100560,38,Main labor group,Male,Married,1,Below College,Medical,Technical Lead,2,Medium,2,Medium,3,Better,17,Gold range,0,no exps,3,Meet Expectation
+E100561,29,Main labor group,Female,Married,3,Bachelor,Marketing,Sales Executive,2,Medium,4,Very High,2,Good,10,Silver range,4,Copper range,2,Needs Improvement
+E100562,22,Young labor group,Male,Divorced,3,Bachelor,Life Sciences,Technical Lead,4,Very High,1,Low,2,Good,4,Copper range,2,Copper range,3,Meet Expectation
+E100564,36,Main labor group,Female,Single,1,Below College,Medical,Developer,2,Medium,1,Low,3,Better,8,Silver range,1,Copper range,3,Meet Expectation
+E100565,40,Main labor group,Male,Married,5,Doctor,Life Sciences,Technical Lead,4,Very High,4,Very High,1,Bad,5,Copper range,2,Copper range,3,Meet Expectation
+E100569,32,Main labor group,Male,Married,4,Master,Medical,Sales Executive,4,Very High,3,High,2,Good,14,Gold range,8,Silver range,3,Meet Expectation
+E100571,27,Main labor group,Female,Single,3,Bachelor,Life Sciences,Sales Executive,4,Very High,4,Very High,3,Better,7,Silver range,7,Silver range,3,Meet Expectation
+E100574,51,Old labor group,Male,Married,4,Master,Life Sciences,Data Scientist,2,Medium,4,Very High,1,Bad,16,Gold range,9,Silver range,3,Meet Expectation
+E100576,41,Middle-aged labor group,Female,Single,3,Bachelor,Life Sciences,Manager,4,Very High,3,High,3,Better,16,Gold range,0,no exps,3,Meet Expectation
+E100577,30,Main labor group,Female,Single,4,Master,Marketing,Sales Executive,3,High,3,High,2,Good,9,Silver range,3,Copper range,3,Meet Expectation
+E100578,29,Main labor group,Male,Single,3,Bachelor,Technical Degree,Developer,3,High,4,Very High,2,Good,7,Silver range,2,Copper range,3,Meet Expectation
+E100580,45,Middle-aged labor group,Female,Single,3,Bachelor,Medical,Sales Executive,4,Very High,4,Very High,3,Better,23,Diamond range,7,Silver range,3,Meet Expectation
+E100581,54,Old labor group,Female,Married,3,Bachelor,Marketing,Sales Executive,4,Very High,4,Very High,3,Better,16,Gold range,2,Copper range,3,Meet Expectation
+E100582,36,Main labor group,Male,Single,2,College,Life Sciences,Technical Lead,4,Very High,4,Very High,4,Best,16,Gold range,11,Gold range,3,Meet Expectation
+E100584,37,Main labor group,Male,Divorced,3,Bachelor,Other,Developer,2,Medium,3,High,3,Better,10,Silver range,8,Silver range,3,Meet Expectation
+E100586,31,Main labor group,Male,Married,4,Master,Medical,Developer,3,High,4,Very High,3,Better,6,Silver range,4,Copper range,3,Meet Expectation
+E100589,37,Main labor group,Male,Divorced,4,Master,Marketing,Sales Representative,1,Low,3,High,3,Better,13,Gold range,8,Silver range,2,Needs Improvement
+E100590,29,Main labor group,Female,Married,1,Below College,Medical,Sales Executive,2,Medium,4,Very High,3,Better,11,Gold range,10,Silver range,2,Needs Improvement
+E100592,35,Main labor group,Female,Single,3,Bachelor,Marketing,Sales Executive,3,High,1,Low,4,Best,10,Silver range,7,Silver range,4,Exceed Expectation
+E100593,29,Main labor group,Male,Single,1,Below College,Medical,Developer,3,High,3,High,2,Good,4,Copper range,3,Copper range,3,Meet Expectation
+E100594,52,Old labor group,Female,Single,3,Bachelor,Life Sciences,Technical Lead,3,High,2,Medium,2,Good,6,Silver range,2,Copper range,3,Meet Expectation
+E100597,42,Middle-aged labor group,Male,Married,2,College,Technical Degree,Developer,3,High,4,Very High,3,Better,22,Diamond range,17,Gold range,3,Meet Expectation
+E100599,59,Old labor group,Male,Married,2,College,Medical,Human Resources,2,Medium,4,Very High,2,Good,7,Silver range,2,Copper range,2,Needs Improvement
+E100601,50,Middle-aged labor group,Female,Divorced,4,Master,Medical,Manager,4,Very High,3,High,2,Good,32,Diamond range,0,no exps,3,Meet Expectation
+E100603,33,Main labor group,Male,Married,3,Bachelor,Medical,Developer,3,High,3,High,1,Bad,8,Silver range,4,Copper range,3,Meet Expectation
+E100605,43,Middle-aged labor group,Female,Married,3,Bachelor,Marketing,Manager,4,Very High,3,High,3,Better,22,Diamond range,13,Gold range,4,Exceed Expectation
+E100606,33,Main labor group,Female,Married,2,College,Life Sciences,Developer,1,Low,1,Low,4,Best,13,Gold range,7,Silver range,3,Meet Expectation
+E100607,52,Old labor group,Male,Single,4,Master,Life Sciences,Manager,1,Low,4,Very High,4,Best,33,Diamond range,7,Silver range,2,Needs Improvement
+E100609,32,Main labor group,Male,Single,3,Bachelor,Life Sciences,Developer,4,Very High,4,Very High,1,Bad,4,Copper range,2,Copper range,3,Meet Expectation
+E100610,39,Main labor group,Female,Divorced,4,Master,Medical,Data Scientist,3,High,3,High,3,Better,7,Silver range,2,Copper range,3,Meet Expectation
+E100611,32,Main labor group,Male,Married,4,Master,Marketing,Sales Executive,3,High,1,Low,3,Better,4,Copper range,2,Copper range,3,Meet Expectation
+E100612,41,Middle-aged labor group,Male,Divorced,2,College,Life Sciences,Data Scientist,3,High,1,Low,2,Good,17,Gold range,0,no exps,3,Meet Expectation
+E100615,31,Main labor group,Male,Divorced,4,Master,Medical,Technical Lead,2,Medium,1,Low,3,Better,9,Silver range,2,Copper range,2,Needs Improvement
+E100616,33,Main labor group,Female,Married,4,Master,Life Sciences,Developer,3,High,3,High,2,Good,2,Copper range,2,Copper range,3,Meet Expectation
+E100617,34,Main labor group,Male,Married,4,Master,Life Sciences,Developer,4,Very High,2,Medium,3,Better,13,Gold range,9,Silver range,3,Meet Expectation
+E100618,37,Main labor group,Female,Married,2,College,Medical,Technical Lead,3,High,1,Low,2,Good,17,Gold range,1,Copper range,3,Meet Expectation
+E100619,45,Middle-aged labor group,Male,Married,4,Master,Life Sciences,Technical Lead,1,Low,4,Very High,3,Better,9,Silver range,2,Copper range,4,Exceed Expectation
+E100620,37,Main labor group,Male,Divorced,3,Bachelor,Medical,Developer,1,Low,2,Medium,3,Better,17,Gold range,0,no exps,3,Meet Expectation
+E100621,39,Main labor group,Female,Single,4,Master,Technical Degree,Developer,3,High,4,Very High,3,Better,20,Gold range,6,Silver range,4,Exceed Expectation
+E100625,42,Middle-aged labor group,Female,Single,2,College,Life Sciences,Developer,4,Very High,3,High,3,Better,10,Silver range,2,Copper range,3,Meet Expectation
+E100627,29,Main labor group,Male,Divorced,2,College,Marketing,Sales Executive,4,Very High,4,Very High,3,Better,10,Silver range,2,Copper range,3,Meet Expectation
+E100628,25,Main labor group,Female,Married,3,Bachelor,Life Sciences,Developer,1,Low,4,Very High,3,Better,5,Copper range,2,Copper range,3,Meet Expectation
+E100629,42,Middle-aged labor group,Female,Divorced,3,Bachelor,Medical,Developer,4,Very High,3,High,3,Better,10,Silver range,6,Silver range,3,Meet Expectation
+E100630,40,Main labor group,Male,Divorced,2,College,Medical,Data Scientist,1,Low,4,Very High,3,Better,22,Diamond range,7,Silver range,2,Needs Improvement
+E100631,51,Old labor group,Male,Married,3,Bachelor,Life Sciences,Developer,3,High,2,Medium,2,Good,1,Copper range,0,no exps,3,Meet Expectation
+E100637,32,Main labor group,Male,Married,3,Bachelor,Life Sciences,Technical Lead,2,Medium,3,High,1,Bad,5,Copper range,1,Copper range,3,Meet Expectation
+E100639,38,Main labor group,Male,Married,2,College,Life Sciences,Sales Executive,4,Very High,4,Very High,3,Better,13,Gold range,7,Silver range,3,Meet Expectation
+E100640,32,Main labor group,Male,Single,1,Below College,Technical Degree,Developer,4,Very High,4,Very High,3,Better,9,Silver range,2,Copper range,3,Meet Expectation
+E100641,46,Middle-aged labor group,Female,Married,3,Bachelor,Technical Degree,Manager,3,High,2,Medium,2,Good,28,Diamond range,7,Silver range,3,Meet Expectation
+E100642,28,Main labor group,Male,Single,4,Master,Life Sciences,Developer,1,Low,3,High,1,Bad,5,Copper range,0,no exps,3,Meet Expectation
+E100644,29,Main labor group,Male,Married,3,Bachelor,Medical,Sales Executive,1,Low,2,Medium,3,Better,10,Silver range,0,no exps,3,Meet Expectation
+E100645,31,Main labor group,Male,Married,3,Bachelor,Medical,Data Scientist,2,Medium,2,Medium,3,Better,10,Silver range,0,no exps,4,Exceed Expectation
+E100647,25,Main labor group,Male,Divorced,2,College,Life Sciences,Developer,2,Medium,4,Very High,3,Better,6,Silver range,3,Copper range,3,Meet Expectation
+E100650,45,Middle-aged labor group,Male,Married,2,College,Medical,Technical Lead,3,High,2,Medium,3,Better,21,Diamond range,7,Silver range,3,Meet Expectation
+E100652,55,Old labor group,Male,Single,3,Bachelor,Medical,Developer,4,Very High,3,High,3,Better,37,Diamond range,10,Silver range,3,Meet Expectation
+E100655,28,Main labor group,Male,Married,3,Bachelor,Medical,Technical Lead,4,Very High,4,Very High,2,Good,5,Copper range,2,Copper range,4,Exceed Expectation
+E100656,37,Main labor group,Male,Married,4,Master,Medical,Sales Executive,3,High,2,Medium,4,Best,7,Silver range,4,Copper range,4,Exceed Expectation
+E100657,21,Young labor group,Male,Single,2,College,Medical,Developer,4,Very High,1,Low,4,Best,3,Copper range,2,Copper range,4,Exceed Expectation
+E100658,37,Main labor group,Female,Divorced,4,Master,Medical,Developer,1,Low,1,Low,3,Better,15,Gold range,2,Copper range,3,Meet Expectation
+E100659,35,Main labor group,Female,Divorced,3,Bachelor,Life Sciences,Technical Lead,2,Medium,2,Medium,2,Good,10,Silver range,7,Silver range,3,Meet Expectation
+E100660,38,Main labor group,Female,Divorced,2,College,Medical,Sales Executive,1,Low,3,High,3,Better,8,Silver range,0,no exps,4,Exceed Expectation
+E100662,26,Main labor group,Female,Divorced,3,Bachelor,Life Sciences,Data Scientist,3,High,1,Low,1,Bad,6,Silver range,5,Copper range,3,Meet Expectation
+E100663,50,Middle-aged labor group,Male,Divorced,1,Below College,Life Sciences,Developer,1,Low,1,Low,2,Good,28,Diamond range,4,Copper range,2,Needs Improvement
+E100664,53,Old labor group,Male,Married,4,Master,Medical,Technical Lead,3,High,4,Very High,2,Good,21,Diamond range,3,Copper range,3,Meet Expectation
+E100665,42,Middle-aged labor group,Male,Married,1,Below College,Life Sciences,Sales Executive,2,Medium,3,High,3,Better,20,Gold range,16,Gold range,2,Needs Improvement
+E100668,26,Main labor group,Male,Married,2,College,Medical,Developer,1,Low,3,High,3,Better,5,Copper range,3,Copper range,3,Meet Expectation
+E100669,37,Main labor group,Female,Single,3,Bachelor,Life Sciences,Technical Lead,4,Very High,2,Medium,3,Better,17,Gold range,12,Gold range,3,Meet Expectation
+E100670,44,Middle-aged labor group,Male,Divorced,3,Bachelor,Life Sciences,Developer,4,Very High,4,Very High,1,Bad,19,Gold range,0,no exps,3,Meet Expectation
+E100671,38,Main labor group,Male,Divorced,4,Master,Life Sciences,Developer,4,Very High,2,Medium,3,Better,10,Silver range,2,Copper range,3,Meet Expectation
+E100672,26,Main labor group,Male,Divorced,4,Master,Medical,Data Scientist,1,Low,4,Very High,3,Better,5,Copper range,2,Copper range,3,Meet Expectation
+E100673,28,Main labor group,Female,Single,2,College,Life Sciences,Technical Lead,4,Very High,4,Very High,3,Better,5,Copper range,3,Copper range,4,Exceed Expectation
+E100674,49,Middle-aged labor group,Female,Single,4,Master,Life Sciences,Developer,3,High,4,Very High,3,Better,22,Diamond range,2,Copper range,3,Meet Expectation
+E100677,31,Main labor group,Female,Divorced,3,Bachelor,Marketing,Sales Representative,4,Very High,3,High,2,Good,2,Copper range,2,Copper range,3,Meet Expectation
+E100679,26,Main labor group,Male,Single,4,Master,Marketing,Sales Executive,4,Very High,2,Medium,3,Better,8,Silver range,7,Silver range,3,Meet Expectation
+E100681,37,Main labor group,Male,Married,3,Bachelor,Medical,Developer,2,Medium,3,High,2,Good,4,Copper range,2,Copper range,2,Needs Improvement
+E100682,42,Middle-aged labor group,Female,Married,3,Bachelor,Marketing,Sales Executive,3,High,4,Very High,4,Best,23,Diamond range,4,Copper range,3,Meet Expectation
+E100683,18,Young labor group,Male,Single,3,Bachelor,Life Sciences,Developer,3,High,3,High,3,Better,0,no exps,0,no exps,3,Meet Expectation
+E100684,35,Main labor group,Male,Married,3,Bachelor,Marketing,Sales Executive,3,High,3,High,2,Good,12,Gold range,9,Silver range,3,Meet Expectation
+E100685,36,Main labor group,Male,Married,4,Master,Life Sciences,Developer,3,High,4,Very High,3,Better,4,Copper range,0,no exps,3,Meet Expectation
+E100686,51,Old labor group,Male,Divorced,3,Bachelor,Medical,Technical Lead,4,Very High,4,Very High,3,Better,13,Gold range,1,Copper range,3,Meet Expectation
+E100688,41,Middle-aged labor group,Male,Single,4,Master,Life Sciences,Manager,4,Very High,2,Medium,3,Better,22,Diamond range,10,Silver range,3,Meet Expectation
+E100689,18,Young labor group,Female,Single,3,Bachelor,Medical,Sales Representative,4,Very High,1,Low,3,Better,0,no exps,0,no exps,3,Meet Expectation
+E100690,28,Main labor group,Male,Single,2,College,Medical,Data Scientist,2,Medium,3,High,3,Better,9,Silver range,3,Copper range,3,Meet Expectation
+E100695,39,Main labor group,Male,Divorced,3,Bachelor,Medical,Technical Lead,3,High,1,Low,2,Good,19,Gold range,10,Silver range,3,Meet Expectation
+E100697,36,Main labor group,Female,Married,4,Master,Life Sciences,Technical Lead,2,Medium,3,High,3,Better,11,Gold range,8,Silver range,3,Meet Expectation
+E100698,32,Main labor group,Male,Married,3,Bachelor,Life Sciences,Sales Executive,4,Very High,3,High,2,Good,13,Gold range,8,Silver range,3,Meet Expectation
+E100699,38,Main labor group,Female,Married,2,College,Life Sciences,Developer,1,Low,3,High,3,Better,19,Gold range,8,Silver range,3,Meet Expectation
+E100701,31,Main labor group,Male,Married,4,Master,Technical Degree,Developer,3,High,3,High,3,Better,6,Silver range,2,Copper range,3,Meet Expectation
+E100702,31,Main labor group,Male,Married,3,Bachelor,Human Resources,Human Resources,1,Low,4,Very High,3,Better,9,Silver range,2,Copper range,2,Needs Improvement
+E100703,45,Middle-aged labor group,Male,Divorced,3,Bachelor,Life Sciences,Technical Lead,1,Low,1,Low,3,Better,24,Diamond range,9,Silver range,3,Meet Expectation
+E100704,31,Main labor group,Male,Divorced,4,Master,Life Sciences,Developer,3,High,2,Medium,1,Bad,3,Copper range,2,Copper range,3,Meet Expectation
+E100706,33,Main labor group,Female,Married,4,Master,Life Sciences,Developer,4,Very High,2,Medium,3,Better,12,Gold range,6,Silver range,3,Meet Expectation
+E100707,39,Main labor group,Male,Married,1,Below College,Medical,Developer,3,High,4,Very High,3,Better,21,Diamond range,9,Silver range,3,Meet Expectation
+E100708,43,Middle-aged labor group,Female,Single,4,Master,Life Sciences,Developer,3,High,1,Low,3,Better,9,Silver range,7,Silver range,3,Meet Expectation
+E100709,49,Middle-aged labor group,Female,Single,2,College,Technical Degree,Technical Lead,3,High,4,Very High,3,Better,25,Diamond range,1,Copper range,3,Meet Expectation
+E100712,27,Main labor group,Female,Single,3,Bachelor,Life Sciences,Technical Lead,3,High,2,Medium,2,Good,4,Copper range,3,Copper range,3,Meet Expectation
+E100714,32,Main labor group,Female,Married,2,College,Technical Degree,Sales Executive,3,High,4,Very High,3,Better,13,Gold range,12,Gold range,3,Meet Expectation
+E100715,27,Main labor group,Male,Single,3,Bachelor,Life Sciences,Sales Executive,4,Very High,1,Low,3,Better,5,Copper range,4,Copper range,3,Meet Expectation
+E100716,31,Main labor group,Male,Divorced,3,Bachelor,Marketing,Sales Executive,4,Very High,4,Very High,3,Better,13,Gold range,7,Silver range,3,Meet Expectation
+E100717,32,Main labor group,Female,Single,4,Master,Medical,Technical Lead,1,Low,3,High,2,Good,10,Silver range,7,Silver range,3,Meet Expectation
+E100719,30,Main labor group,Female,Married,2,College,Medical,Delivery Manager,4,Very High,4,Very High,3,Better,11,Gold range,8,Silver range,3,Meet Expectation
+E100722,39,Main labor group,Male,Married,2,College,Medical,Developer,3,High,1,Low,3,Better,21,Diamond range,9,Silver range,3,Meet Expectation
+E100723,39,Main labor group,Female,Married,2,College,Medical,Sales Executive,4,Very High,1,Low,2,Good,12,Gold range,0,no exps,3,Meet Expectation
+E100724,33,Main labor group,Male,Single,3,Bachelor,Marketing,Sales Executive,2,Medium,3,High,2,Good,9,Silver range,7,Silver range,4,Exceed Expectation
+E100725,47,Middle-aged labor group,Male,Married,5,Doctor,Life Sciences,Data Scientist,4,Very High,2,Medium,3,Better,21,Diamond range,2,Copper range,3,Meet Expectation
+E100727,27,Main labor group,Male,Married,1,Below College,Marketing,Sales Executive,3,High,4,Very High,3,Better,6,Silver range,4,Copper range,3,Meet Expectation
+E100729,43,Middle-aged labor group,Female,Married,3,Bachelor,Life Sciences,Delivery Manager,3,High,1,Low,2,Good,10,Silver range,0,no exps,3,Meet Expectation
+E100730,45,Middle-aged labor group,Male,Married,4,Master,Other,Developer,4,Very High,1,Low,3,Better,12,Gold range,9,Silver range,3,Meet Expectation
+E100731,40,Main labor group,Male,Married,2,College,Medical,Sales Executive,2,Medium,3,High,2,Good,6,Silver range,3,Copper range,3,Meet Expectation
+E100732,29,Main labor group,Male,Married,4,Master,Other,Developer,2,Medium,4,Very High,2,Good,7,Silver range,7,Silver range,3,Meet Expectation
+E100734,30,Main labor group,Female,Divorced,3,Bachelor,Marketing,Sales Executive,4,Very High,3,High,3,Better,10,Silver range,9,Silver range,3,Meet Expectation
+E100736,27,Main labor group,Female,Married,4,Master,Marketing,Sales Executive,2,Medium,1,Low,3,Better,8,Silver range,7,Silver range,3,Meet Expectation
+E100738,37,Main labor group,Male,Divorced,2,College,Medical,Delivery Manager,4,Very High,3,High,2,Good,8,Silver range,2,Copper range,3,Meet Expectation
+E100739,38,Main labor group,Male,Divorced,2,College,Life Sciences,Developer,3,High,2,Medium,3,Better,12,Gold range,10,Silver range,3,Meet Expectation
+E100740,31,Main labor group,Female,Single,4,Master,Medical,Delivery Manager,3,High,3,High,2,Good,11,Gold range,9,Silver range,3,Meet Expectation
+E100741,29,Main labor group,Female,Divorced,1,Below College,Marketing,Sales Executive,4,Very High,1,Low,3,Better,7,Silver range,7,Silver range,3,Meet Expectation
+E100742,35,Main labor group,Male,Single,4,Master,Technical Degree,Delivery Manager,3,High,4,Very High,3,Better,17,Gold range,6,Silver range,3,Meet Expectation
+E100744,41,Middle-aged labor group,Male,Single,3,Bachelor,Medical,Developer,4,Very High,4,Very High,3,Better,8,Silver range,4,Copper range,3,Meet Expectation
+E100745,47,Middle-aged labor group,Male,Single,1,Below College,Medical,Sales Representative,2,Medium,1,Low,3,Better,5,Copper range,0,no exps,3,Meet Expectation
+E100746,42,Middle-aged labor group,Female,Single,5,Doctor,Life Sciences,Developer,1,Low,2,Medium,3,Better,16,Gold range,0,no exps,3,Meet Expectation
+E100747,29,Main labor group,Male,Married,3,Bachelor,Life Sciences,Sales Executive,4,Very High,1,Low,2,Good,4,Copper range,3,Copper range,3,Meet Expectation
+E100748,42,Middle-aged labor group,Male,Divorced,1,Below College,Technical Degree,Human Resources,3,High,3,High,3,Better,4,Copper range,2,Copper range,3,Meet Expectation
+E100752,37,Main labor group,Male,Divorced,3,Bachelor,Medical,Delivery Manager,3,High,1,Low,3,Better,13,Gold range,7,Silver range,3,Meet Expectation
+E100754,26,Main labor group,Male,Married,3,Bachelor,Life Sciences,Sales Executive,3,High,2,Medium,3,Better,8,Silver range,7,Silver range,3,Meet Expectation
+E100756,21,Young labor group,Female,Single,1,Below College,Technical Degree,Sales Representative,1,Low,3,High,3,Better,3,Copper range,2,Copper range,2,Needs Improvement
+E100757,36,Main labor group,Female,Single,5,Doctor,Medical,Sales Executive,4,Very High,2,Medium,3,Better,7,Silver range,0,no exps,3,Meet Expectation
+E100759,36,Main labor group,Male,Married,4,Master,Medical,Sales Executive,1,Low,1,Low,3,Better,16,Gold range,9,Silver range,2,Needs Improvement
+E100760,57,Old labor group,Male,Married,4,Master,Medical,Developer,4,Very High,3,High,3,Better,15,Gold range,2,Copper range,3,Meet Expectation
+E100761,40,Main labor group,Female,Married,4,Master,Life Sciences,Delivery Manager,4,Very High,3,High,3,Better,10,Silver range,7,Silver range,3,Meet Expectation
+E100762,21,Young labor group,Male,Single,2,College,Medical,Sales Representative,1,Low,3,High,2,Good,3,Copper range,2,Copper range,2,Needs Improvement
+E100766,41,Middle-aged labor group,Male,Single,3,Bachelor,Marketing,Sales Executive,1,Low,3,High,3,Better,8,Silver range,7,Silver range,2,Needs Improvement
+E100770,40,Main labor group,Male,Married,2,College,Marketing,Sales Executive,3,High,1,Low,3,Better,8,Silver range,4,Copper range,3,Meet Expectation
+E100771,31,Main labor group,Male,Single,4,Master,Life Sciences,Developer,3,High,4,Very High,3,Better,3,Copper range,2,Copper range,3,Meet Expectation
+E100772,21,Young labor group,Female,Single,3,Bachelor,Life Sciences,Sales Representative,3,High,4,Very High,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E100773,29,Main labor group,Male,Single,3,Bachelor,Life Sciences,Delivery Manager,4,Very High,4,Very High,3,Better,6,Silver range,2,Copper range,3,Meet Expectation
+E100774,35,Main labor group,Male,Single,4,Master,Life Sciences,Developer,3,High,3,High,3,Better,10,Silver range,1,Copper range,3,Meet Expectation
+E100775,27,Main labor group,Male,Divorced,2,College,Medical,Data Scientist,4,Very High,2,Medium,3,Better,5,Copper range,2,Copper range,3,Meet Expectation
+E100776,28,Main labor group,Male,Single,4,Master,Life Sciences,Sales Executive,2,Medium,4,Very High,3,Better,7,Silver range,5,Copper range,3,Meet Expectation
+E100777,49,Middle-aged labor group,Male,Single,3,Bachelor,Other,Delivery Manager,2,Medium,3,High,3,Better,26,Diamond range,2,Copper range,3,Meet Expectation
+E100778,51,Old labor group,Female,Married,2,College,Life Sciences,Sales Executive,3,High,3,High,2,Good,18,Gold range,7,Silver range,3,Meet Expectation
+E100779,36,Main labor group,Female,Married,3,Bachelor,Life Sciences,Developer,4,Very High,2,Medium,3,Better,6,Silver range,2,Copper range,3,Meet Expectation
+E100780,34,Main labor group,Male,Single,3,Bachelor,Marketing,Sales Executive,1,Low,2,Medium,2,Good,9,Silver range,2,Copper range,3,Meet Expectation
+E100783,55,Old labor group,Female,Single,3,Bachelor,Life Sciences,Delivery Manager,3,High,3,High,3,Better,30,Diamond range,4,Copper range,3,Meet Expectation
+E100786,30,Main labor group,Male,Married,1,Below College,Technical Degree,Sales Representative,3,High,1,Low,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E100788,26,Main labor group,Male,Single,1,Below College,Technical Degree,Developer,3,High,3,High,3,Better,7,Silver range,4,Copper range,4,Exceed Expectation
+E100789,22,Young labor group,Female,Married,3,Bachelor,Medical,Developer,1,Low,4,Very High,3,Better,2,Copper range,1,Copper range,3,Meet Expectation
+E100791,36,Main labor group,Male,Married,2,College,Medical,Sales Executive,2,Medium,2,Medium,3,Better,10,Silver range,9,Silver range,2,Needs Improvement
+E100792,30,Main labor group,Male,Single,3,Bachelor,Technical Degree,Developer,3,High,3,High,3,Better,3,Copper range,0,no exps,4,Exceed Expectation
+E100793,37,Main labor group,Female,Divorced,3,Bachelor,Life Sciences,Delivery Manager,4,Very High,3,High,2,Good,18,Gold range,7,Silver range,3,Meet Expectation
+E100794,40,Main labor group,Female,Divorced,2,College,Marketing,Sales Executive,4,Very High,3,High,3,Better,8,Silver range,4,Copper range,3,Meet Expectation
+E100796,37,Main labor group,Male,Single,4,Master,Life Sciences,Delivery Manager,3,High,4,Very High,2,Good,18,Gold range,0,no exps,3,Meet Expectation
+E100798,43,Middle-aged labor group,Male,Divorced,3,Bachelor,Life Sciences,Developer,1,Low,3,High,3,Better,25,Diamond range,10,Silver range,2,Needs Improvement
+E100799,40,Main labor group,Female,Married,3,Bachelor,Medical,Developer,2,Medium,2,Medium,3,Better,20,Gold range,0,no exps,4,Exceed Expectation
+E100800,54,Old labor group,Male,Married,2,College,Medical,Developer,1,Low,3,High,2,Good,24,Diamond range,2,Copper range,3,Meet Expectation
+E100802,31,Main labor group,Female,Married,2,College,Medical,Developer,2,Medium,2,Medium,1,Bad,13,Gold range,10,Silver range,3,Meet Expectation
+E100803,43,Middle-aged labor group,Male,Married,3,Bachelor,Medical,Developer,4,Very High,1,Low,3,Better,8,Silver range,2,Copper range,4,Exceed Expectation
+E100805,25,Main labor group,Female,Single,2,College,Life Sciences,Sales Executive,2,Medium,2,Medium,3,Better,5,Copper range,4,Copper range,2,Needs Improvement
+E100807,37,Main labor group,Female,Married,5,Doctor,Medical,Senior Developer,2,Medium,1,Low,3,Better,15,Gold range,11,Gold range,3,Meet Expectation
+E100808,31,Main labor group,Male,Married,2,College,Life Sciences,Developer,4,Very High,3,High,3,Better,4,Copper range,2,Copper range,3,Meet Expectation
+E100809,39,Main labor group,Male,Divorced,1,Below College,Life Sciences,Senior Developer,2,Medium,3,High,3,Better,21,Diamond range,8,Silver range,2,Needs Improvement
+E100811,30,Main labor group,Female,Single,3,Bachelor,Technical Degree,Sales Executive,2,Medium,2,Medium,3,Better,6,Silver range,4,Copper range,2,Needs Improvement
+E100812,41,Middle-aged labor group,Male,Married,3,Bachelor,Marketing,Sales Executive,2,Medium,3,High,3,Better,10,Silver range,7,Silver range,3,Meet Expectation
+E100814,28,Main labor group,Male,Divorced,2,College,Medical,Senior Developer,3,High,4,Very High,3,Better,10,Silver range,0,no exps,3,Meet Expectation
+E100816,25,Main labor group,Male,Married,3,Bachelor,Medical,Developer,1,Low,3,High,3,Better,6,Silver range,2,Copper range,3,Meet Expectation
+E100821,52,Old labor group,Male,Married,3,Bachelor,Medical,Developer,4,Very High,3,High,3,Better,28,Diamond range,4,Copper range,3,Meet Expectation
+E100822,45,Middle-aged labor group,Male,Married,2,College,Life Sciences,Developer,1,Low,4,Very High,2,Good,8,Silver range,2,Copper range,3,Meet Expectation
+E100824,52,Old labor group,Female,Married,2,College,Life Sciences,Data Scientist,4,Very High,4,Very High,1,Bad,31,Diamond range,2,Copper range,3,Meet Expectation
+E100825,42,Middle-aged labor group,Female,Divorced,2,College,Life Sciences,Developer,1,Low,2,Medium,3,Better,19,Gold range,4,Copper range,3,Meet Expectation
+E100826,30,Main labor group,Female,Single,3,Bachelor,Life Sciences,Developer,3,High,3,High,3,Better,11,Gold range,4,Copper range,4,Exceed Expectation
+E100827,60,Old labor group,Female,Married,3,Bachelor,Life Sciences,Developer,1,Low,4,Very High,1,Bad,33,Diamond range,8,Silver range,3,Meet Expectation
+E100828,46,Middle-aged labor group,Female,Divorced,3,Bachelor,Medical,Data Scientist,3,High,3,High,2,Good,19,Gold range,7,Silver range,3,Meet Expectation
+E100832,24,Young labor group,Female,Single,1,Below College,Technical Degree,Sales Representative,1,Low,2,Medium,3,Better,6,Silver range,3,Copper range,3,Meet Expectation
+E100833,34,Main labor group,Female,Divorced,2,College,Marketing,Sales Representative,4,Very High,4,Very High,2,Good,3,Copper range,2,Copper range,3,Meet Expectation
+E100834,38,Main labor group,Male,Married,2,College,Life Sciences,Data Scientist,4,Very High,3,High,3,Better,1,Copper range,0,no exps,4,Exceed Expectation
+E100836,40,Main labor group,Female,Married,4,Master,Life Sciences,Manager,3,High,4,Very High,3,Better,21,Diamond range,15,Gold range,3,Meet Expectation
+E100838,26,Main labor group,Female,Divorced,3,Bachelor,Life Sciences,Senior Developer,1,Low,2,Medium,1,Bad,3,Copper range,2,Copper range,3,Meet Expectation
+E100840,30,Main labor group,Male,Married,3,Bachelor,Life Sciences,Senior Developer,3,High,3,High,1,Bad,9,Silver range,3,Copper range,3,Meet Expectation
+E100842,29,Main labor group,Male,Married,4,Master,Medical,Developer,2,Medium,3,High,3,Better,10,Silver range,2,Copper range,3,Meet Expectation
+E100843,29,Main labor group,Female,Married,5,Doctor,Technical Degree,Developer,3,High,2,Medium,4,Best,6,Silver range,2,Copper range,3,Meet Expectation
+E100844,19,Young labor group,Male,Single,2,College,Technical Degree,Human Resources,1,Low,3,High,4,Best,1,Copper range,0,no exps,3,Meet Expectation
+E100845,30,Main labor group,Female,Married,4,Master,Other,Sales Executive,3,High,3,High,3,Better,10,Silver range,8,Silver range,3,Meet Expectation
+E100846,57,Old labor group,Male,Divorced,3,Bachelor,Marketing,Manager,1,Low,3,High,2,Good,32,Diamond range,0,no exps,3,Meet Expectation
+E100847,50,Middle-aged labor group,Male,Married,4,Master,Life Sciences,Senior Developer,2,Medium,2,Medium,3,Better,28,Diamond range,10,Silver range,3,Meet Expectation
+E100852,47,Middle-aged labor group,Female,Divorced,2,College,Medical,Developer,1,Low,3,High,3,Better,20,Gold range,0,no exps,3,Meet Expectation
+E100853,46,Middle-aged labor group,Male,Married,3,Bachelor,Life Sciences,Senior Developer,1,Low,3,High,1,Bad,26,Diamond range,2,Copper range,3,Meet Expectation
+E100855,35,Main labor group,Male,Single,3,Bachelor,Life Sciences,Developer,4,Very High,3,High,3,Better,6,Silver range,4,Copper range,3,Meet Expectation
+E100856,54,Old labor group,Female,Single,4,Master,Life Sciences,Developer,3,High,3,High,3,Better,19,Gold range,0,no exps,3,Meet Expectation
+E100857,34,Main labor group,Male,Divorced,4,Master,Life Sciences,Senior Developer,4,Very High,3,High,3,Better,14,Gold range,3,Copper range,3,Meet Expectation
+E100858,46,Middle-aged labor group,Female,Married,3,Bachelor,Marketing,Sales Executive,3,High,3,High,3,Better,15,Gold range,2,Copper range,3,Meet Expectation
+E100859,31,Main labor group,Male,Divorced,1,Below College,Life Sciences,Senior Developer,3,High,4,Very High,4,Best,13,Gold range,8,Silver range,3,Meet Expectation
+E100860,33,Main labor group,Male,Married,1,Below College,Medical,Senior Developer,2,Medium,4,Very High,4,Best,15,Gold range,6,Silver range,2,Needs Improvement
+E100862,33,Main labor group,Male,Divorced,1,Below College,Medical,Developer,1,Low,1,Low,3,Better,8,Silver range,3,Copper range,3,Meet Expectation
+E100863,30,Main labor group,Male,Single,1,Below College,Marketing,Sales Representative,4,Very High,1,Low,3,Better,4,Copper range,2,Copper range,3,Meet Expectation
+E100864,35,Main labor group,Male,Married,3,Bachelor,Life Sciences,Senior Developer,4,Very High,3,High,3,Better,10,Silver range,7,Silver range,3,Meet Expectation
+E100865,31,Main labor group,Male,Married,3,Bachelor,Life Sciences,Developer,1,Low,1,Low,3,Better,12,Gold range,0,no exps,3,Meet Expectation
+E100868,34,Main labor group,Female,Divorced,3,Bachelor,Human Resources,Human Resources,2,Medium,3,High,3,Better,11,Gold range,2,Copper range,3,Meet Expectation
+E100869,42,Middle-aged labor group,Male,Married,2,College,Other,Data Scientist,2,Medium,4,Very High,3,Better,8,Silver range,2,Copper range,3,Meet Expectation
+E100870,36,Main labor group,Male,Single,4,Master,Medical,Sales Executive,2,Medium,4,Very High,2,Good,10,Silver range,3,Copper range,2,Needs Improvement
+E100871,22,Young labor group,Male,Single,1,Below College,Technical Degree,Senior Developer,3,High,3,High,3,Better,4,Copper range,2,Copper range,3,Meet Expectation
+E100873,48,Middle-aged labor group,Female,Married,5,Doctor,Marketing,Sales Executive,2,Medium,1,Low,3,Better,14,Gold range,7,Silver range,2,Needs Improvement
+E100875,55,Old labor group,Female,Single,5,Doctor,Life Sciences,Manager,1,Low,4,Very High,3,Better,37,Diamond range,9,Silver range,2,Needs Improvement
+E100877,41,Middle-aged labor group,Male,Single,2,College,Life Sciences,Sales Executive,4,Very High,4,Very High,3,Better,16,Gold range,3,Copper range,3,Meet Expectation
+E100878,35,Main labor group,Male,Married,3,Bachelor,Marketing,Sales Executive,2,Medium,3,High,3,Better,15,Gold range,9,Silver range,2,Needs Improvement
+E100880,39,Main labor group,Female,Married,1,Below College,Life Sciences,Developer,3,High,1,Low,3,Better,8,Silver range,3,Copper range,3,Meet Expectation
+E100882,31,Main labor group,Male,Single,1,Below College,Life Sciences,Sales Executive,2,Medium,3,High,4,Best,10,Silver range,5,Copper range,3,Meet Expectation
+E100883,42,Middle-aged labor group,Male,Married,3,Bachelor,Medical,Developer,4,Very High,4,Very High,2,Good,10,Silver range,9,Silver range,4,Exceed Expectation
+E100884,45,Middle-aged labor group,Male,Married,3,Bachelor,Other,Sales Executive,4,Very High,2,Medium,4,Best,9,Silver range,7,Silver range,3,Meet Expectation
+E100890,33,Main labor group,Female,Divorced,5,Doctor,Medical,Developer,1,Low,3,High,3,Better,10,Silver range,1,Copper range,3,Meet Expectation
+E100891,31,Main labor group,Male,Divorced,3,Bachelor,Life Sciences,Manager,3,High,3,High,2,Good,10,Silver range,4,Copper range,4,Exceed Expectation
+E100892,18,Young labor group,Male,Single,3,Bachelor,Marketing,Sales Representative,2,Medium,4,Very High,3,Better,0,no exps,0,no exps,3,Meet Expectation
+E100893,40,Main labor group,Male,Divorced,3,Bachelor,Other,Sales Executive,3,High,3,High,3,Better,20,Gold range,0,no exps,3,Meet Expectation
+E100894,41,Middle-aged labor group,Female,Single,4,Master,Other,Developer,1,Low,1,Low,3,Better,10,Silver range,7,Silver range,3,Meet Expectation
+E100898,35,Main labor group,Female,Single,3,Bachelor,Medical,Sales Executive,1,Low,4,Very High,3,Better,5,Copper range,4,Copper range,3,Meet Expectation
+E100899,34,Main labor group,Male,Single,4,Master,Life Sciences,Sales Executive,4,Very High,4,Very High,3,Better,10,Silver range,7,Silver range,3,Meet Expectation
+E100900,26,Main labor group,Male,Single,3,Bachelor,Technical Degree,Developer,3,High,2,Medium,1,Bad,1,Copper range,0,no exps,3,Meet Expectation
+E100901,37,Main labor group,Female,Single,3,Bachelor,Technical Degree,Developer,2,Medium,4,Very High,4,Best,12,Gold range,5,Copper range,4,Exceed Expectation
+E100902,46,Middle-aged labor group,Female,Married,1,Below College,Medical,Senior Developer,1,Low,4,Very High,2,Good,28,Diamond range,2,Copper range,2,Needs Improvement
+E100903,41,Middle-aged labor group,Female,Married,5,Doctor,Life Sciences,Manager,2,Medium,2,Medium,3,Better,22,Diamond range,16,Gold range,2,Needs Improvement
+E100908,52,Old labor group,Male,Divorced,2,College,Technical Degree,Developer,4,Very High,2,Medium,3,Better,18,Gold range,9,Silver range,3,Meet Expectation
+E100912,38,Main labor group,Female,Married,3,Bachelor,Medical,Data Scientist,3,High,3,High,3,Better,18,Gold range,0,no exps,3,Meet Expectation
+E100913,37,Main labor group,Female,Married,4,Master,Life Sciences,Developer,2,Medium,2,Medium,2,Good,8,Silver range,5,Copper range,3,Meet Expectation
+E100916,49,Middle-aged labor group,Male,Divorced,4,Master,Life Sciences,Senior Developer,4,Very High,3,High,3,Better,31,Diamond range,9,Silver range,3,Meet Expectation
+E100917,24,Young labor group,Male,Married,3,Bachelor,Medical,Developer,2,Medium,2,Medium,3,Better,6,Silver range,5,Copper range,3,Meet Expectation
+E100919,26,Main labor group,Male,Married,2,College,Marketing,Sales Executive,1,Low,4,Very High,4,Best,6,Silver range,3,Copper range,3,Meet Expectation
+E100921,24,Young labor group,Male,Married,2,College,Other,Developer,4,Very High,4,Very High,3,Better,1,Copper range,0,no exps,4,Exceed Expectation
+E100922,50,Middle-aged labor group,Male,Married,3,Bachelor,Medical,Manager,1,Low,3,High,3,Better,32,Diamond range,5,Copper range,2,Needs Improvement
+E100923,25,Main labor group,Male,Married,1,Below College,Medical,Sales Representative,2,Medium,3,High,3,Better,7,Silver range,4,Copper range,3,Meet Expectation
+E100925,24,Young labor group,Female,Married,3,Bachelor,Life Sciences,Senior Developer,1,Low,4,Very High,3,Better,6,Silver range,3,Copper range,2,Needs Improvement
+E100927,34,Main labor group,Male,Married,2,College,Life Sciences,Developer,2,Medium,4,Very High,3,Better,6,Silver range,5,Copper range,3,Meet Expectation
+E100928,31,Main labor group,Male,Divorced,4,Master,Medical,Sales Executive,2,Medium,3,High,1,Bad,9,Silver range,1,Copper range,3,Meet Expectation
+E100931,31,Main labor group,Male,Divorced,4,Master,Medical,Sales Executive,1,Low,4,Very High,4,Best,13,Gold range,7,Silver range,2,Needs Improvement
+E100933,27,Main labor group,Female,Divorced,4,Master,Medical,Developer,1,Low,3,High,2,Good,6,Silver range,3,Copper range,3,Meet Expectation
+E100934,37,Main labor group,Male,Married,3,Bachelor,Marketing,Sales Executive,4,Very High,3,High,2,Good,17,Gold range,0,no exps,3,Meet Expectation
+E100937,42,Middle-aged labor group,Female,Married,4,Master,Life Sciences,Developer,3,High,2,Medium,3,Better,10,Silver range,2,Copper range,3,Meet Expectation
+E100939,43,Middle-aged labor group,Male,Divorced,4,Master,Other,Developer,2,Medium,3,High,2,Good,21,Diamond range,0,no exps,3,Meet Expectation
+E100940,38,Main labor group,Female,Single,1,Below College,Life Sciences,Developer,3,High,4,Very High,2,Good,8,Silver range,0,no exps,3,Meet Expectation
+E100941,43,Middle-aged labor group,Male,Divorced,5,Doctor,Medical,Senior Developer,4,Very High,2,Medium,3,Better,10,Silver range,7,Silver range,3,Meet Expectation
+E100942,48,Middle-aged labor group,Female,Married,4,Master,Life Sciences,Senior Developer,4,Very High,1,Low,1,Bad,21,Diamond range,2,Copper range,3,Meet Expectation
+E100943,44,Middle-aged labor group,Female,Single,4,Master,Life Sciences,Human Resources,1,Low,2,Medium,4,Best,10,Silver range,2,Copper range,3,Meet Expectation
+E100944,34,Main labor group,Female,Divorced,3,Bachelor,Technical Degree,Sales Representative,3,High,4,Very High,3,Better,8,Silver range,2,Copper range,3,Meet Expectation
+E100945,27,Main labor group,Male,Divorced,1,Below College,Marketing,Sales Representative,3,High,2,Medium,3,Better,5,Copper range,3,Copper range,3,Meet Expectation
+E100947,21,Young labor group,Male,Single,1,Below College,Technical Degree,Sales Representative,3,High,3,High,3,Better,3,Copper range,2,Copper range,3,Meet Expectation
+E100949,44,Middle-aged labor group,Male,Married,4,Master,Other,Senior Developer,4,Very High,1,Low,4,Best,26,Diamond range,2,Copper range,3,Meet Expectation
+E100953,22,Young labor group,Male,Married,1,Below College,Medical,Developer,1,Low,4,Very High,3,Better,3,Copper range,2,Copper range,3,Meet Expectation
+E100957,32,Main labor group,Female,Married,4,Master,Life Sciences,Developer,1,Low,4,Very High,2,Good,6,Silver range,4,Copper range,3,Meet Expectation
+E100958,30,Main labor group,Female,Divorced,3,Bachelor,Medical,Developer,3,High,3,High,3,Better,1,Copper range,0,no exps,4,Exceed Expectation
+E100961,34,Main labor group,Male,Married,5,Doctor,Life Sciences,Senior Developer,2,Medium,4,Very High,2,Good,10,Silver range,9,Silver range,3,Meet Expectation
+E100964,26,Main labor group,Female,Married,3,Bachelor,Life Sciences,Developer,3,High,3,High,3,Better,3,Copper range,2,Copper range,3,Meet Expectation
+E100967,37,Main labor group,Male,Married,3,Bachelor,Other,Developer,3,High,3,High,3,Better,10,Silver range,7,Silver range,3,Meet Expectation
+E100968,29,Main labor group,Female,Married,2,College,Medical,Sales Executive,2,Medium,1,Low,2,Good,6,Silver range,0,no exps,3,Meet Expectation
+E100969,35,Main labor group,Male,Single,4,Master,Life Sciences,Senior Developer,2,Medium,2,Medium,3,Better,17,Gold range,11,Gold range,3,Meet Expectation
+E100976,54,Old labor group,Male,Married,4,Master,Medical,Human Resources,3,High,3,High,4,Best,16,Gold range,7,Silver range,3,Meet Expectation
+E100977,36,Main labor group,Male,Divorced,2,College,Medical,Developer,2,Medium,3,High,3,Better,13,Gold range,2,Copper range,3,Meet Expectation
+E100979,20,Young labor group,Male,Single,1,Below College,Medical,Senior Developer,4,Very High,4,Very High,3,Better,1,Copper range,0,no exps,3,Meet Expectation
+E100980,33,Main labor group,Male,Single,3,Bachelor,Life Sciences,Senior Developer,1,Low,1,Low,3,Better,10,Silver range,8,Silver range,3,Meet Expectation
+E100983,23,Young labor group,Male,Married,3,Bachelor,Medical,Developer,1,Low,1,Low,4,Best,5,Copper range,2,Copper range,4,Exceed Expectation
+E100985,25,Main labor group,Male,Married,3,Bachelor,Life Sciences,Sales Executive,4,Very High,3,High,3,Better,4,Copper range,2,Copper range,4,Exceed Expectation
+E100987,38,Main labor group,Female,Single,4,Master,Marketing,Sales Executive,4,Very High,1,Low,3,Better,8,Silver range,7,Silver range,4,Exceed Expectation
+E100988,29,Main labor group,Male,Divorced,4,Master,Life Sciences,Developer,2,Medium,4,Very High,3,Better,10,Silver range,7,Silver range,3,Meet Expectation
+E100990,48,Middle-aged labor group,Male,Married,1,Below College,Marketing,Sales Executive,2,Medium,4,Very High,3,Better,12,Gold range,2,Copper range,3,Meet Expectation
+E100992,27,Main labor group,Female,Divorced,1,Below College,Medical,Sales Executive,4,Very High,2,Medium,3,Better,6,Silver range,5,Copper range,4,Exceed Expectation
+E100993,37,Main labor group,Male,Single,2,College,Life Sciences,Senior Developer,4,Very High,1,Low,3,Better,4,Copper range,0,no exps,3,Meet Expectation
+E100994,50,Middle-aged labor group,Male,Married,1,Below College,Medical,Senior Developer,4,Very High,3,High,3,Better,20,Gold range,8,Silver range,3,Meet Expectation
+E100995,34,Main labor group,Female,Single,3,Bachelor,Medical,Data Scientist,4,Very High,2,Medium,4,Best,9,Silver range,7,Silver range,3,Meet Expectation
+E100998,24,Young labor group,Female,Single,2,College,Life Sciences,Sales Executive,1,Low,1,Low,3,Better,4,Copper range,2,Copper range,2,Needs Improvement
